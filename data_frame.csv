@@ -1,0 +1,25 @@
+,nome,filtro,minucias
+0,f0001_01[TOZI].png.min,Thresh to Zero Invert,270
+1,f0001_01[TRUC].png.min,Trunc,130
+2,f0003_10[TRUC].png.min,Trunc,116
+3,f0002_05[BINV].png.min,Binary Invert,119
+4,f0004_05[TZER].png.min,Thresh to Zero,91
+5,f0002_05.png.min,Normal,129
+6,f0004_05[BINV].png.min,Binary Invert,90
+7,f0001_01.png.min,Normal,137
+8,f0001_01[TZER].png.min,Thresh to Zero,121
+9,f0004_05[TOZI].png.min,Thresh to Zero Invert,83
+10,f0003_10[TZER].png.min,Thresh to Zero,7
+11,f0003_10[BINA].png.min,Binary,6
+12,f0004_05[TRUC].png.min,Trunc,33
+13,f0003_10.png.min,Normal,117
+14,f0001_01[BINA].png.min,Binary,126
+15,f0003_10[BINV].png.min,Binary Invert,6
+16,f0002_05[TZER].png.min,Thresh to Zero,138
+17,f0004_05.png.min,Normal,89
+18,f0002_05[TOZI].png.min,Thresh to Zero Invert,132
+19,f0003_10[TOZI].png.min,Thresh to Zero Invert,134
+20,f0001_01[BINV].png.min,Binary Invert,123
+21,f0002_05[TRUC].png.min,Trunc,67
+22,f0004_05[BINA].png.min,Binary,94
+23,f0002_05[BINA].png.min,Binary,108
