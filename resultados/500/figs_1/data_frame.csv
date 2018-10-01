@@ -1,0 +1,3001 @@
+,nome,filtro,minucias,nfiq,nfiq2
+0,s0377_04[TRUC].png.min,Trunc,138,2,49
+1,s0263_05.png.min,No Filter,129,3,28
+2,f0379_06[TRUC].png.min,Trunc,29,3,7
+3,f0398_03[BINV].png.min,Binary Invert,45,2,45
+4,s0477_04[BINA].png.min,Binary,88,5,15
+5,f0372_07[TRUC].png.min,Trunc,86,3,36
+6,s0374_04[BINV].png.min,Binary Invert,42,4,20
+7,s0486_10[TRUC].png.min,Trunc,107,4,19
+8,f0450_10[BINV].png.min,Binary Invert,131,3,24
+9,f0425_07[TZER].png.min,Thresh to Zero,84,3,43
+10,f0310_05[TOZI].png.min,Thresh to Zero Invert,178,1,46
+11,s0401_08.png.min,No Filter,137,4,7
+12,f0459_05[BINV].png.min,Binary Invert,21,3,35
+13,s0481_07[TZER].png.min,Thresh to Zero,55,3,38
+14,s0319_06[TRUC].png.min,Trunc,91,2,38
+15,s0362_05[BINA].png.min,Binary,35,1,52
+16,f0394_07[BINA].png.min,Binary,77,2,45
+17,f0426_04[TOZI].png.min,Thresh to Zero Invert,136,1,45
+18,f0409_05.png.min,No Filter,193,4,33
+19,f0392_07[TOZI].png.min,Thresh to Zero Invert,255,3,26
+20,s0468_02.png.min,No Filter,129,3,36
+21,s0301_02.png.min,No Filter,140,2,37
+22,s0354_05[TZER].png.min,Thresh to Zero,186,5,17
+23,s0437_04[TZER].png.min,Thresh to Zero,122,2,38
+24,f0323_09.png.min,No Filter,115,1,47
+25,s0354_05[BINA].png.min,Binary,164,2,46
+26,s0275_02[BINA].png.min,Binary,36,3,38
+27,f0314_04[TOZI].png.min,Thresh to Zero Invert,186,2,51
+28,s0435_10[TOZI].png.min,Thresh to Zero Invert,168,2,49
+29,f0317_05[BINA].png.min,Binary,76,3,49
+30,s0268_09[TRUC].png.min,Trunc,144,1,54
+31,f0270_01[BINV].png.min,Binary Invert,50,5,4
+32,s0267_07.png.min,No Filter,107,5,18
+33,f0413_01[BINV].png.min,Binary Invert,64,1,43
+34,s0418_02[BINV].png.min,Binary Invert,104,3,48
+35,f0481_07.png.min,No Filter,137,3,35
+36,f0453_08[TOZI].png.min,Thresh to Zero Invert,228,2,55
+37,f0437_04[TRUC].png.min,Trunc,146,3,46
+38,f0288_01[BINV].png.min,Binary Invert,56,4,11
+39,f0287_07[BINV].png.min,Binary Invert,153,1,50
+40,f0488_10[TZER].png.min,Thresh to Zero,91,3,21
+41,f0424_03[TOZI].png.min,Thresh to Zero Invert,138,2,34
+42,f0458_07[BINV].png.min,Binary Invert,90,2,50
+43,s0466_10[BINA].png.min,Binary,34,3,22
+44,f0300_08.png.min,No Filter,171,2,19
+45,s0485_06[TOZI].png.min,Thresh to Zero Invert,354,5,10
+46,s0313_08.png.min,No Filter,157,3,18
+47,s0261_01.png.min,No Filter,128,1,17
+48,s0483_01.png.min,No Filter,69,1,44
+49,s0285_08[BINA].png.min,Binary,32,4,18
+50,s0309_05[TRUC].png.min,Trunc,88,2,22
+51,f0445_01[BINA].png.min,Binary,38,2,33
+52,f0423_02[BINV].png.min,Binary Invert,83,1,49
+53,s0312_08[TRUC].png.min,Trunc,86,3,9
+54,f0326_07[TZER].png.min,Thresh to Zero,121,4,38
+55,s0328_09[BINV].png.min,Binary Invert,27,3,34
+56,s0278_03.png.min,No Filter,173,2,13
+57,f0304_08.png.min,No Filter,125,2,40
+58,s0277_05[BINA].png.min,Binary,132,3,47
+59,f0447_01[TOZI].png.min,Thresh to Zero Invert,318,3,22
+60,s0291_03[TOZI].png.min,Thresh to Zero Invert,198,2,29
+61,s0270_01.png.min,No Filter,220,2,31
+62,f0395_08[BINV].png.min,Binary Invert,130,2,53
+63,f0293_01.png.min,No Filter,142,2,48
+64,f0424_03[TZER].png.min,Thresh to Zero,7,3,39
+65,f0345_05.png.min,No Filter,176,1,51
+66,s0330_08[TZER].png.min,Thresh to Zero,189,4,22
+67,f0305_01[TRUC].png.min,Trunc,121,3,6
+68,f0267_07[TRUC].png.min,Trunc,105,4,18
+69,f0254_08[TZER].png.min,Thresh to Zero,132,5,1
+70,f0435_10[BINA].png.min,Binary,34,3,25
+71,f0400_02[BINV].png.min,Binary Invert,23,2,35
+72,f0311_03.png.min,No Filter,90,2,37
+73,f0492_02.png.min,No Filter,106,3,55
+74,s0500_02[BINV].png.min,Binary Invert,98,5,11
+75,s0460_04[TOZI].png.min,Thresh to Zero Invert,315,3,43
+76,s0331_05[TRUC].png.min,Trunc,132,3,24
+77,s0334_02[TOZI].png.min,Thresh to Zero Invert,320,1,50
+78,f0367_08.png.min,No Filter,97,3,30
+79,f0409_05[TRUC].png.min,Trunc,83,3,35
+80,s0402_01[TRUC].png.min,Trunc,82,2,39
+81,f0397_06.png.min,No Filter,73,5,15
+82,f0480_04[BINA].png.min,Binary,78,3,30
+83,f0294_06[BINA].png.min,Binary,99,3,39
+84,f0407_09[TRUC].png.min,Trunc,98,1,49
+85,s0265_04[BINV].png.min,Binary Invert,68,2,38
+86,f0450_10.png.min,No Filter,168,2,49
+87,f0269_01[BINV].png.min,Binary Invert,159,2,51
+88,s0459_05[TRUC].png.min,Trunc,143,3,9
+89,f0331_05[BINV].png.min,Binary Invert,91,4,20
+90,f0430_10[TOZI].png.min,Thresh to Zero Invert,191,3,27
+91,s0322_06[TOZI].png.min,Thresh to Zero Invert,225,4,27
+92,s0396_09[TOZI].png.min,Thresh to Zero Invert,152,1,39
+93,f0346_09[BINA].png.min,Binary,27,3,51
+94,f0473_01.png.min,No Filter,219,5,6
+95,f0427_06[TRUC].png.min,Trunc,139,5,15
+96,f0455_04[BINA].png.min,Binary,32,1,55
+97,f0386_02[TOZI].png.min,Thresh to Zero Invert,279,3,36
+98,s0323_09[TOZI].png.min,Thresh to Zero Invert,308,5,14
+99,f0437_04[TZER].png.min,Thresh to Zero,132,1,45
+100,f0260_02[BINA].png.min,Binary,84,2,47
+101,s0283_02[TRUC].png.min,Trunc,120,4,10
+102,s0310_05[BINV].png.min,Binary Invert,13,2,53
+103,s0287_07[TRUC].png.min,Trunc,163,3,24
+104,f0255_05[BINA].png.min,Binary,68,4,29
+105,s0311_03[TOZI].png.min,Thresh to Zero Invert,216,2,34
+106,s0318_05[BINA].png.min,Binary,36,2,14
+107,f0279_06[TZER].png.min,Thresh to Zero,95,2,22
+108,f0347_02[TZER].png.min,Thresh to Zero,83,4,37
+109,f0498_05.png.min,No Filter,114,1,48
+110,s0430_10[TZER].png.min,Thresh to Zero,98,4,33
+111,s0435_10.png.min,No Filter,180,1,43
+112,s0298_06.png.min,No Filter,130,4,23
+113,f0375_02[BINV].png.min,Binary Invert,120,3,34
+114,s0298_06[BINV].png.min,Binary Invert,93,3,55
+115,f0425_07.png.min,No Filter,84,2,45
+116,s0489_04[BINV].png.min,Binary Invert,109,2,50
+117,s0316_03.png.min,No Filter,128,4,19
+118,f0292_04.png.min,No Filter,146,2,53
+119,s0260_02[BINV].png.min,Binary Invert,74,3,23
+120,f0354_05.png.min,No Filter,156,2,56
+121,f0330_08[TOZI].png.min,Thresh to Zero Invert,150,3,8
+122,s0261_01[TZER].png.min,Thresh to Zero,96,3,41
+123,s0404_08[TOZI].png.min,Thresh to Zero Invert,237,2,44
+124,s0488_10[BINV].png.min,Binary Invert,44,4,21
+125,s0482_08.png.min,No Filter,114,2,42
+126,s0262_05[BINV].png.min,Binary Invert,86,3,23
+127,f0267_07.png.min,No Filter,139,1,36
+128,f0299_06.png.min,No Filter,136,3,49
+129,s0269_01[TZER].png.min,Thresh to Zero,2,5,3
+130,f0401_08[BINA].png.min,Binary,81,5,11
+131,s0430_10[BINA].png.min,Binary,88,5,3
+132,f0455_04.png.min,No Filter,107,2,56
+133,f0373_09[TOZI].png.min,Thresh to Zero Invert,116,5,6
+134,f0398_03[TZER].png.min,Thresh to Zero,40,3,32
+135,f0491_05[TOZI].png.min,Thresh to Zero Invert,225,4,21
+136,f0329_09[BINA].png.min,Binary,112,3,33
+137,s0464_06.png.min,No Filter,134,5,14
+138,s0376_01[TOZI].png.min,Thresh to Zero Invert,257,2,56
+139,s0364_03[TOZI].png.min,Thresh to Zero Invert,237,2,15
+140,f0340_03[TRUC].png.min,Trunc,204,2,24
+141,s0431_05[TOZI].png.min,Thresh to Zero Invert,170,3,37
+142,f0343_09[TOZI].png.min,Thresh to Zero Invert,133,2,24
+143,f0446_01[BINV].png.min,Binary Invert,139,2,45
+144,s0357_07[TOZI].png.min,Thresh to Zero Invert,270,5,18
+145,f0322_06[BINV].png.min,Binary Invert,103,3,27
+146,s0351_08[BINA].png.min,Binary,38,2,50
+147,s0305_01[BINA].png.min,Binary,84,2,43
+148,f0391_01[BINA].png.min,Binary,110,2,44
+149,s0323_09.png.min,No Filter,135,2,45
+150,s0279_06[TRUC].png.min,Trunc,163,4,26
+151,s0256_03[TRUC].png.min,Trunc,99,1,49
+152,s0468_02[BINV].png.min,Binary Invert,30,4,27
+153,f0376_01.png.min,No Filter,168,2,4
+154,f0465_08[BINA].png.min,Binary,114,3,14
+155,f0496_03.png.min,No Filter,120,1,39
+156,f0326_07[TOZI].png.min,Thresh to Zero Invert,208,1,55
+157,f0339_05[TOZI].png.min,Thresh to Zero Invert,190,1,54
+158,s0385_07[TZER].png.min,Thresh to Zero,51,3,20
+159,s0305_01[TRUC].png.min,Trunc,108,2,34
+160,f0340_03[BINV].png.min,Binary Invert,105,3,15
+161,s0276_09[TRUC].png.min,Trunc,133,3,26
+162,f0431_05[BINV].png.min,Binary Invert,71,2,46
+163,s0484_05[TOZI].png.min,Thresh to Zero Invert,180,5,13
+164,f0353_03[BINV].png.min,Binary Invert,56,1,51
+165,s0474_06[BINA].png.min,Binary,48,5,14
+166,s0304_08[TZER].png.min,Thresh to Zero,77,1,52
+167,f0253_08[TRUC].png.min,Trunc,76,5,14
+168,f0331_05[BINA].png.min,Binary,65,3,32
+169,s0256_03[BINV].png.min,Binary Invert,75,1,44
+170,s0345_05[BINA].png.min,Binary,48,3,20
+171,s0345_05[TZER].png.min,Thresh to Zero,206,3,30
+172,s0388_06[BINV].png.min,Binary Invert,135,2,42
+173,s0327_08[TZER].png.min,Thresh to Zero,75,4,13
+174,f0321_05[BINV].png.min,Binary Invert,72,3,25
+175,f0437_04[BINA].png.min,Binary,132,2,38
+176,s0338_04[TOZI].png.min,Thresh to Zero Invert,188,5,22
+177,s0476_09[TZER].png.min,Thresh to Zero,81,1,54
+178,s0388_06[TZER].png.min,Thresh to Zero,119,4,26
+179,f0474_06[TZER].png.min,Thresh to Zero,178,3,51
+180,f0388_06[BINV].png.min,Binary Invert,92,3,43
+181,f0309_05[TRUC].png.min,Trunc,45,4,17
+182,f0316_03.png.min,No Filter,118,1,49
+183,s0491_05[TRUC].png.min,Trunc,93,1,45
+184,f0265_04.png.min,No Filter,142,3,22
+185,s0430_10[BINV].png.min,Binary Invert,81,3,37
+186,f0495_05[BINV].png.min,Binary Invert,68,5,15
+187,f0435_10[TZER].png.min,Thresh to Zero,42,5,5
+188,f0357_07.png.min,No Filter,175,5,4
+189,s0263_05[BINA].png.min,Binary,52,3,15
+190,f0370_02[BINV].png.min,Binary Invert,42,3,23
+191,s0286_02[TOZI].png.min,Thresh to Zero Invert,278,3,35
+192,f0497_05[BINA].png.min,Binary,76,4,12
+193,s0410_06[TRUC].png.min,Trunc,138,2,20
+194,f0350_07[BINV].png.min,Binary Invert,104,1,44
+195,f0285_08[BINV].png.min,Binary Invert,10,2,46
+196,s0488_10[TOZI].png.min,Thresh to Zero Invert,166,5,11
+197,f0344_06[TRUC].png.min,Trunc,120,2,24
+198,f0372_07[BINV].png.min,Binary Invert,92,3,17
+199,s0387_04.png.min,No Filter,159,5,20
+200,f0411_05[TRUC].png.min,Trunc,90,5,14
+201,s0391_01[BINA].png.min,Binary,90,3,18
+202,s0365_07[BINA].png.min,Binary,87,3,23
+203,s0477_04.png.min,No Filter,109,3,14
+204,s0336_02.png.min,No Filter,139,2,41
+205,s0470_01[TRUC].png.min,Trunc,118,2,48
+206,f0299_06[TZER].png.min,Thresh to Zero,142,5,14
+207,s0471_01[TOZI].png.min,Thresh to Zero Invert,290,3,29
+208,f0344_06[TZER].png.min,Thresh to Zero,52,2,20
+209,s0424_03[BINV].png.min,Binary Invert,61,5,24
+210,s0382_01[TRUC].png.min,Trunc,43,3,38
+211,s0483_01[TRUC].png.min,Trunc,5,2,20
+212,s0447_01[TRUC].png.min,Trunc,112,3,48
+213,f0488_10[TOZI].png.min,Thresh to Zero Invert,94,2,44
+214,s0253_08[BINA].png.min,Binary,76,4,23
+215,f0445_01[TRUC].png.min,Trunc,106,4,25
+216,s0313_08[BINV].png.min,Binary Invert,65,3,46
+217,s0387_04[TRUC].png.min,Trunc,186,2,56
+218,s0359_03[BINA].png.min,Binary,77,3,32
+219,f0385_07[TZER].png.min,Thresh to Zero,119,2,44
+220,s0349_09[TOZI].png.min,Thresh to Zero Invert,198,3,19
+221,s0348_08[TRUC].png.min,Trunc,133,5,10
+222,s0444_03[TZER].png.min,Thresh to Zero,81,2,44
+223,f0404_08[TOZI].png.min,Thresh to Zero Invert,230,5,3
+224,s0395_08[TZER].png.min,Thresh to Zero,35,2,39
+225,f0263_05.png.min,No Filter,110,2,39
+226,s0493_01[TRUC].png.min,Trunc,130,2,13
+227,f0423_02.png.min,No Filter,143,2,49
+228,s0462_05[TOZI].png.min,Thresh to Zero Invert,209,2,39
+229,f0352_09[TOZI].png.min,Thresh to Zero Invert,248,5,24
+230,f0308_09[TZER].png.min,Thresh to Zero,34,2,51
+231,s0318_05[TZER].png.min,Thresh to Zero,43,2,31
+232,f0312_08[BINA].png.min,Binary,150,1,49
+233,s0297_01.png.min,No Filter,213,1,43
+234,s0452_06[TRUC].png.min,Trunc,58,2,45
+235,f0456_06[TRUC].png.min,Trunc,13,3,50
+236,f0268_09[TRUC].png.min,Trunc,126,3,19
+237,f0466_10[TZER].png.min,Thresh to Zero,32,2,50
+238,s0437_04[BINV].png.min,Binary Invert,100,3,29
+239,s0482_08[TZER].png.min,Thresh to Zero,98,2,50
+240,s0310_05.png.min,No Filter,144,1,51
+241,s0342_10[TZER].png.min,Thresh to Zero,81,2,28
+242,f0432_06[BINV].png.min,Binary Invert,135,2,23
+243,s0468_02[TRUC].png.min,Trunc,137,2,44
+244,s0298_06[TOZI].png.min,Thresh to Zero Invert,256,3,16
+245,f0342_10[BINA].png.min,Binary,41,4,24
+246,s0448_03[BINV].png.min,Binary Invert,68,3,39
+247,s0282_03[BINV].png.min,Binary Invert,101,5,16
+248,f0475_03[BINV].png.min,Binary Invert,70,2,47
+249,f0258_04[TOZI].png.min,Thresh to Zero Invert,208,1,46
+250,f0419_08[TZER].png.min,Thresh to Zero,93,4,25
+251,s0410_06.png.min,No Filter,135,2,53
+252,s0481_07[BINV].png.min,Binary Invert,84,1,57
+253,s0450_10.png.min,No Filter,122,3,15
+254,s0257_07[TOZI].png.min,Thresh to Zero Invert,261,2,46
+255,s0469_07[BINA].png.min,Binary,67,4,18
+256,f0464_06.png.min,No Filter,139,1,10
+257,s0352_09[TZER].png.min,Thresh to Zero,21,4,12
+258,s0262_05[TOZI].png.min,Thresh to Zero Invert,179,1,40
+259,s0459_05[BINV].png.min,Binary Invert,50,1,49
+260,f0310_05[BINV].png.min,Binary Invert,8,4,22
+261,s0329_09[BINV].png.min,Binary Invert,70,2,34
+262,f0374_04.png.min,No Filter,78,2,39
+263,s0324_04[TZER].png.min,Thresh to Zero,129,1,63
+264,s0362_05[TRUC].png.min,Trunc,121,1,45
+265,f0330_08[BINA].png.min,Binary,128,3,16
+266,f0500_02[TZER].png.min,Thresh to Zero,36,4,14
+267,s0311_03[BINV].png.min,Binary Invert,122,2,44
+268,f0391_01[BINV].png.min,Binary Invert,110,1,33
+269,f0497_05[TOZI].png.min,Thresh to Zero Invert,230,5,4
+270,f0319_06[TOZI].png.min,Thresh to Zero Invert,242,3,24
+271,s0387_04[TZER].png.min,Thresh to Zero,134,3,18
+272,s0282_03[TOZI].png.min,Thresh to Zero Invert,101,2,45
+273,f0334_02[TZER].png.min,Thresh to Zero,65,3,44
+274,s0370_02[TRUC].png.min,Trunc,145,3,43
+275,f0325_06[TRUC].png.min,Trunc,92,4,16
+276,f0274_05.png.min,No Filter,141,1,53
+277,f0420_09[BINV].png.min,Binary Invert,130,2,26
+278,s0340_03[BINV].png.min,Binary Invert,141,1,49
+279,f0442_04[BINA].png.min,Binary,131,2,42
+280,f0328_09[BINA].png.min,Binary,11,2,25
+281,f0422_07[BINV].png.min,Binary Invert,118,3,32
+282,f0258_04[BINV].png.min,Binary Invert,103,3,21
+283,s0447_01[BINV].png.min,Binary Invert,143,2,44
+284,s0497_05[TOZI].png.min,Thresh to Zero Invert,170,2,29
+285,s0288_01[BINA].png.min,Binary,84,1,48
+286,s0405_02[TOZI].png.min,Thresh to Zero Invert,234,5,11
+287,f0474_06[BINV].png.min,Binary Invert,89,1,36
+288,f0396_09[BINV].png.min,Binary Invert,85,3,30
+289,f0446_01[TZER].png.min,Thresh to Zero,116,3,5
+290,f0330_08[BINV].png.min,Binary Invert,114,1,55
+291,s0414_01[TRUC].png.min,Trunc,140,2,37
+292,s0325_06.png.min,No Filter,96,2,38
+293,s0328_09[TOZI].png.min,Thresh to Zero Invert,277,1,49
+294,s0479_07[TOZI].png.min,Thresh to Zero Invert,241,1,51
+295,s0262_05[TRUC].png.min,Trunc,69,2,50
+296,s0352_09[TOZI].png.min,Thresh to Zero Invert,239,2,49
+297,f0358_09[BINA].png.min,Binary,137,4,32
+298,f0372_07.png.min,No Filter,104,3,19
+299,f0292_04[TRUC].png.min,Trunc,123,2,30
+300,s0359_03.png.min,No Filter,186,2,40
+301,s0330_08[TRUC].png.min,Trunc,222,2,42
+302,f0391_01.png.min,No Filter,104,5,30
+303,f0307_05[TRUC].png.min,Trunc,76,2,52
+304,s0465_08[TRUC].png.min,Trunc,16,4,20
+305,f0482_08[BINV].png.min,Binary Invert,105,2,52
+306,s0302_01[TRUC].png.min,Trunc,34,4,11
+307,f0347_02[TOZI].png.min,Thresh to Zero Invert,199,4,12
+308,s0324_04.png.min,No Filter,120,2,36
+309,f0382_01[BINV].png.min,Binary Invert,91,4,15
+310,s0489_04[TRUC].png.min,Trunc,135,3,13
+311,f0251_05.png.min,No Filter,119,1,47
+312,s0307_05[TZER].png.min,Thresh to Zero,70,1,46
+313,f0452_06[TZER].png.min,Thresh to Zero,152,1,41
+314,f0412_07.png.min,No Filter,177,2,21
+315,s0386_02[BINA].png.min,Binary,17,3,24
+316,f0293_01[BINV].png.min,Binary Invert,88,3,16
+317,f0363_10[TOZI].png.min,Thresh to Zero Invert,144,4,18
+318,s0418_02[TRUC].png.min,Trunc,93,2,45
+319,s0415_04[BINV].png.min,Binary Invert,78,5,4
+320,f0454_04[TZER].png.min,Thresh to Zero,126,2,37
+321,s0369_04[BINA].png.min,Binary,70,1,47
+322,s0277_05[TOZI].png.min,Thresh to Zero Invert,176,1,41
+323,f0252_01[BINA].png.min,Binary,61,3,31
+324,f0376_01[BINV].png.min,Binary Invert,131,2,38
+325,s0279_06[BINV].png.min,Binary Invert,26,3,40
+326,f0473_01[TZER].png.min,Thresh to Zero,142,1,45
+327,s0252_01[TRUC].png.min,Trunc,112,1,39
+328,f0280_02[TOZI].png.min,Thresh to Zero Invert,159,2,33
+329,f0406_04[BINA].png.min,Binary,101,3,35
+330,s0440_08[BINV].png.min,Binary Invert,46,4,9
+331,f0254_08[BINV].png.min,Binary Invert,142,5,3
+332,f0304_08[BINA].png.min,Binary,69,2,43
+333,f0443_06[BINV].png.min,Binary Invert,86,1,52
+334,s0314_04[TOZI].png.min,Thresh to Zero Invert,91,4,6
+335,s0378_05[BINV].png.min,Binary Invert,67,2,24
+336,f0285_08[BINA].png.min,Binary,17,4,28
+337,f0313_08[BINA].png.min,Binary,111,2,49
+338,f0274_05[TRUC].png.min,Trunc,105,3,16
+339,f0337_08[TZER].png.min,Thresh to Zero,66,2,21
+340,f0281_04[TOZI].png.min,Thresh to Zero Invert,244,4,22
+341,f0310_05.png.min,No Filter,146,3,32
+342,f0487_02[BINV].png.min,Binary Invert,148,1,58
+343,s0437_04[TRUC].png.min,Trunc,109,1,54
+344,f0420_09.png.min,No Filter,128,2,21
+345,s0364_03.png.min,No Filter,99,3,11
+346,s0314_04[TZER].png.min,Thresh to Zero,79,2,49
+347,f0320_10[BINV].png.min,Binary Invert,65,2,45
+348,s0464_06[BINV].png.min,Binary Invert,141,3,32
+349,s0406_04[BINA].png.min,Binary,40,2,23
+350,f0497_05[TZER].png.min,Thresh to Zero,73,5,19
+351,s0407_09[TZER].png.min,Thresh to Zero,52,1,46
+352,s0347_02[TOZI].png.min,Thresh to Zero Invert,247,5,15
+353,f0376_01[TOZI].png.min,Thresh to Zero Invert,277,3,24
+354,s0413_01.png.min,No Filter,171,4,30
+355,f0495_05[TOZI].png.min,Thresh to Zero Invert,200,5,29
+356,s0495_05[TRUC].png.min,Trunc,179,3,8
+357,f0443_06[TOZI].png.min,Thresh to Zero Invert,283,5,6
+358,f0370_02.png.min,No Filter,76,3,47
+359,f0388_06[TRUC].png.min,Trunc,143,2,47
+360,s0439_02[TOZI].png.min,Thresh to Zero Invert,294,2,45
+361,f0357_07[TRUC].png.min,Trunc,43,4,13
+362,f0409_05[TZER].png.min,Thresh to Zero,139,4,15
+363,f0408_01.png.min,No Filter,120,2,42
+364,f0436_09[TZER].png.min,Thresh to Zero,203,4,42
+365,f0385_07[BINA].png.min,Binary,107,3,23
+366,f0326_07[BINA].png.min,Binary,94,3,2
+367,s0399_02[TOZI].png.min,Thresh to Zero Invert,191,3,50
+368,s0394_07[BINA].png.min,Binary,79,3,34
+369,f0260_02[TOZI].png.min,Thresh to Zero Invert,231,4,19
+370,f0482_08.png.min,No Filter,143,2,52
+371,s0396_09[BINA].png.min,Binary,16,3,30
+372,s0299_06[TZER].png.min,Thresh to Zero,124,2,49
+373,s0297_01[BINV].png.min,Binary Invert,145,3,24
+374,f0347_02[BINV].png.min,Binary Invert,86,3,26
+375,s0381_01.png.min,No Filter,98,2,50
+376,f0443_06[BINA].png.min,Binary,85,3,255
+377,s0376_01[TRUC].png.min,Trunc,208,3,0
+378,f0402_01[TRUC].png.min,Trunc,84,3,34
+379,s0386_02.png.min,No Filter,166,2,14
+380,f0489_04[BINV].png.min,Binary Invert,96,2,40
+381,s0390_09.png.min,No Filter,136,3,38
+382,s0472_07[BINV].png.min,Binary Invert,110,1,47
+383,f0496_03[BINA].png.min,Binary,81,4,9
+384,f0465_08[BINV].png.min,Binary Invert,121,3,31
+385,s0292_04[BINV].png.min,Binary Invert,44,3,42
+386,s0398_03[TOZI].png.min,Thresh to Zero Invert,261,2,54
+387,f0297_01.png.min,No Filter,162,3,18
+388,f0255_05.png.min,No Filter,167,5,19
+389,f0496_03[TOZI].png.min,Thresh to Zero Invert,175,2,37
+390,s0288_01[BINV].png.min,Binary Invert,89,5,19
+391,s0487_02.png.min,No Filter,157,1,45
+392,f0325_06[TOZI].png.min,Thresh to Zero Invert,217,5,12
+393,f0433_03.png.min,No Filter,167,1,42
+394,f0257_07.png.min,No Filter,138,1,51
+395,f0295_07[BINA].png.min,Binary,75,4,14
+396,f0367_08[TZER].png.min,Thresh to Zero,93,2,41
+397,s0500_02.png.min,No Filter,128,3,44
+398,f0309_05[TZER].png.min,Thresh to Zero,105,4,20
+399,f0398_03[TOZI].png.min,Thresh to Zero Invert,267,1,50
+400,f0280_02[TRUC].png.min,Trunc,87,2,35
+401,f0493_01[TOZI].png.min,Thresh to Zero Invert,211,2,35
+402,s0390_09[BINV].png.min,Binary Invert,63,4,13
+403,f0266_04[TOZI].png.min,Thresh to Zero Invert,226,2,52
+404,s0282_03.png.min,No Filter,119,2,46
+405,f0259_10[BINA].png.min,Binary,64,3,34
+406,f0475_03[TOZI].png.min,Thresh to Zero Invert,105,1,43
+407,f0461_03[BINV].png.min,Binary Invert,96,1,39
+408,f0325_06.png.min,No Filter,109,5,11
+409,s0424_03[TZER].png.min,Thresh to Zero,62,2,38
+410,s0251_05[TRUC].png.min,Trunc,118,2,50
+411,s0309_05[BINV].png.min,Binary Invert,102,3,36
+412,f0387_04.png.min,No Filter,125,4,34
+413,s0365_07[TOZI].png.min,Thresh to Zero Invert,261,1,38
+414,f0266_04[BINA].png.min,Binary,20,4,36
+415,s0254_08[BINA].png.min,Binary,118,2,45
+416,f0416_06[TZER].png.min,Thresh to Zero,88,4,2
+417,f0289_01[BINA].png.min,Binary,138,2,47
+418,f0297_01[TZER].png.min,Thresh to Zero,107,2,45
+419,s0406_04[TRUC].png.min,Trunc,174,2,52
+420,s0367_08[TOZI].png.min,Thresh to Zero Invert,179,4,11
+421,f0402_01[TZER].png.min,Thresh to Zero,83,3,24
+422,s0339_05[TZER].png.min,Thresh to Zero,45,1,47
+423,s0317_05[TZER].png.min,Thresh to Zero,44,3,29
+424,f0361_06[TOZI].png.min,Thresh to Zero Invert,266,3,38
+425,s0273_09[BINA].png.min,Binary,9,3,22
+426,s0487_02[TZER].png.min,Thresh to Zero,143,2,20
+427,f0437_04[BINV].png.min,Binary Invert,125,3,30
+428,f0344_06[BINV].png.min,Binary Invert,56,5,18
+429,s0304_08[BINV].png.min,Binary Invert,90,1,39
+430,f0328_09[TZER].png.min,Thresh to Zero,9,3,30
+431,f0282_03[BINA].png.min,Binary,74,1,47
+432,s0311_03[BINA].png.min,Binary,130,5,3
+433,s0356_02[TOZI].png.min,Thresh to Zero Invert,245,2,15
+434,s0454_04[TOZI].png.min,Thresh to Zero Invert,230,4,30
+435,s0495_05[TOZI].png.min,Thresh to Zero Invert,191,5,25
+436,f0489_04.png.min,No Filter,202,3,26
+437,f0492_02[BINA].png.min,Binary,103,4,9
+438,f0357_07[TZER].png.min,Thresh to Zero,103,3,19
+439,s0453_08[TZER].png.min,Thresh to Zero,121,2,49
+440,f0311_03[TRUC].png.min,Trunc,89,4,4
+441,s0257_07[BINA].png.min,Binary,48,1,42
+442,s0450_10[BINA].png.min,Binary,112,3,31
+443,f0301_02[TOZI].png.min,Thresh to Zero Invert,222,5,18
+444,s0450_10[TOZI].png.min,Thresh to Zero Invert,136,2,42
+445,s0456_06[TZER].png.min,Thresh to Zero,130,4,6
+446,s0358_09[TOZI].png.min,Thresh to Zero Invert,187,1,53
+447,f0412_07[TZER].png.min,Thresh to Zero,150,2,34
+448,f0326_07[TRUC].png.min,Trunc,66,1,41
+449,f0358_09.png.min,No Filter,143,5,18
+450,f0404_08[BINA].png.min,Binary,98,1,51
+451,f0408_01[TRUC].png.min,Trunc,118,3,17
+452,f0483_01[TRUC].png.min,Trunc,187,2,30
+453,f0322_06[TRUC].png.min,Trunc,121,2,32
+454,f0317_05[TRUC].png.min,Trunc,101,1,53
+455,f0303_03[TRUC].png.min,Trunc,129,5,9
+456,s0335_06[TZER].png.min,Thresh to Zero,100,3,31
+457,f0406_04[TOZI].png.min,Thresh to Zero Invert,168,1,49
+458,s0488_10[TZER].png.min,Thresh to Zero,44,1,28
+459,f0480_04[BINV].png.min,Binary Invert,84,2,42
+460,s0288_01[TOZI].png.min,Thresh to Zero Invert,137,3,25
+461,s0293_01[BINA].png.min,Binary,60,4,9
+462,f0336_02[BINV].png.min,Binary Invert,77,2,45
+463,f0304_08[BINV].png.min,Binary Invert,77,2,42
+464,f0314_04[TRUC].png.min,Trunc,80,5,8
+465,s0299_06[BINA].png.min,Binary,140,3,23
+466,s0291_03[TRUC].png.min,Trunc,113,2,29
+467,f0403_07[TRUC].png.min,Trunc,103,1,51
+468,f0476_09[TRUC].png.min,Trunc,92,4,14
+469,s0341_03[BINA].png.min,Binary,100,3,44
+470,s0428_09[BINA].png.min,Binary,117,4,13
+471,s0264_01[BINA].png.min,Binary,88,2,9
+472,f0338_04[TRUC].png.min,Trunc,141,2,51
+473,s0311_03.png.min,No Filter,129,1,51
+474,f0279_06[TOZI].png.min,Thresh to Zero Invert,238,5,10
+475,s0290_02.png.min,No Filter,151,5,15
+476,s0385_07[BINV].png.min,Binary Invert,63,4,23
+477,s0336_02[BINV].png.min,Binary Invert,146,1,53
+478,f0377_04[TRUC].png.min,Trunc,172,3,36
+479,s0403_07.png.min,No Filter,117,5,6
+480,f0438_05[TRUC].png.min,Trunc,129,3,29
+481,s0477_04[BINV].png.min,Binary Invert,94,3,22
+482,s0303_03[BINV].png.min,Binary Invert,30,1,46
+483,f0440_08.png.min,No Filter,126,3,40
+484,f0356_02[BINV].png.min,Binary Invert,99,2,45
+485,s0434_06[BINV].png.min,Binary Invert,145,5,17
+486,s0314_04[BINV].png.min,Binary Invert,83,3,41
+487,f0476_09[BINV].png.min,Binary Invert,29,5,9
+488,s0404_08[TRUC].png.min,Trunc,141,4,33
+489,f0344_06[BINA].png.min,Binary,50,2,16
+490,s0434_06[TRUC].png.min,Trunc,105,3,18
+491,f0457_09[TZER].png.min,Thresh to Zero,49,1,52
+492,s0292_04[TZER].png.min,Thresh to Zero,39,1,48
+493,f0316_03[TOZI].png.min,Thresh to Zero Invert,268,5,7
+494,s0466_10[BINV].png.min,Binary Invert,45,3,28
+495,f0307_05[BINA].png.min,Binary,95,5,3
+496,f0451_10[TRUC].png.min,Trunc,60,2,38
+497,f0293_01[TZER].png.min,Thresh to Zero,66,3,24
+498,f0370_02[TOZI].png.min,Thresh to Zero Invert,173,2,56
+499,s0430_10[TRUC].png.min,Trunc,86,2,40
+500,f0416_06[TOZI].png.min,Thresh to Zero Invert,297,5,25
+501,s0499_03[BINA].png.min,Binary,4,2,52
+502,s0458_07[TZER].png.min,Thresh to Zero,48,1,53
+503,s0281_04.png.min,No Filter,169,2,48
+504,s0370_02[TZER].png.min,Thresh to Zero,42,3,35
+505,f0337_08[TOZI].png.min,Thresh to Zero Invert,239,5,37
+506,f0454_04[BINA].png.min,Binary,104,3,25
+507,f0418_02[BINV].png.min,Binary Invert,2,3,34
+508,s0440_08[TRUC].png.min,Trunc,161,3,35
+509,s0443_06[BINV].png.min,Binary Invert,71,3,19
+510,s0442_04[TOZI].png.min,Thresh to Zero Invert,10,1,51
+511,s0462_05[BINV].png.min,Binary Invert,96,5,11
+512,f0405_02[TZER].png.min,Thresh to Zero,116,2,41
+513,s0400_02[TOZI].png.min,Thresh to Zero Invert,197,3,34
+514,f0264_01[BINV].png.min,Binary Invert,83,2,31
+515,f0469_07[BINA].png.min,Binary,63,1,45
+516,s0321_05[TOZI].png.min,Thresh to Zero Invert,220,3,32
+517,f0461_03.png.min,No Filter,152,2,48
+518,f0258_04[BINA].png.min,Binary,74,2,19
+519,s0417_08.png.min,No Filter,139,2,42
+520,f0469_07[TZER].png.min,Thresh to Zero,77,2,49
+521,s0328_09[BINA].png.min,Binary,32,4,24
+522,s0459_05.png.min,No Filter,141,2,51
+523,s0447_01[BINA].png.min,Binary,162,1,51
+524,s0322_06[TRUC].png.min,Trunc,122,2,27
+525,f0251_05[TOZI].png.min,Thresh to Zero Invert,208,3,32
+526,f0425_07[BINV].png.min,Binary Invert,78,2,16
+527,s0364_03[BINA].png.min,Binary,72,3,33
+528,f0270_01[TZER].png.min,Thresh to Zero,33,4,21
+529,s0396_09.png.min,No Filter,106,2,38
+530,s0355_08[TRUC].png.min,Trunc,140,3,25
+531,s0270_01[TOZI].png.min,Thresh to Zero Invert,219,4,22
+532,s0322_06[TZER].png.min,Thresh to Zero,56,3,42
+533,s0267_07[BINV].png.min,Binary Invert,62,1,48
+534,f0463_10[TOZI].png.min,Thresh to Zero Invert,105,1,49
+535,s0397_06[BINV].png.min,Binary Invert,79,4,14
+536,f0387_04[BINA].png.min,Binary,62,3,28
+537,f0389_07[TZER].png.min,Thresh to Zero,108,3,25
+538,s0253_08[TRUC].png.min,Trunc,120,2,48
+539,s0423_02[BINA].png.min,Binary,29,2,42
+540,f0438_05[TZER].png.min,Thresh to Zero,10,2,25
+541,f0472_07[TZER].png.min,Thresh to Zero,163,4,10
+542,s0460_04[TRUC].png.min,Trunc,142,4,15
+543,s0419_08[TZER].png.min,Thresh to Zero,84,5,8
+544,s0381_01[BINV].png.min,Binary Invert,102,3,35
+545,s0458_07[BINA].png.min,Binary,47,2,43
+546,f0463_10[TZER].png.min,Thresh to Zero,107,2,48
+547,f0408_01[BINA].png.min,Binary,38,2,47
+548,s0322_06[BINV].png.min,Binary Invert,71,3,34
+549,f0334_02[TOZI].png.min,Thresh to Zero Invert,250,3,20
+550,s0298_06[TZER].png.min,Thresh to Zero,71,2,31
+551,s0357_07[BINA].png.min,Binary,114,1,46
+552,f0422_07[BINA].png.min,Binary,94,1,43
+553,s0479_07[TZER].png.min,Thresh to Zero,31,1,52
+554,s0461_03.png.min,No Filter,167,3,39
+555,s0392_07[TZER].png.min,Thresh to Zero,119,2,42
+556,s0379_06[TOZI].png.min,Thresh to Zero Invert,257,1,47
+557,s0379_06[BINV].png.min,Binary Invert,82,1,36
+558,f0388_06[BINA].png.min,Binary,74,3,27
+559,s0367_08.png.min,No Filter,103,5,4
+560,s0424_03[TOZI].png.min,Thresh to Zero Invert,211,2,28
+561,s0338_04[TRUC].png.min,Trunc,126,4,36
+562,s0467_01[BINA].png.min,Binary,30,4,16
+563,f0284_10[BINV].png.min,Binary Invert,75,2,51
+564,f0387_04[TZER].png.min,Thresh to Zero,59,1,53
+565,f0331_05.png.min,No Filter,106,5,14
+566,f0361_06.png.min,No Filter,154,2,34
+567,f0428_09[TRUC].png.min,Trunc,62,1,51
+568,s0294_06[BINA].png.min,Binary,81,1,46
+569,f0455_04[BINV].png.min,Binary Invert,44,2,32
+570,s0371_05[TRUC].png.min,Trunc,173,3,44
+571,s0418_02[TZER].png.min,Thresh to Zero,98,5,17
+572,s0475_03[TOZI].png.min,Thresh to Zero Invert,221,3,50
+573,s0473_01[TRUC].png.min,Trunc,180,2,31
+574,f0345_05[TRUC].png.min,Trunc,43,3,27
+575,s0455_04[BINA].png.min,Binary,19,5,5
+576,s0476_09[BINA].png.min,Binary,79,1,35
+577,s0465_08[BINA].png.min,Binary,105,1,52
+578,f0276_09.png.min,No Filter,134,2,9
+579,s0353_03[TOZI].png.min,Thresh to Zero Invert,260,1,58
+580,s0488_10[BINA].png.min,Binary,41,3,41
+581,f0459_05[TZER].png.min,Thresh to Zero,26,3,41
+582,s0460_04[BINA].png.min,Binary,79,2,38
+583,s0340_03[TOZI].png.min,Thresh to Zero Invert,250,3,29
+584,f0368_09[TZER].png.min,Thresh to Zero,40,2,31
+585,s0368_09[BINA].png.min,Binary,61,5,26
+586,s0498_05[TRUC].png.min,Trunc,127,2,39
+587,f0327_08[TOZI].png.min,Thresh to Zero Invert,299,3,35
+588,f0388_06.png.min,No Filter,147,3,12
+589,s0448_03[TOZI].png.min,Thresh to Zero Invert,300,1,56
+590,s0264_01[TZER].png.min,Thresh to Zero,104,3,32
+591,s0392_07[BINV].png.min,Binary Invert,81,1,50
+592,f0333_08[TOZI].png.min,Thresh to Zero Invert,222,3,47
+593,s0339_05[TRUC].png.min,Trunc,100,2,56
+594,s0444_03[BINV].png.min,Binary Invert,68,5,10
+595,f0496_03[BINV].png.min,Binary Invert,90,1,52
+596,f0293_01[TOZI].png.min,Thresh to Zero Invert,265,2,35
+597,s0489_04[BINA].png.min,Binary,68,3,22
+598,s0289_01.png.min,No Filter,124,3,43
+599,f0352_09.png.min,No Filter,132,2,48
+600,s0376_01.png.min,No Filter,203,2,34
+601,s0494_08[TZER].png.min,Thresh to Zero,34,5,25
+602,f0480_04[TZER].png.min,Thresh to Zero,78,2,42
+603,f0413_01[BINA].png.min,Binary,48,5,19
+604,s0339_05.png.min,No Filter,134,1,43
+605,f0313_08[BINV].png.min,Binary Invert,116,2,49
+606,f0279_06[BINV].png.min,Binary Invert,77,5,24
+607,s0416_06[TOZI].png.min,Thresh to Zero Invert,225,3,36
+608,f0495_05[TRUC].png.min,Trunc,101,3,29
+609,f0440_08[BINV].png.min,Binary Invert,73,3,33
+610,f0448_03.png.min,No Filter,117,2,56
+611,s0313_08[TZER].png.min,Thresh to Zero,57,1,46
+612,s0363_10[TZER].png.min,Thresh to Zero,31,2,51
+613,f0429_04[TRUC].png.min,Trunc,99,2,44
+614,f0328_09[TRUC].png.min,Trunc,95,2,18
+615,f0416_06.png.min,No Filter,116,3,37
+616,s0331_05.png.min,No Filter,140,2,45
+617,s0437_04[TOZI].png.min,Thresh to Zero Invert,214,1,54
+618,s0295_07.png.min,No Filter,91,3,41
+619,f0407_09[BINV].png.min,Binary Invert,64,2,47
+620,s0326_07[TZER].png.min,Thresh to Zero,99,1,31
+621,s0308_09[TOZI].png.min,Thresh to Zero Invert,116,1,55
+622,s0490_01[BINV].png.min,Binary Invert,5,2,40
+623,f0470_01.png.min,No Filter,117,5,11
+624,s0338_04.png.min,No Filter,111,2,24
+625,f0367_08[BINA].png.min,Binary,93,4,37
+626,f0467_01[TRUC].png.min,Trunc,87,1,53
+627,s0301_02[TZER].png.min,Thresh to Zero,48,4,11
+628,f0489_04[BINA].png.min,Binary,92,3,8
+629,f0326_07[BINV].png.min,Binary Invert,115,5,20
+630,s0346_09[TZER].png.min,Thresh to Zero,167,2,51
+631,f0436_09[BINA].png.min,Binary,203,3,28
+632,f0499_03.png.min,No Filter,164,1,49
+633,s0361_06.png.min,No Filter,177,4,21
+634,s0270_01[BINV].png.min,Binary Invert,161,2,43
+635,s0479_07[BINA].png.min,Binary,30,3,24
+636,f0335_06[TZER].png.min,Thresh to Zero,84,5,5
+637,s0484_05[TZER].png.min,Thresh to Zero,1,1,57
+638,f0472_07[TRUC].png.min,Trunc,190,3,26
+639,s0299_06[TOZI].png.min,Thresh to Zero Invert,183,3,23
+640,f0313_08[TZER].png.min,Thresh to Zero,120,2,52
+641,f0360_09[BINV].png.min,Binary Invert,107,3,24
+642,f0414_01.png.min,No Filter,144,2,32
+643,s0278_03[BINA].png.min,Binary,37,2,1
+644,s0324_04[BINA].png.min,Binary,76,4,27
+645,s0372_07[TRUC].png.min,Trunc,108,3,16
+646,s0299_06.png.min,No Filter,133,2,36
+647,s0259_10[TRUC].png.min,Trunc,48,2,55
+648,s0480_04[BINV].png.min,Binary Invert,83,2,57
+649,f0362_05[TRUC].png.min,Trunc,126,5,15
+650,f0251_05[TRUC].png.min,Trunc,123,3,48
+651,s0302_01[BINV].png.min,Binary Invert,109,3,23
+652,s0403_07[BINA].png.min,Binary,66,4,40
+653,s0326_07[BINV].png.min,Binary Invert,112,5,6
+654,f0321_05[TRUC].png.min,Trunc,84,2,39
+655,s0378_05[TZER].png.min,Thresh to Zero,49,3,24
+656,s0482_08[TOZI].png.min,Thresh to Zero Invert,263,2,45
+657,s0310_05[TOZI].png.min,Thresh to Zero Invert,189,1,48
+658,f0342_10.png.min,No Filter,107,5,5
+659,f0300_08[BINV].png.min,Binary Invert,49,1,54
+660,s0330_08.png.min,No Filter,225,3,24
+661,f0397_06[BINV].png.min,Binary Invert,84,1,45
+662,f0309_05.png.min,No Filter,99,2,48
+663,f0434_06[BINV].png.min,Binary Invert,78,1,52
+664,f0252_01[TRUC].png.min,Trunc,139,1,49
+665,s0258_04[TZER].png.min,Thresh to Zero,119,5,3
+666,s0480_04[TRUC].png.min,Trunc,56,1,56
+667,f0454_04[TRUC].png.min,Trunc,76,1,25
+668,s0366_06[TOZI].png.min,Thresh to Zero Invert,176,1,54
+669,s0446_01[TOZI].png.min,Thresh to Zero Invert,279,1,54
+670,s0385_07[TOZI].png.min,Thresh to Zero Invert,251,3,34
+671,s0467_01[BINV].png.min,Binary Invert,46,1,42
+672,s0432_06.png.min,No Filter,106,5,26
+673,f0498_05[BINV].png.min,Binary Invert,117,3,8
+674,f0399_02[TRUC].png.min,Trunc,148,3,33
+675,s0412_07[BINV].png.min,Binary Invert,101,3,34
+676,s0444_03[TRUC].png.min,Trunc,87,5,8
+677,s0254_08[TZER].png.min,Thresh to Zero,135,3,23
+678,f0338_04[BINA].png.min,Binary,33,3,42
+679,s0260_02.png.min,No Filter,137,3,32
+680,s0326_07[TOZI].png.min,Thresh to Zero Invert,261,3,17
+681,f0438_05[TOZI].png.min,Thresh to Zero Invert,187,3,30
+682,s0260_02[TOZI].png.min,Thresh to Zero Invert,214,3,31
+683,s0453_08[TOZI].png.min,Thresh to Zero Invert,268,5,12
+684,s0358_09[BINA].png.min,Binary,1,2,49
+685,f0485_06[BINA].png.min,Binary,111,5,2
+686,s0324_04[TRUC].png.min,Trunc,75,2,20
+687,f0345_05[BINA].png.min,Binary,88,3,38
+688,s0488_10.png.min,No Filter,128,4,10
+689,f0263_05[TOZI].png.min,Thresh to Zero Invert,241,4,32
+690,f0447_01[BINA].png.min,Binary,84,1,58
+691,s0289_01[BINV].png.min,Binary Invert,72,2,49
+692,f0370_02[TRUC].png.min,Trunc,88,3,33
+693,f0251_05[BINV].png.min,Binary Invert,34,2,44
+694,s0394_07[TOZI].png.min,Thresh to Zero Invert,335,4,19
+695,f0363_10.png.min,No Filter,127,5,19
+696,f0354_05[TZER].png.min,Thresh to Zero,12,2,29
+697,s0499_03[TRUC].png.min,Trunc,159,5,11
+698,f0251_05[TZER].png.min,Thresh to Zero,29,2,44
+699,f0494_08[BINA].png.min,Binary,36,1,57
+700,s0470_01[TZER].png.min,Thresh to Zero,99,2,49
+701,s0316_03[TZER].png.min,Thresh to Zero,106,4,28
+702,s0289_01[TZER].png.min,Thresh to Zero,91,3,32
+703,s0442_04[TRUC].png.min,Trunc,0,2,16
+704,f0322_06[TZER].png.min,Thresh to Zero,83,4,20
+705,s0495_05[BINA].png.min,Binary,1,2,52
+706,f0341_03[TOZI].png.min,Thresh to Zero Invert,329,4,29
+707,f0335_06[TOZI].png.min,Thresh to Zero Invert,140,3,49
+708,f0399_02[BINA].png.min,Binary,27,1,40
+709,s0422_07[TZER].png.min,Thresh to Zero,110,3,29
+710,s0434_06[TOZI].png.min,Thresh to Zero Invert,281,3,18
+711,f0318_05[TRUC].png.min,Trunc,40,5,14
+712,f0282_03[TRUC].png.min,Trunc,80,3,39
+713,f0288_01[TZER].png.min,Thresh to Zero,71,3,51
+714,s0344_06[TZER].png.min,Thresh to Zero,50,3,17
+715,s0344_06[BINV].png.min,Binary Invert,86,5,6
+716,s0418_02[BINA].png.min,Binary,98,1,35
+717,f0408_01[TOZI].png.min,Thresh to Zero Invert,178,2,52
+718,f0273_09[TRUC].png.min,Trunc,96,2,45
+719,s0275_02[TOZI].png.min,Thresh to Zero Invert,202,5,4
+720,s0467_01.png.min,No Filter,131,3,22
+721,f0394_07.png.min,No Filter,84,2,46
+722,s0318_05[TRUC].png.min,Trunc,77,2,45
+723,f0466_10[BINV].png.min,Binary Invert,32,2,33
+724,f0370_02[TZER].png.min,Thresh to Zero,28,2,32
+725,s0380_04[TZER].png.min,Thresh to Zero,90,1,47
+726,f0497_05[TRUC].png.min,Trunc,159,5,7
+727,s0473_01[TOZI].png.min,Thresh to Zero Invert,259,3,28
+728,f0441_10[BINV].png.min,Binary Invert,32,1,41
+729,s0329_09[BINA].png.min,Binary,77,1,48
+730,f0286_02[BINA].png.min,Binary,122,3,51
+731,s0463_10[BINA].png.min,Binary,86,2,29
+732,f0414_01[TRUC].png.min,Trunc,0,3,39
+733,f0269_01.png.min,No Filter,154,3,26
+734,s0265_04.png.min,No Filter,158,1,45
+735,f0356_02[TRUC].png.min,Trunc,129,2,54
+736,f0274_05[TZER].png.min,Thresh to Zero,117,1,49
+737,f0470_01[TZER].png.min,Thresh to Zero,54,3,35
+738,s0407_09[TRUC].png.min,Trunc,95,1,49
+739,s0437_04[BINA].png.min,Binary,99,1,39
+740,s0386_02[TRUC].png.min,Trunc,170,2,46
+741,s0427_06[BINV].png.min,Binary Invert,12,1,53
+742,f0380_04[BINV].png.min,Binary Invert,49,1,51
+743,s0345_05[BINV].png.min,Binary Invert,55,5,14
+744,s0413_01[BINA].png.min,Binary,174,3,30
+745,f0487_02[BINA].png.min,Binary,137,3,42
+746,s0319_06[BINV].png.min,Binary Invert,106,3,28
+747,f0263_05[BINV].png.min,Binary Invert,39,3,33
+748,f0479_07[BINA].png.min,Binary,75,5,11
+749,s0319_06.png.min,No Filter,144,2,45
+750,s0263_05[TZER].png.min,Thresh to Zero,67,2,41
+751,f0338_04.png.min,No Filter,147,3,17
+752,f0257_07[BINV].png.min,Binary Invert,137,3,18
+753,s0465_08[BINV].png.min,Binary Invert,125,3,39
+754,f0261_01[BINA].png.min,Binary,113,3,31
+755,f0269_01[TRUC].png.min,Trunc,127,1,55
+756,s0330_08[TOZI].png.min,Thresh to Zero Invert,265,3,25
+757,s0360_09[BINA].png.min,Binary,25,4,11
+758,f0383_04[BINV].png.min,Binary Invert,82,4,14
+759,s0449_05[TZER].png.min,Thresh to Zero,59,3,33
+760,s0317_05[BINA].png.min,Binary,26,2,40
+761,s0312_08[TZER].png.min,Thresh to Zero,129,2,29
+762,s0393_06[TOZI].png.min,Thresh to Zero Invert,297,4,36
+763,s0458_07.png.min,No Filter,93,5,7
+764,f0418_02[TZER].png.min,Thresh to Zero,9,5,17
+765,f0473_01[TRUC].png.min,Trunc,212,1,53
+766,f0478_07[BINV].png.min,Binary Invert,23,2,49
+767,f0490_01[TRUC].png.min,Trunc,124,1,55
+768,s0257_07[BINV].png.min,Binary Invert,55,3,23
+769,s0494_08.png.min,No Filter,68,5,24
+770,s0466_10[TRUC].png.min,Trunc,124,2,49
+771,s0392_07.png.min,No Filter,122,2,35
+772,s0398_03[TZER].png.min,Thresh to Zero,126,3,42
+773,f0271_04[BINV].png.min,Binary Invert,90,2,31
+774,f0313_08.png.min,No Filter,107,1,47
+775,f0482_08[TOZI].png.min,Thresh to Zero Invert,232,5,24
+776,f0257_07[BINA].png.min,Binary,122,4,22
+777,s0372_07[BINA].png.min,Binary,49,5,16
+778,f0429_04[TOZI].png.min,Thresh to Zero Invert,168,1,11
+779,f0461_03[TZER].png.min,Thresh to Zero,94,4,7
+780,f0425_07[TRUC].png.min,Trunc,65,3,22
+781,s0409_05[TZER].png.min,Thresh to Zero,91,2,39
+782,f0384_09[TZER].png.min,Thresh to Zero,2,3,35
+783,s0443_06[TRUC].png.min,Trunc,83,2,42
+784,s0280_02[TRUC].png.min,Trunc,101,3,34
+785,f0374_04[TOZI].png.min,Thresh to Zero Invert,244,2,49
+786,f0299_06[BINA].png.min,Binary,150,3,19
+787,f0290_02[TRUC].png.min,Trunc,99,5,16
+788,f0267_07[BINV].png.min,Binary Invert,105,1,43
+789,s0408_01[BINA].png.min,Binary,33,2,57
+790,f0368_09[BINA].png.min,Binary,44,5,8
+791,s0459_05[TZER].png.min,Thresh to Zero,41,1,51
+792,s0409_05[BINA].png.min,Binary,61,2,33
+793,f0301_02[TRUC].png.min,Trunc,152,2,32
+794,s0391_01[TRUC].png.min,Trunc,96,2,41
+795,s0423_02.png.min,No Filter,168,4,34
+796,f0262_05.png.min,No Filter,130,2,53
+797,f0460_04[TOZI].png.min,Thresh to Zero Invert,173,5,7
+798,s0261_01[TOZI].png.min,Thresh to Zero Invert,340,4,23
+799,s0309_05[TOZI].png.min,Thresh to Zero Invert,230,2,52
+800,s0440_08[TZER].png.min,Thresh to Zero,63,4,12
+801,s0337_08[BINA].png.min,Binary,111,2,53
+802,f0467_01[BINV].png.min,Binary Invert,94,2,25
+803,s0438_05[BINV].png.min,Binary Invert,116,3,8
+804,s0325_06[TOZI].png.min,Thresh to Zero Invert,63,1,57
+805,s0467_01[TZER].png.min,Thresh to Zero,40,2,51
+806,f0355_08[TZER].png.min,Thresh to Zero,11,1,60
+807,f0399_02[TZER].png.min,Thresh to Zero,28,1,16
+808,f0474_06[TOZI].png.min,Thresh to Zero Invert,89,2,42
+809,f0458_07[TOZI].png.min,Thresh to Zero Invert,206,1,42
+810,f0266_04[BINV].png.min,Binary Invert,21,3,34
+811,f0392_07[TRUC].png.min,Trunc,136,3,29
+812,f0436_09[TRUC].png.min,Trunc,191,1,46
+813,f0426_04[BINV].png.min,Binary Invert,128,4,25
+814,s0495_05[TZER].png.min,Thresh to Zero,3,2,40
+815,s0468_02[BINA].png.min,Binary,27,4,17
+816,f0361_06[TZER].png.min,Thresh to Zero,52,1,45
+817,f0392_07.png.min,No Filter,155,4,12
+818,f0384_09.png.min,No Filter,192,3,27
+819,s0286_02[TRUC].png.min,Trunc,133,3,50
+820,f0354_05[BINA].png.min,Binary,6,2,31
+821,s0411_05[BINA].png.min,Binary,23,4,32
+822,f0298_06[BINV].png.min,Binary Invert,13,1,43
+823,s0402_01[BINV].png.min,Binary Invert,67,1,41
+824,f0341_03[TRUC].png.min,Trunc,113,5,15
+825,s0415_04.png.min,No Filter,121,4,12
+826,f0340_03[BINA].png.min,Binary,82,3,12
+827,s0273_09[TOZI].png.min,Thresh to Zero Invert,166,3,39
+828,s0334_02[TRUC].png.min,Trunc,77,3,30
+829,s0391_01[BINV].png.min,Binary Invert,107,3,31
+830,f0274_05[TOZI].png.min,Thresh to Zero Invert,139,3,29
+831,s0486_10[TZER].png.min,Thresh to Zero,102,5,3
+832,s0360_09[TRUC].png.min,Trunc,0,3,29
+833,f0360_09[TZER].png.min,Thresh to Zero,108,2,41
+834,s0297_01[TZER].png.min,Thresh to Zero,150,2,37
+835,s0498_05[BINV].png.min,Binary Invert,7,5,7
+836,f0359_03[TZER].png.min,Thresh to Zero,131,2,34
+837,s0275_02[TZER].png.min,Thresh to Zero,45,4,8
+838,f0441_10[TZER].png.min,Thresh to Zero,35,1,54
+839,s0255_05[TRUC].png.min,Trunc,40,2,33
+840,f0383_04[TZER].png.min,Thresh to Zero,69,2,9
+841,s0255_05[TZER].png.min,Thresh to Zero,144,3,16
+842,f0261_01[TOZI].png.min,Thresh to Zero Invert,97,3,32
+843,s0300_08.png.min,No Filter,166,2,29
+844,s0471_01[BINA].png.min,Binary,144,1,36
+845,f0286_02[TRUC].png.min,Trunc,92,2,54
+846,s0349_09[TZER].png.min,Thresh to Zero,94,3,24
+847,f0343_09.png.min,No Filter,93,4,22
+848,f0458_07[BINA].png.min,Binary,82,3,36
+849,s0399_02.png.min,No Filter,136,5,19
+850,f0261_01[TZER].png.min,Thresh to Zero,109,3,10
+851,s0447_01[TZER].png.min,Thresh to Zero,153,5,7
+852,f0325_06[TZER].png.min,Thresh to Zero,91,3,45
+853,f0460_04[TZER].png.min,Thresh to Zero,113,3,28
+854,f0319_06[BINA].png.min,Binary,93,1,51
+855,f0296_10[TRUC].png.min,Trunc,127,1,43
+856,f0400_02[TZER].png.min,Thresh to Zero,119,5,19
+857,f0412_07[TOZI].png.min,Thresh to Zero Invert,221,3,40
+858,s0322_06[BINA].png.min,Binary,58,2,42
+859,s0310_05[TRUC].png.min,Trunc,139,3,21
+860,f0277_05[TZER].png.min,Thresh to Zero,38,4,26
+861,f0487_02[TOZI].png.min,Thresh to Zero Invert,228,2,49
+862,f0483_01[TZER].png.min,Thresh to Zero,2,1,41
+863,s0442_04[BINV].png.min,Binary Invert,8,2,50
+864,f0478_07.png.min,No Filter,119,2,27
+865,f0454_04[TOZI].png.min,Thresh to Zero Invert,153,5,8
+866,s0384_09.png.min,No Filter,154,1,54
+867,f0309_05[TOZI].png.min,Thresh to Zero Invert,138,1,46
+868,s0421_01[TZER].png.min,Thresh to Zero,97,2,39
+869,f0390_09[TOZI].png.min,Thresh to Zero Invert,174,5,10
+870,f0266_04[TZER].png.min,Thresh to Zero,22,1,58
+871,s0351_08[TZER].png.min,Thresh to Zero,42,2,47
+872,s0265_04[TOZI].png.min,Thresh to Zero Invert,251,2,31
+873,s0398_03[BINV].png.min,Binary Invert,143,2,36
+874,f0464_06[TRUC].png.min,Trunc,128,2,48
+875,f0297_01[BINA].png.min,Binary,114,3,41
+876,s0343_09[TRUC].png.min,Trunc,130,3,33
+877,f0313_08[TRUC].png.min,Trunc,77,3,31
+878,s0397_06.png.min,No Filter,70,3,17
+879,s0421_01[TOZI].png.min,Thresh to Zero Invert,253,5,14
+880,s0464_06[BINA].png.min,Binary,140,2,54
+881,s0445_01[TZER].png.min,Thresh to Zero,21,2,36
+882,f0353_03[TRUC].png.min,Trunc,139,1,39
+883,s0361_06[TRUC].png.min,Trunc,164,2,23
+884,s0259_10.png.min,No Filter,167,5,22
+885,s0318_05[TOZI].png.min,Thresh to Zero Invert,176,3,26
+886,f0342_10[TRUC].png.min,Trunc,113,5,12
+887,s0302_01[TOZI].png.min,Thresh to Zero Invert,114,3,30
+888,f0480_04.png.min,No Filter,120,3,32
+889,s0337_08[TRUC].png.min,Trunc,91,2,37
+890,f0335_06[TRUC].png.min,Trunc,91,4,18
+891,f0476_09[TOZI].png.min,Thresh to Zero Invert,151,5,29
+892,f0396_09[TRUC].png.min,Trunc,100,3,21
+893,f0371_05[BINA].png.min,Binary,59,5,6
+894,f0385_07[TRUC].png.min,Trunc,80,5,8
+895,s0374_04.png.min,No Filter,113,5,20
+896,f0386_02[TZER].png.min,Thresh to Zero,57,5,12
+897,f0272_09[TRUC].png.min,Trunc,81,2,50
+898,s0258_04[BINV].png.min,Binary Invert,99,5,10
+899,f0281_04[BINV].png.min,Binary Invert,67,2,31
+900,s0348_08[BINV].png.min,Binary Invert,104,3,39
+901,s0457_09[BINV].png.min,Binary Invert,7,4,16
+902,f0389_07[TOZI].png.min,Thresh to Zero Invert,246,2,39
+903,f0496_03[TZER].png.min,Thresh to Zero,102,3,21
+904,f0377_04[BINA].png.min,Binary,2,5,20
+905,f0314_04.png.min,No Filter,142,1,54
+906,f0365_07.png.min,No Filter,131,3,31
+907,f0500_02[BINA].png.min,Binary,36,2,29
+908,s0306_03[BINV].png.min,Binary Invert,53,3,26
+909,s0459_05[TOZI].png.min,Thresh to Zero Invert,210,3,18
+910,f0474_06[TRUC].png.min,Trunc,4,2,28
+911,f0339_05[TZER].png.min,Thresh to Zero,86,5,10
+912,f0298_06[TRUC].png.min,Trunc,139,4,23
+913,s0256_03[TOZI].png.min,Thresh to Zero Invert,300,3,29
+914,s0350_07.png.min,No Filter,146,3,30
+915,f0266_04[TRUC].png.min,Trunc,139,1,45
+916,s0335_06[BINA].png.min,Binary,114,2,43
+917,f0322_06.png.min,No Filter,113,1,48
+918,f0315_03[BINA].png.min,Binary,72,3,40
+919,s0362_05.png.min,No Filter,134,2,53
+920,f0351_08[BINA].png.min,Binary,55,2,49
+921,f0283_02[TZER].png.min,Thresh to Zero,126,5,12
+922,f0439_02.png.min,No Filter,102,2,26
+923,s0299_06[BINV].png.min,Binary Invert,147,3,23
+924,s0282_03[TZER].png.min,Thresh to Zero,123,2,45
+925,s0335_06[TRUC].png.min,Trunc,73,2,42
+926,f0312_08[TOZI].png.min,Thresh to Zero Invert,232,2,38
+927,s0436_09[TZER].png.min,Thresh to Zero,141,1,41
+928,s0448_03[TRUC].png.min,Trunc,100,1,45
+929,s0350_07[TRUC].png.min,Trunc,125,3,35
+930,s0443_06.png.min,No Filter,89,3,33
+931,f0409_05[BINV].png.min,Binary Invert,118,1,52
+932,s0402_01[TZER].png.min,Thresh to Zero,73,2,48
+933,s0302_01.png.min,No Filter,137,3,22
+934,f0463_10.png.min,No Filter,104,2,14
+935,s0296_10[TRUC].png.min,Trunc,0,3,53
+936,f0440_08[TZER].png.min,Thresh to Zero,53,3,30
+937,f0323_09[TOZI].png.min,Thresh to Zero Invert,156,5,14
+938,s0470_01[TOZI].png.min,Thresh to Zero Invert,268,2,31
+939,f0442_04[TOZI].png.min,Thresh to Zero Invert,208,2,52
+940,f0347_02[BINA].png.min,Binary,96,1,50
+941,f0393_06[BINA].png.min,Binary,117,2,31
+942,f0331_05[TRUC].png.min,Trunc,98,2,40
+943,s0354_05.png.min,No Filter,176,2,35
+944,f0422_07[TZER].png.min,Thresh to Zero,89,2,39
+945,s0423_02[BINV].png.min,Binary Invert,42,3,33
+946,f0426_04[BINA].png.min,Binary,132,2,53
+947,s0268_09.png.min,No Filter,164,2,35
+948,s0316_03[TRUC].png.min,Trunc,117,2,43
+949,s0494_08[BINA].png.min,Binary,37,2,43
+950,s0251_05[BINA].png.min,Binary,28,5,8
+951,f0453_08[TZER].png.min,Thresh to Zero,98,1,48
+952,f0351_08[TZER].png.min,Thresh to Zero,69,1,46
+953,f0476_09.png.min,No Filter,77,3,27
+954,s0448_03[TZER].png.min,Thresh to Zero,59,2,52
+955,f0285_08[TRUC].png.min,Trunc,82,3,14
+956,s0456_06[TOZI].png.min,Thresh to Zero Invert,182,3,32
+957,f0430_10[BINV].png.min,Binary Invert,80,3,43
+958,s0384_09[TOZI].png.min,Thresh to Zero Invert,215,3,21
+959,s0281_04[BINV].png.min,Binary Invert,146,3,45
+960,f0468_02[TOZI].png.min,Thresh to Zero Invert,161,4,25
+961,f0427_06[TZER].png.min,Thresh to Zero,97,3,16
+962,f0412_07[TRUC].png.min,Trunc,95,4,14
+963,f0337_08[TRUC].png.min,Trunc,154,1,49
+964,f0364_03[BINV].png.min,Binary Invert,25,5,16
+965,s0452_06[BINV].png.min,Binary Invert,146,3,55
+966,s0440_08[TOZI].png.min,Thresh to Zero Invert,267,4,8
+967,f0447_01[TZER].png.min,Thresh to Zero,98,1,43
+968,f0328_09[TOZI].png.min,Thresh to Zero Invert,147,2,17
+969,s0251_05[BINV].png.min,Binary Invert,36,2,21
+970,s0302_01[TZER].png.min,Thresh to Zero,141,2,17
+971,f0333_08.png.min,No Filter,186,4,22
+972,s0383_04[TZER].png.min,Thresh to Zero,93,3,45
+973,f0456_06[BINV].png.min,Binary Invert,102,2,34
+974,f0393_06[TRUC].png.min,Trunc,101,4,21
+975,f0280_02.png.min,No Filter,100,2,47
+976,f0495_05[BINA].png.min,Binary,68,3,45
+977,s0388_06[BINA].png.min,Binary,131,3,44
+978,s0404_08[BINV].png.min,Binary Invert,93,4,7
+979,f0368_09[TRUC].png.min,Trunc,79,3,19
+980,f0423_02[TZER].png.min,Thresh to Zero,90,1,28
+981,f0258_04[TZER].png.min,Thresh to Zero,86,3,36
+982,f0483_01.png.min,No Filter,183,1,51
+983,s0253_08.png.min,No Filter,181,2,42
+984,s0422_07[BINV].png.min,Binary Invert,111,1,37
+985,s0349_09[BINV].png.min,Binary Invert,80,3,20
+986,f0365_07[BINV].png.min,Binary Invert,107,3,27
+987,s0279_06[TZER].png.min,Thresh to Zero,30,2,46
+988,s0443_06[TOZI].png.min,Thresh to Zero Invert,326,2,28
+989,f0283_02[BINA].png.min,Binary,123,2,44
+990,f0468_02[TRUC].png.min,Trunc,88,3,28
+991,s0327_08[TRUC].png.min,Trunc,116,4,34
+992,s0408_01[TRUC].png.min,Trunc,161,3,42
+993,s0377_04[TOZI].png.min,Thresh to Zero Invert,240,5,12
+994,f0371_05[TRUC].png.min,Trunc,97,3,14
+995,s0348_08[TOZI].png.min,Thresh to Zero Invert,297,4,16
+996,s0422_07[BINA].png.min,Binary,105,2,49
+997,s0285_08[TZER].png.min,Thresh to Zero,28,3,39
+998,s0389_07[BINV].png.min,Binary Invert,5,3,20
+999,s0290_02[BINV].png.min,Binary Invert,118,4,13
+1000,f0268_09[BINA].png.min,Binary,29,4,3
+1001,s0395_08[TOZI].png.min,Thresh to Zero Invert,274,2,26
+1002,s0363_10[BINV].png.min,Binary Invert,21,5,19
+1003,f0288_01[TOZI].png.min,Thresh to Zero Invert,284,3,35
+1004,f0406_04[BINV].png.min,Binary Invert,113,3,10
+1005,f0356_02[BINA].png.min,Binary,78,3,26
+1006,s0418_02.png.min,No Filter,129,2,44
+1007,f0368_09.png.min,No Filter,78,3,19
+1008,f0387_04[TRUC].png.min,Trunc,136,3,33
+1009,f0490_01[BINA].png.min,Binary,7,3,23
+1010,f0427_06[TOZI].png.min,Thresh to Zero Invert,210,3,20
+1011,s0474_06[TOZI].png.min,Thresh to Zero Invert,263,2,46
+1012,f0377_04[BINV].png.min,Binary Invert,3,5,28
+1013,s0407_09.png.min,No Filter,112,4,33
+1014,f0332_03[BINV].png.min,Binary Invert,70,2,33
+1015,f0256_03[BINV].png.min,Binary Invert,83,5,11
+1016,f0445_01[TOZI].png.min,Thresh to Zero Invert,247,4,34
+1017,s0314_04.png.min,No Filter,68,3,20
+1018,f0257_07[TRUC].png.min,Trunc,109,4,12
+1019,s0481_07[TRUC].png.min,Trunc,77,5,13
+1020,f0294_06[BINV].png.min,Binary Invert,74,1,53
+1021,s0353_03.png.min,No Filter,225,2,21
+1022,f0357_07[BINA].png.min,Binary,64,4,27
+1023,s0432_06[TRUC].png.min,Trunc,101,2,24
+1024,s0390_09[TRUC].png.min,Trunc,127,1,48
+1025,f0299_06[TOZI].png.min,Thresh to Zero Invert,207,3,4
+1026,f0391_01[TZER].png.min,Thresh to Zero,93,1,51
+1027,s0357_07[TRUC].png.min,Trunc,148,4,33
+1028,s0308_09[BINV].png.min,Binary Invert,69,2,32
+1029,s0300_08[TRUC].png.min,Trunc,172,2,35
+1030,f0351_08[TOZI].png.min,Thresh to Zero Invert,239,3,18
+1031,s0342_10[BINA].png.min,Binary,60,5,20
+1032,s0254_08.png.min,No Filter,157,5,8
+1033,s0479_07.png.min,No Filter,113,3,33
+1034,f0282_03[TZER].png.min,Thresh to Zero,75,2,50
+1035,s0489_04[TOZI].png.min,Thresh to Zero Invert,288,3,18
+1036,s0441_10[TZER].png.min,Thresh to Zero,17,3,40
+1037,f0491_05[TZER].png.min,Thresh to Zero,113,4,17
+1038,s0430_10[TOZI].png.min,Thresh to Zero Invert,247,2,17
+1039,f0356_02.png.min,No Filter,126,3,22
+1040,f0313_08[TOZI].png.min,Thresh to Zero Invert,138,2,49
+1041,s0332_03[BINA].png.min,Binary,86,2,20
+1042,f0463_10[BINA].png.min,Binary,99,5,11
+1043,f0399_02.png.min,No Filter,165,5,5
+1044,f0311_03[BINA].png.min,Binary,90,2,37
+1045,s0471_01[TZER].png.min,Thresh to Zero,135,3,39
+1046,s0351_08[BINV].png.min,Binary Invert,41,5,21
+1047,f0431_05[TOZI].png.min,Thresh to Zero Invert,164,2,44
+1048,f0335_06[BINA].png.min,Binary,86,3,48
+1049,s0359_03[TZER].png.min,Thresh to Zero,86,1,23
+1050,f0460_04[TRUC].png.min,Trunc,113,1,49
+1051,s0456_06[BINV].png.min,Binary Invert,120,3,32
+1052,f0303_03[TOZI].png.min,Thresh to Zero Invert,212,4,32
+1053,s0435_10[TZER].png.min,Thresh to Zero,77,2,40
+1054,f0448_03[BINA].png.min,Binary,107,3,23
+1055,f0378_05[BINV].png.min,Binary Invert,136,5,4
+1056,s0256_03.png.min,No Filter,98,2,36
+1057,s0301_02[TOZI].png.min,Thresh to Zero Invert,219,3,33
+1058,f0263_05[TRUC].png.min,Trunc,103,5,7
+1059,f0291_03.png.min,No Filter,136,5,14
+1060,f0329_09.png.min,No Filter,147,2,44
+1061,s0306_03[TZER].png.min,Thresh to Zero,48,4,29
+1062,f0276_09[BINA].png.min,Binary,71,3,42
+1063,s0434_06.png.min,No Filter,108,2,21
+1064,f0293_01[BINA].png.min,Binary,66,5,9
+1065,f0288_01.png.min,No Filter,94,1,42
+1066,s0289_01[TRUC].png.min,Trunc,49,1,49
+1067,s0320_10[TOZI].png.min,Thresh to Zero Invert,218,3,35
+1068,f0315_03[TZER].png.min,Thresh to Zero,68,2,35
+1069,f0387_04[BINV].png.min,Binary Invert,61,1,43
+1070,s0286_02.png.min,No Filter,130,1,47
+1071,s0414_01[BINV].png.min,Binary Invert,123,5,5
+1072,f0466_10[BINA].png.min,Binary,27,1,20
+1073,f0256_03.png.min,No Filter,103,2,33
+1074,f0319_06[TRUC].png.min,Trunc,128,2,46
+1075,s0317_05[TRUC].png.min,Trunc,98,3,38
+1076,f0303_03[TZER].png.min,Thresh to Zero,44,5,7
+1077,f0296_10[TZER].png.min,Thresh to Zero,3,3,48
+1078,f0467_01[BINA].png.min,Binary,94,1,48
+1079,f0274_05[BINA].png.min,Binary,130,1,41
+1080,s0452_06.png.min,No Filter,140,5,16
+1081,f0453_08[BINA].png.min,Binary,102,3,38
+1082,f0468_02[BINA].png.min,Binary,99,4,21
+1083,s0271_04[TRUC].png.min,Trunc,149,1,48
+1084,s0454_04[BINA].png.min,Binary,47,3,19
+1085,f0277_05[BINA].png.min,Binary,38,5,14
+1086,f0264_01[BINA].png.min,Binary,60,2,52
+1087,f0311_03[TOZI].png.min,Thresh to Zero Invert,234,2,52
+1088,f0430_10[TRUC].png.min,Trunc,87,1,42
+1089,s0320_10[BINV].png.min,Binary Invert,33,2,35
+1090,f0465_08[TRUC].png.min,Trunc,72,1,37
+1091,f0426_04.png.min,No Filter,123,2,22
+1092,s0476_09[TOZI].png.min,Thresh to Zero Invert,241,3,34
+1093,s0360_09[BINV].png.min,Binary Invert,16,1,42
+1094,s0439_02.png.min,No Filter,185,1,42
+1095,f0479_07[TOZI].png.min,Thresh to Zero Invert,249,5,6
+1096,s0351_08.png.min,No Filter,136,5,11
+1097,f0297_01[TOZI].png.min,Thresh to Zero Invert,239,5,6
+1098,s0287_07.png.min,No Filter,180,3,27
+1099,s0420_09[TRUC].png.min,Trunc,129,2,37
+1100,f0465_08.png.min,No Filter,240,5,3
+1101,f0305_01.png.min,No Filter,144,3,18
+1102,f0405_02[BINA].png.min,Binary,119,5,18
+1103,s0485_06[TZER].png.min,Thresh to Zero,59,2,22
+1104,s0337_08.png.min,No Filter,184,1,55
+1105,s0491_05.png.min,No Filter,108,3,20
+1106,f0316_03[BINA].png.min,Binary,80,2,27
+1107,f0304_08[TZER].png.min,Thresh to Zero,86,3,17
+1108,f0359_03[BINV].png.min,Binary Invert,144,3,55
+1109,s0326_07.png.min,No Filter,130,5,22
+1110,s0309_05.png.min,No Filter,100,3,29
+1111,f0315_03[BINV].png.min,Binary Invert,77,5,11
+1112,f0307_05.png.min,No Filter,81,4,22
+1113,f0395_08[BINA].png.min,Binary,115,4,32
+1114,f0302_01.png.min,No Filter,105,2,44
+1115,f0323_09[BINA].png.min,Binary,122,4,17
+1116,f0470_01[TOZI].png.min,Thresh to Zero Invert,258,1,41
+1117,f0476_09[BINA].png.min,Binary,34,4,22
+1118,f0460_04[BINA].png.min,Binary,124,3,21
+1119,s0313_08[BINA].png.min,Binary,49,3,21
+1120,s0472_07.png.min,No Filter,196,2,33
+1121,s0325_06[TZER].png.min,Thresh to Zero,114,2,31
+1122,s0459_05[BINA].png.min,Binary,38,2,33
+1123,f0311_03[TZER].png.min,Thresh to Zero,76,2,49
+1124,f0475_03[TZER].png.min,Thresh to Zero,85,2,54
+1125,s0372_07[TZER].png.min,Thresh to Zero,52,5,19
+1126,f0372_07[BINA].png.min,Binary,97,3,31
+1127,f0373_09[BINA].png.min,Binary,98,2,31
+1128,f0275_02[BINA].png.min,Binary,63,1,54
+1129,f0459_05.png.min,No Filter,163,5,24
+1130,f0475_03[TRUC].png.min,Trunc,66,2,25
+1131,f0309_05[BINV].png.min,Binary Invert,98,3,20
+1132,s0285_08[BINV].png.min,Binary Invert,29,2,21
+1133,s0267_07[TZER].png.min,Thresh to Zero,108,2,42
+1134,s0490_01[BINA].png.min,Binary,7,5,8
+1135,f0486_10[BINV].png.min,Binary Invert,8,3,29
+1136,f0282_03.png.min,No Filter,99,1,33
+1137,f0375_02.png.min,No Filter,119,5,13
+1138,f0336_02.png.min,No Filter,145,2,9
+1139,s0442_04[TZER].png.min,Thresh to Zero,152,1,30
+1140,s0280_02[BINV].png.min,Binary Invert,36,1,48
+1141,s0499_03[BINV].png.min,Binary Invert,6,3,26
+1142,f0359_03[TRUC].png.min,Trunc,113,2,44
+1143,s0390_09[TZER].png.min,Thresh to Zero,41,2,50
+1144,s0361_06[BINA].png.min,Binary,73,3,23
+1145,s0416_06[BINV].png.min,Binary Invert,159,2,53
+1146,f0395_08[TOZI].png.min,Thresh to Zero Invert,336,3,35
+1147,s0252_01[TOZI].png.min,Thresh to Zero Invert,336,1,42
+1148,s0340_03[TZER].png.min,Thresh to Zero,134,5,19
+1149,s0431_05[BINA].png.min,Binary,21,2,30
+1150,s0427_06[TRUC].png.min,Trunc,161,3,34
+1151,s0312_08[TOZI].png.min,Thresh to Zero Invert,203,3,20
+1152,f0321_05[TZER].png.min,Thresh to Zero,90,2,42
+1153,f0252_01.png.min,No Filter,143,2,41
+1154,s0405_02.png.min,No Filter,156,1,32
+1155,f0262_05[TOZI].png.min,Thresh to Zero Invert,165,2,25
+1156,f0379_06[TZER].png.min,Thresh to Zero,179,3,49
+1157,f0267_07[TZER].png.min,Thresh to Zero,88,2,37
+1158,s0325_06[BINA].png.min,Binary,62,4,12
+1159,f0473_01[TOZI].png.min,Thresh to Zero Invert,300,3,15
+1160,f0339_05[TRUC].png.min,Trunc,118,5,29
+1161,f0329_09[TRUC].png.min,Trunc,132,1,44
+1162,s0460_04[TZER].png.min,Thresh to Zero,80,3,12
+1163,f0302_01[TRUC].png.min,Trunc,94,2,33
+1164,s0339_05[TOZI].png.min,Thresh to Zero Invert,150,3,34
+1165,s0425_07[BINA].png.min,Binary,74,1,14
+1166,s0267_07[BINA].png.min,Binary,58,5,25
+1167,f0461_03[TOZI].png.min,Thresh to Zero Invert,302,1,50
+1168,s0294_06[BINV].png.min,Binary Invert,80,4,9
+1169,s0455_04[BINV].png.min,Binary Invert,24,2,40
+1170,f0324_04[TRUC].png.min,Trunc,97,5,8
+1171,s0425_07[TZER].png.min,Thresh to Zero,104,3,33
+1172,f0363_10[TZER].png.min,Thresh to Zero,133,2,21
+1173,s0465_08[TOZI].png.min,Thresh to Zero Invert,165,1,54
+1174,f0452_06[TRUC].png.min,Trunc,43,3,14
+1175,f0444_03[TZER].png.min,Thresh to Zero,72,4,13
+1176,f0301_02.png.min,No Filter,157,5,2
+1177,s0469_07[TZER].png.min,Thresh to Zero,73,5,15
+1178,f0393_06[BINV].png.min,Binary Invert,124,2,47
+1179,s0485_06[TRUC].png.min,Trunc,143,1,54
+1180,f0417_08[TZER].png.min,Thresh to Zero,95,2,34
+1181,f0356_02[TZER].png.min,Thresh to Zero,74,5,3
+1182,s0277_05[BINV].png.min,Binary Invert,135,4,16
+1183,f0332_03[BINA].png.min,Binary,68,5,7
+1184,f0321_05[BINA].png.min,Binary,73,4,27
+1185,f0252_01[BINV].png.min,Binary Invert,84,4,20
+1186,s0323_09[BINV].png.min,Binary Invert,111,5,16
+1187,f0485_06.png.min,No Filter,106,1,53
+1188,s0315_03[BINA].png.min,Binary,103,4,14
+1189,f0272_09[TOZI].png.min,Thresh to Zero Invert,161,5,8
+1190,s0315_03[TRUC].png.min,Trunc,86,2,43
+1191,f0426_04[TZER].png.min,Thresh to Zero,130,2,40
+1192,f0362_05.png.min,No Filter,147,4,25
+1193,s0311_03[TRUC].png.min,Trunc,111,2,12
+1194,f0327_08[BINV].png.min,Binary Invert,112,3,27
+1195,s0394_07[TZER].png.min,Thresh to Zero,85,1,54
+1196,f0349_09[TOZI].png.min,Thresh to Zero Invert,227,4,34
+1197,s0424_03[BINA].png.min,Binary,52,3,37
+1198,s0333_08[BINA].png.min,Binary,64,3,27
+1199,s0283_02[TOZI].png.min,Thresh to Zero Invert,208,3,27
+1200,s0481_07.png.min,No Filter,87,2,30
+1201,s0399_02[TZER].png.min,Thresh to Zero,16,2,33
+1202,s0403_07[TRUC].png.min,Trunc,12,4,16
+1203,f0355_08[BINA].png.min,Binary,6,3,40
+1204,f0485_06[BINV].png.min,Binary Invert,107,4,39
+1205,f0277_05[BINV].png.min,Binary Invert,51,2,24
+1206,f0467_01[TOZI].png.min,Thresh to Zero Invert,184,4,20
+1207,f0253_08[BINV].png.min,Binary Invert,88,2,36
+1208,s0310_05[BINA].png.min,Binary,6,2,48
+1209,s0274_05[TRUC].png.min,Trunc,151,3,22
+1210,f0470_01[BINV].png.min,Binary Invert,73,2,44
+1211,f0308_09[BINA].png.min,Binary,38,3,27
+1212,f0343_09[BINV].png.min,Binary Invert,3,5,9
+1213,s0305_01[TOZI].png.min,Thresh to Zero Invert,213,2,57
+1214,s0473_01.png.min,No Filter,197,3,18
+1215,s0255_05.png.min,No Filter,160,2,50
+1216,f0265_04[BINA].png.min,Binary,46,2,25
+1217,s0308_09[BINA].png.min,Binary,77,3,26
+1218,f0417_08[BINA].png.min,Binary,94,4,17
+1219,s0261_01[BINV].png.min,Binary Invert,121,3,43
+1220,f0439_02[TOZI].png.min,Thresh to Zero Invert,238,5,14
+1221,f0355_08.png.min,No Filter,151,2,52
+1222,f0359_03.png.min,No Filter,131,3,30
+1223,s0451_10[TZER].png.min,Thresh to Zero,30,1,50
+1224,f0432_06[TZER].png.min,Thresh to Zero,105,2,53
+1225,s0294_06[TRUC].png.min,Trunc,200,5,9
+1226,s0368_09[TRUC].png.min,Trunc,62,4,10
+1227,f0418_02[TOZI].png.min,Thresh to Zero Invert,164,5,27
+1228,f0443_06[TRUC].png.min,Trunc,98,1,49
+1229,f0255_05[BINV].png.min,Binary Invert,67,1,33
+1230,f0269_01[BINA].png.min,Binary,159,3,21
+1231,s0454_04[BINV].png.min,Binary Invert,54,3,43
+1232,s0453_08[TRUC].png.min,Trunc,146,2,33
+1233,f0375_02[TOZI].png.min,Thresh to Zero Invert,169,1,21
+1234,s0279_06[BINA].png.min,Binary,31,3,24
+1235,f0445_01[TZER].png.min,Thresh to Zero,38,1,17
+1236,f0416_06[TRUC].png.min,Trunc,116,1,40
+1237,s0259_10[BINV].png.min,Binary Invert,86,2,41
+1238,s0296_10[TZER].png.min,Thresh to Zero,74,2,46
+1239,s0279_06.png.min,No Filter,162,3,42
+1240,s0488_10[TRUC].png.min,Trunc,89,3,22
+1241,s0472_07[TOZI].png.min,Thresh to Zero Invert,218,3,13
+1242,s0366_06[TZER].png.min,Thresh to Zero,136,4,12
+1243,s0407_09[TOZI].png.min,Thresh to Zero Invert,188,4,15
+1244,f0428_09.png.min,No Filter,140,4,22
+1245,s0461_03[TZER].png.min,Thresh to Zero,81,5,13
+1246,f0290_02.png.min,No Filter,119,3,15
+1247,s0422_07[TOZI].png.min,Thresh to Zero Invert,169,4,28
+1248,f0285_08[TZER].png.min,Thresh to Zero,24,3,19
+1249,s0453_08[BINA].png.min,Binary,109,3,22
+1250,f0366_06[BINA].png.min,Binary,120,3,31
+1251,f0364_03[BINA].png.min,Binary,21,1,49
+1252,s0467_01[TOZI].png.min,Thresh to Zero Invert,200,3,63
+1253,f0330_08.png.min,No Filter,169,2,54
+1254,s0333_08.png.min,No Filter,156,2,34
+1255,s0432_06[BINA].png.min,Binary,76,4,18
+1256,f0498_05[TZER].png.min,Thresh to Zero,112,2,47
+1257,f0346_09[TOZI].png.min,Thresh to Zero Invert,197,2,34
+1258,f0408_01[BINV].png.min,Binary Invert,40,2,46
+1259,s0439_02[BINV].png.min,Binary Invert,115,2,52
+1260,f0341_03[BINV].png.min,Binary Invert,99,1,51
+1261,s0344_06[TOZI].png.min,Thresh to Zero Invert,303,5,3
+1262,s0323_09[BINA].png.min,Binary,98,3,28
+1263,f0358_09[TRUC].png.min,Trunc,110,2,33
+1264,s0497_05[BINV].png.min,Binary Invert,10,4,19
+1265,s0441_10.png.min,No Filter,152,3,41
+1266,f0389_07[BINA].png.min,Binary,90,2,23
+1267,f0461_03[BINA].png.min,Binary,79,3,48
+1268,s0492_02[BINV].png.min,Binary Invert,101,3,28
+1269,f0403_07[TOZI].png.min,Thresh to Zero Invert,158,1,49
+1270,f0350_07[TZER].png.min,Thresh to Zero,103,2,41
+1271,f0287_07[TOZI].png.min,Thresh to Zero Invert,253,2,30
+1272,s0476_09.png.min,No Filter,102,5,16
+1273,f0339_05.png.min,No Filter,123,4,19
+1274,f0440_08[TOZI].png.min,Thresh to Zero Invert,240,4,28
+1275,f0272_09[BINV].png.min,Binary Invert,92,2,28
+1276,s0342_10.png.min,No Filter,162,2,46
+1277,s0321_05[BINV].png.min,Binary Invert,51,3,27
+1278,f0337_08[BINA].png.min,Binary,61,3,12
+1279,s0462_05[TRUC].png.min,Trunc,85,3,47
+1280,f0389_07[TRUC].png.min,Trunc,142,3,19
+1281,s0398_03.png.min,No Filter,169,4,18
+1282,s0288_01[TZER].png.min,Thresh to Zero,107,1,33
+1283,s0381_01[TZER].png.min,Thresh to Zero,87,3,35
+1284,s0389_07[TRUC].png.min,Trunc,184,4,18
+1285,s0478_07[TOZI].png.min,Thresh to Zero Invert,73,1,40
+1286,f0378_05[TZER].png.min,Thresh to Zero,123,3,36
+1287,s0487_02[BINA].png.min,Binary,130,1,51
+1288,f0264_01[TOZI].png.min,Thresh to Zero Invert,316,4,19
+1289,f0391_01[TRUC].png.min,Trunc,53,3,20
+1290,s0293_01[TOZI].png.min,Thresh to Zero Invert,274,3,12
+1291,f0273_09[BINV].png.min,Binary Invert,16,3,37
+1292,f0287_07[TRUC].png.min,Trunc,136,2,33
+1293,f0488_10.png.min,No Filter,82,3,33
+1294,s0413_01[TZER].png.min,Thresh to Zero,165,3,40
+1295,f0490_01[TZER].png.min,Thresh to Zero,10,5,6
+1296,f0297_01[TRUC].png.min,Trunc,113,2,40
+1297,s0277_05[TZER].png.min,Thresh to Zero,165,3,31
+1298,f0445_01.png.min,No Filter,105,5,20
+1299,f0427_06[BINV].png.min,Binary Invert,62,1,23
+1300,f0418_02.png.min,No Filter,106,2,39
+1301,f0497_05[BINV].png.min,Binary Invert,58,2,26
+1302,s0433_03[BINA].png.min,Binary,73,2,26
+1303,s0388_06[TOZI].png.min,Thresh to Zero Invert,167,4,16
+1304,f0463_10[BINV].png.min,Binary Invert,97,3,24
+1305,s0369_04.png.min,No Filter,117,2,51
+1306,f0465_08[TZER].png.min,Thresh to Zero,150,2,36
+1307,s0431_05.png.min,No Filter,129,2,32
+1308,s0360_09[TOZI].png.min,Thresh to Zero Invert,19,1,52
+1309,s0320_10.png.min,No Filter,117,5,13
+1310,s0408_01[TZER].png.min,Thresh to Zero,31,3,8
+1311,f0410_06[BINV].png.min,Binary Invert,111,3,27
+1312,s0408_01[TOZI].png.min,Thresh to Zero Invert,232,2,45
+1313,f0426_04[TRUC].png.min,Trunc,51,4,23
+1314,s0431_05[TRUC].png.min,Trunc,134,3,28
+1315,s0275_02[BINV].png.min,Binary Invert,44,2,40
+1316,f0494_08.png.min,No Filter,114,4,34
+1317,s0307_05[BINA].png.min,Binary,61,2,42
+1318,s0464_06[TZER].png.min,Thresh to Zero,128,5,14
+1319,f0424_03.png.min,No Filter,99,3,17
+1320,s0253_08[TZER].png.min,Thresh to Zero,99,2,40
+1321,s0331_05[TZER].png.min,Thresh to Zero,72,3,45
+1322,s0358_09[TZER].png.min,Thresh to Zero,5,4,24
+1323,f0300_08[TZER].png.min,Thresh to Zero,38,4,23
+1324,f0325_06[BINV].png.min,Binary Invert,95,5,15
+1325,f0315_03[TOZI].png.min,Thresh to Zero Invert,239,4,9
+1326,f0255_05[TOZI].png.min,Thresh to Zero Invert,103,4,20
+1327,s0359_03[BINV].png.min,Binary Invert,90,2,46
+1328,f0481_07[BINV].png.min,Binary Invert,32,4,14
+1329,s0409_05.png.min,No Filter,167,3,20
+1330,f0364_03[TOZI].png.min,Thresh to Zero Invert,239,2,46
+1331,s0458_07[TOZI].png.min,Thresh to Zero Invert,290,5,13
+1332,s0368_09[TZER].png.min,Thresh to Zero,101,4,28
+1333,s0469_07[TOZI].png.min,Thresh to Zero Invert,238,1,49
+1334,f0260_02[TZER].png.min,Thresh to Zero,76,5,4
+1335,s0441_10[BINV].png.min,Binary Invert,12,2,43
+1336,s0355_08[TOZI].png.min,Thresh to Zero Invert,330,2,49
+1337,f0271_04[TZER].png.min,Thresh to Zero,117,3,27
+1338,s0327_08[BINV].png.min,Binary Invert,86,1,54
+1339,f0424_03[BINV].png.min,Binary Invert,3,4,14
+1340,s0495_05[BINV].png.min,Binary Invert,0,2,44
+1341,f0496_03[TRUC].png.min,Trunc,98,3,20
+1342,f0295_07[TZER].png.min,Thresh to Zero,79,1,43
+1343,s0271_04[BINA].png.min,Binary,68,5,14
+1344,f0336_02[TZER].png.min,Thresh to Zero,66,1,57
+1345,f0395_08[TRUC].png.min,Trunc,175,2,36
+1346,f0342_10[TZER].png.min,Thresh to Zero,48,5,5
+1347,s0387_04[BINA].png.min,Binary,147,3,28
+1348,s0286_02[BINA].png.min,Binary,109,2,49
+1349,f0420_09[TOZI].png.min,Thresh to Zero Invert,307,2,55
+1350,f0348_08[TZER].png.min,Thresh to Zero,85,2,37
+1351,s0272_09[BINA].png.min,Binary,51,2,31
+1352,s0391_01[TZER].png.min,Thresh to Zero,93,2,28
+1353,s0356_02.png.min,No Filter,172,4,28
+1354,f0400_02[BINA].png.min,Binary,36,3,32
+1355,f0382_01[BINA].png.min,Binary,103,3,39
+1356,s0481_07[BINA].png.min,Binary,65,2,45
+1357,s0388_06[TRUC].png.min,Trunc,90,4,15
+1358,s0354_05[TOZI].png.min,Thresh to Zero Invert,231,4,26
+1359,s0446_01[TRUC].png.min,Trunc,114,2,49
+1360,f0314_04[BINA].png.min,Binary,119,5,21
+1361,f0296_10[BINA].png.min,Binary,1,1,50
+1362,s0321_05.png.min,No Filter,106,3,37
+1363,s0284_10[BINV].png.min,Binary Invert,66,1,48
+1364,s0435_10[BINA].png.min,Binary,45,2,28
+1365,f0286_02[BINV].png.min,Binary Invert,123,1,37
+1366,s0273_09.png.min,No Filter,108,1,49
+1367,f0323_09[TZER].png.min,Thresh to Zero,106,2,9
+1368,f0432_06.png.min,No Filter,102,3,52
+1369,f0446_01[TRUC].png.min,Trunc,106,2,28
+1370,f0405_02[TRUC].png.min,Trunc,101,3,34
+1371,s0269_01[TOZI].png.min,Thresh to Zero Invert,157,3,47
+1372,f0378_05.png.min,No Filter,147,3,26
+1373,s0429_04[TOZI].png.min,Thresh to Zero Invert,212,3,35
+1374,s0355_08[TZER].png.min,Thresh to Zero,109,4,20
+1375,s0394_07[TRUC].png.min,Trunc,151,3,25
+1376,s0416_06[BINA].png.min,Binary,157,2,21
+1377,s0358_09[BINV].png.min,Binary Invert,1,1,42
+1378,f0304_08[TRUC].png.min,Trunc,95,3,50
+1379,s0272_09[TOZI].png.min,Thresh to Zero Invert,261,2,46
+1380,s0445_01[TRUC].png.min,Trunc,111,5,20
+1381,s0453_08.png.min,No Filter,153,5,33
+1382,s0359_03[TRUC].png.min,Trunc,187,3,26
+1383,s0487_02[TOZI].png.min,Thresh to Zero Invert,269,2,36
+1384,s0420_09[TZER].png.min,Thresh to Zero,113,3,15
+1385,s0373_09[TRUC].png.min,Trunc,101,5,21
+1386,s0414_01[TOZI].png.min,Thresh to Zero Invert,301,3,47
+1387,f0374_04[TRUC].png.min,Trunc,85,3,45
+1388,f0380_04.png.min,No Filter,126,5,24
+1389,f0484_05[TOZI].png.min,Thresh to Zero Invert,178,2,30
+1390,f0404_08[BINV].png.min,Binary Invert,116,4,14
+1391,f0280_02[BINA].png.min,Binary,16,2,40
+1392,f0372_07[TZER].png.min,Thresh to Zero,91,1,51
+1393,s0395_08[BINV].png.min,Binary Invert,37,3,9
+1394,f0434_06[TOZI].png.min,Thresh to Zero Invert,372,1,47
+1395,f0304_08[TOZI].png.min,Thresh to Zero Invert,227,3,30
+1396,s0496_03[TOZI].png.min,Thresh to Zero Invert,230,1,47
+1397,f0285_08[TOZI].png.min,Thresh to Zero Invert,161,4,8
+1398,f0419_08[BINV].png.min,Binary Invert,95,5,22
+1399,f0460_04[BINV].png.min,Binary Invert,112,1,13
+1400,f0431_05[TRUC].png.min,Trunc,87,3,27
+1401,f0316_03[BINV].png.min,Binary Invert,92,3,32
+1402,f0269_01[TOZI].png.min,Thresh to Zero Invert,245,2,21
+1403,s0438_05[TOZI].png.min,Thresh to Zero Invert,147,2,30
+1404,f0419_08[TRUC].png.min,Trunc,82,5,2
+1405,s0401_08[BINV].png.min,Binary Invert,120,3,9
+1406,f0365_07[TRUC].png.min,Trunc,112,2,12
+1407,s0296_10[BINV].png.min,Binary Invert,6,1,52
+1408,f0351_08[BINV].png.min,Binary Invert,62,4,11
+1409,f0365_07[TOZI].png.min,Thresh to Zero Invert,307,1,50
+1410,s0339_05[BINV].png.min,Binary Invert,44,2,51
+1411,f0414_01[BINA].png.min,Binary,0,2,37
+1412,s0367_08[TRUC].png.min,Trunc,95,2,40
+1413,s0403_07[BINV].png.min,Binary Invert,59,3,33
+1414,f0392_07[BINA].png.min,Binary,61,5,0
+1415,f0457_09[BINV].png.min,Binary Invert,47,2,39
+1416,s0402_01.png.min,No Filter,84,2,20
+1417,s0291_03[BINA].png.min,Binary,107,2,51
+1418,f0406_04[TRUC].png.min,Trunc,103,5,10
+1419,s0421_01[BINA].png.min,Binary,102,1,53
+1420,s0296_10.png.min,No Filter,71,3,38
+1421,s0408_01.png.min,No Filter,165,3,28
+1422,f0286_02[TZER].png.min,Thresh to Zero,123,5,16
+1423,s0433_03[TZER].png.min,Thresh to Zero,140,2,44
+1424,s0307_05.png.min,No Filter,165,2,8
+1425,s0428_09[TRUC].png.min,Trunc,25,4,17
+1426,s0478_07[TZER].png.min,Thresh to Zero,89,3,28
+1427,s0267_07[TRUC].png.min,Trunc,10,3,32
+1428,s0435_10[BINV].png.min,Binary Invert,64,5,2
+1429,f0350_07[TOZI].png.min,Thresh to Zero Invert,242,2,41
+1430,s0347_02[TRUC].png.min,Trunc,86,3,17
+1431,s0462_05.png.min,No Filter,87,2,45
+1432,s0314_04[BINA].png.min,Binary,72,4,18
+1433,f0498_05[TOZI].png.min,Thresh to Zero Invert,158,3,32
+1434,f0371_05[BINV].png.min,Binary Invert,60,3,20
+1435,f0403_07.png.min,No Filter,139,5,20
+1436,f0301_02[TZER].png.min,Thresh to Zero,21,2,40
+1437,s0429_04[BINV].png.min,Binary Invert,127,5,20
+1438,s0401_08[TOZI].png.min,Thresh to Zero Invert,168,5,14
+1439,s0353_03[BINA].png.min,Binary,14,2,51
+1440,s0380_04[BINV].png.min,Binary Invert,124,2,27
+1441,f0419_08[TOZI].png.min,Thresh to Zero Invert,222,3,22
+1442,s0252_01.png.min,No Filter,115,3,8
+1443,s0271_04[BINV].png.min,Binary Invert,83,2,10
+1444,s0422_07.png.min,No Filter,136,5,8
+1445,s0350_07[BINA].png.min,Binary,41,2,60
+1446,f0429_04[TZER].png.min,Thresh to Zero,39,3,32
+1447,f0335_06.png.min,No Filter,91,3,46
+1448,f0327_08[BINA].png.min,Binary,91,2,15
+1449,s0266_04[TOZI].png.min,Thresh to Zero Invert,251,3,27
+1450,f0361_06[TRUC].png.min,Trunc,150,3,17
+1451,f0472_07[BINV].png.min,Binary Invert,174,3,38
+1452,s0403_07[TOZI].png.min,Thresh to Zero Invert,71,3,31
+1453,s0475_03.png.min,No Filter,162,3,28
+1454,f0316_03[TZER].png.min,Thresh to Zero,73,1,56
+1455,s0325_06[TRUC].png.min,Trunc,17,2,40
+1456,f0453_08[BINV].png.min,Binary Invert,114,5,3
+1457,f0318_05[BINA].png.min,Binary,108,2,41
+1458,s0399_02[TRUC].png.min,Trunc,133,5,24
+1459,f0467_01[TZER].png.min,Thresh to Zero,98,2,25
+1460,f0483_01[BINV].png.min,Binary Invert,5,3,30
+1461,f0318_05[BINV].png.min,Binary Invert,90,3,12
+1462,f0400_02[TOZI].png.min,Thresh to Zero Invert,29,1,57
+1463,s0270_01[BINA].png.min,Binary,149,1,38
+1464,f0282_03[BINV].png.min,Binary Invert,68,2,42
+1465,s0404_08[BINA].png.min,Binary,84,2,36
+1466,s0408_01[BINV].png.min,Binary Invert,41,2,48
+1467,f0333_08[BINA].png.min,Binary,93,5,17
+1468,s0379_06[TRUC].png.min,Trunc,166,5,21
+1469,s0491_05[TZER].png.min,Thresh to Zero,115,5,7
+1470,f0344_06.png.min,No Filter,125,3,7
+1471,f0439_02[TZER].png.min,Thresh to Zero,52,2,23
+1472,s0448_03.png.min,No Filter,103,3,31
+1473,f0421_01[TOZI].png.min,Thresh to Zero Invert,184,3,19
+1474,f0433_03[TRUC].png.min,Trunc,111,4,15
+1475,f0331_05[TOZI].png.min,Thresh to Zero Invert,259,1,52
+1476,s0391_01.png.min,No Filter,93,3,22
+1477,s0389_07[TOZI].png.min,Thresh to Zero Invert,212,3,21
+1478,s0441_10[TOZI].png.min,Thresh to Zero Invert,170,3,12
+1479,f0487_02[TRUC].png.min,Trunc,159,2,46
+1480,s0486_10[BINA].png.min,Binary,94,5,13
+1481,f0334_02[TRUC].png.min,Trunc,93,2,47
+1482,s0427_06[TOZI].png.min,Thresh to Zero Invert,259,2,39
+1483,s0493_01[TZER].png.min,Thresh to Zero,112,2,33
+1484,s0414_01.png.min,No Filter,155,2,47
+1485,s0271_04.png.min,No Filter,149,2,41
+1486,f0439_02[BINV].png.min,Binary Invert,42,1,40
+1487,f0481_07[BINA].png.min,Binary,27,5,16
+1488,s0498_05[BINA].png.min,Binary,6,4,22
+1489,f0396_09[BINA].png.min,Binary,71,3,13
+1490,f0468_02[TZER].png.min,Thresh to Zero,120,2,26
+1491,s0312_08.png.min,No Filter,153,5,10
+1492,s0279_06[TOZI].png.min,Thresh to Zero Invert,231,1,44
+1493,f0293_01[TRUC].png.min,Trunc,138,4,26
+1494,f0484_05.png.min,No Filter,150,3,34
+1495,s0255_05[BINV].png.min,Binary Invert,144,4,29
+1496,f0434_06[BINA].png.min,Binary,72,2,50
+1497,f0289_01[TOZI].png.min,Thresh to Zero Invert,144,3,33
+1498,s0446_01[BINA].png.min,Binary,73,3,50
+1499,f0314_04[BINV].png.min,Binary Invert,123,4,34
+1500,s0262_05.png.min,No Filter,96,3,54
+1501,s0262_05[TZER].png.min,Thresh to Zero,96,3,27
+1502,s0496_03.png.min,No Filter,101,3,42
+1503,f0441_10[BINA].png.min,Binary,29,4,13
+1504,f0498_05[TRUC].png.min,Trunc,95,3,15
+1505,s0419_08[BINV].png.min,Binary Invert,86,3,22
+1506,f0298_06[TZER].png.min,Thresh to Zero,13,4,19
+1507,s0439_02[BINA].png.min,Binary,117,2,43
+1508,s0343_09[TOZI].png.min,Thresh to Zero Invert,242,4,25
+1509,s0375_02[BINV].png.min,Binary Invert,86,3,48
+1510,f0302_01[BINA].png.min,Binary,104,2,38
+1511,s0365_07[TZER].png.min,Thresh to Zero,92,4,18
+1512,f0287_07.png.min,No Filter,168,2,16
+1513,f0369_04[TZER].png.min,Thresh to Zero,103,5,14
+1514,f0302_01[TOZI].png.min,Thresh to Zero Invert,162,3,26
+1515,f0427_06[BINA].png.min,Binary,64,3,30
+1516,f0404_08.png.min,No Filter,136,1,40
+1517,s0306_03[BINA].png.min,Binary,45,3,26
+1518,f0333_08[TZER].png.min,Thresh to Zero,116,2,37
+1519,f0483_01[TOZI].png.min,Thresh to Zero Invert,201,3,30
+1520,f0294_06[TZER].png.min,Thresh to Zero,151,2,38
+1521,s0490_01.png.min,No Filter,130,2,42
+1522,s0478_07[BINV].png.min,Binary Invert,37,2,41
+1523,s0301_02[BINA].png.min,Binary,41,2,35
+1524,f0492_02[BINV].png.min,Binary Invert,110,4,12
+1525,s0451_10[BINV].png.min,Binary Invert,35,2,5
+1526,f0397_06[TOZI].png.min,Thresh to Zero Invert,110,2,47
+1527,s0396_09[TZER].png.min,Thresh to Zero,20,2,15
+1528,f0494_08[TZER].png.min,Thresh to Zero,43,2,39
+1529,s0402_01[BINA].png.min,Binary,64,5,6
+1530,f0315_03.png.min,No Filter,71,2,37
+1531,f0466_10[TRUC].png.min,Trunc,115,4,28
+1532,f0471_01[BINA].png.min,Binary,67,3,13
+1533,s0490_01[TOZI].png.min,Thresh to Zero Invert,149,1,46
+1534,f0350_07[BINA].png.min,Binary,94,1,46
+1535,s0436_09[BINA].png.min,Binary,117,3,11
+1536,f0336_02[BINA].png.min,Binary,71,4,24
+1537,s0283_02[TZER].png.min,Thresh to Zero,101,4,26
+1538,f0279_06.png.min,No Filter,149,2,46
+1539,s0258_04[TOZI].png.min,Thresh to Zero Invert,139,3,28
+1540,s0428_09.png.min,No Filter,187,3,12
+1541,f0386_02[BINV].png.min,Binary Invert,64,2,33
+1542,f0435_10[TRUC].png.min,Trunc,108,5,5
+1543,f0292_04[TZER].png.min,Thresh to Zero,112,3,17
+1544,f0275_02.png.min,No Filter,84,2,20
+1545,f0260_02[BINV].png.min,Binary Invert,103,3,42
+1546,s0371_05.png.min,No Filter,196,4,17
+1547,s0316_03[BINV].png.min,Binary Invert,125,5,18
+1548,s0274_05[TOZI].png.min,Thresh to Zero Invert,231,4,28
+1549,s0254_08[TOZI].png.min,Thresh to Zero Invert,292,5,11
+1550,f0350_07.png.min,No Filter,137,1,47
+1551,f0353_03.png.min,No Filter,212,2,51
+1552,f0363_10[BINV].png.min,Binary Invert,116,3,33
+1553,f0278_03[BINV].png.min,Binary Invert,77,5,21
+1554,s0369_04[BINV].png.min,Binary Invert,77,4,31
+1555,f0298_06.png.min,No Filter,130,3,21
+1556,f0331_05[TZER].png.min,Thresh to Zero,62,2,37
+1557,f0288_01[TRUC].png.min,Trunc,108,3,47
+1558,f0433_03[TZER].png.min,Thresh to Zero,87,3,20
+1559,f0378_05[BINA].png.min,Binary,122,1,53
+1560,f0343_09[TRUC].png.min,Trunc,104,1,37
+1561,s0271_04[TOZI].png.min,Thresh to Zero Invert,265,3,32
+1562,s0437_04.png.min,No Filter,136,2,45
+1563,s0415_04[BINA].png.min,Binary,65,1,45
+1564,f0444_03[TRUC].png.min,Trunc,89,3,38
+1565,f0378_05[TOZI].png.min,Thresh to Zero Invert,173,3,8
+1566,f0405_02[BINV].png.min,Binary Invert,119,1,59
+1567,f0261_01[BINV].png.min,Binary Invert,91,5,13
+1568,s0379_06[TZER].png.min,Thresh to Zero,70,2,25
+1569,f0499_03[TOZI].png.min,Thresh to Zero Invert,235,5,13
+1570,s0444_03.png.min,No Filter,98,4,24
+1571,s0477_04[TRUC].png.min,Trunc,116,5,20
+1572,s0266_04[BINA].png.min,Binary,139,5,6
+1573,s0482_08[BINV].png.min,Binary Invert,115,5,14
+1574,f0484_05[BINA].png.min,Binary,91,3,29
+1575,f0406_04.png.min,No Filter,114,2,30
+1576,f0410_06.png.min,No Filter,88,4,17
+1577,f0281_04[TZER].png.min,Thresh to Zero,67,5,14
+1578,f0279_06[TRUC].png.min,Trunc,160,3,21
+1579,s0416_06.png.min,No Filter,158,2,54
+1580,f0499_03[TRUC].png.min,Trunc,159,2,33
+1581,s0367_08[BINV].png.min,Binary Invert,87,5,6
+1582,s0252_01[BINA].png.min,Binary,86,5,16
+1583,s0299_06[TRUC].png.min,Trunc,89,3,22
+1584,s0483_01[TZER].png.min,Thresh to Zero,78,2,10
+1585,s0471_01[TRUC].png.min,Trunc,160,2,18
+1586,s0463_10[BINV].png.min,Binary Invert,83,2,25
+1587,s0376_01[BINA].png.min,Binary,21,2,44
+1588,f0357_07[TOZI].png.min,Thresh to Zero Invert,143,1,53
+1589,f0272_09[TZER].png.min,Thresh to Zero,136,3,26
+1590,f0398_03[TRUC].png.min,Trunc,163,3,39
+1591,f0364_03[TZER].png.min,Thresh to Zero,29,2,54
+1592,f0390_09[BINV].png.min,Binary Invert,107,3,20
+1593,s0496_03[BINA].png.min,Binary,74,5,18
+1594,f0346_09[TZER].png.min,Thresh to Zero,32,3,31
+1595,s0433_03.png.min,No Filter,151,5,21
+1596,s0257_07[TRUC].png.min,Trunc,143,2,50
+1597,s0432_06[TZER].png.min,Thresh to Zero,81,4,7
+1598,f0489_04[TRUC].png.min,Trunc,71,3,26
+1599,s0498_05[TOZI].png.min,Thresh to Zero Invert,165,2,30
+1600,s0284_10[TOZI].png.min,Thresh to Zero Invert,191,4,25
+1601,f0283_02[TOZI].png.min,Thresh to Zero Invert,167,3,48
+1602,f0487_02[TZER].png.min,Thresh to Zero,163,2,14
+1603,f0338_04[TOZI].png.min,Thresh to Zero Invert,213,2,38
+1604,s0455_04[TRUC].png.min,Trunc,154,2,32
+1605,s0351_08[TRUC].png.min,Trunc,127,3,45
+1606,f0377_04.png.min,No Filter,171,3,15
+1607,f0422_07.png.min,No Filter,126,5,13
+1608,f0490_01[TOZI].png.min,Thresh to Zero Invert,179,1,48
+1609,f0500_02[TOZI].png.min,Thresh to Zero Invert,238,3,22
+1610,s0257_07[TZER].png.min,Thresh to Zero,43,3,34
+1611,s0463_10.png.min,No Filter,172,2,40
+1612,f0260_02.png.min,No Filter,137,1,49
+1613,s0392_07[BINA].png.min,Binary,91,4,29
+1614,s0465_08.png.min,No Filter,164,5,7
+1615,s0438_05[BINA].png.min,Binary,119,2,36
+1616,s0295_07[BINA].png.min,Binary,19,2,46
+1617,s0280_02.png.min,No Filter,102,5,10
+1618,f0356_02[TOZI].png.min,Thresh to Zero Invert,274,4,11
+1619,s0369_04[TOZI].png.min,Thresh to Zero Invert,275,1,41
+1620,f0305_01[TZER].png.min,Thresh to Zero,110,4,25
+1621,f0298_06[TOZI].png.min,Thresh to Zero Invert,179,5,13
+1622,f0442_04[BINV].png.min,Binary Invert,134,5,4
+1623,s0382_01[BINA].png.min,Binary,0,2,42
+1624,f0455_04[TOZI].png.min,Thresh to Zero Invert,247,1,27
+1625,s0455_04[TOZI].png.min,Thresh to Zero Invert,236,3,26
+1626,s0386_02[BINV].png.min,Binary Invert,23,1,45
+1627,f0320_10[TOZI].png.min,Thresh to Zero Invert,173,1,56
+1628,f0436_09[TOZI].png.min,Thresh to Zero Invert,239,1,40
+1629,f0379_06[TOZI].png.min,Thresh to Zero Invert,168,3,38
+1630,s0399_02[BINA].png.min,Binary,15,3,29
+1631,s0376_01[TZER].png.min,Thresh to Zero,22,3,16
+1632,f0311_03[BINV].png.min,Binary Invert,100,2,18
+1633,s0276_09[BINA].png.min,Binary,112,2,37
+1634,f0327_08[TZER].png.min,Thresh to Zero,90,1,52
+1635,f0453_08[TRUC].png.min,Trunc,152,2,58
+1636,s0344_06[BINA].png.min,Binary,50,4,26
+1637,s0302_01[BINA].png.min,Binary,109,1,3
+1638,s0283_02[BINV].png.min,Binary Invert,96,4,22
+1639,s0274_05[TZER].png.min,Thresh to Zero,49,3,34
+1640,s0346_09[BINA].png.min,Binary,70,1,41
+1641,s0363_10.png.min,No Filter,160,3,37
+1642,s0480_04[TZER].png.min,Thresh to Zero,118,3,18
+1643,f0294_06.png.min,No Filter,147,3,37
+1644,s0361_06[BINV].png.min,Binary Invert,77,3,15
+1645,f0325_06[BINA].png.min,Binary,90,1,43
+1646,f0398_03[BINA].png.min,Binary,38,3,39
+1647,s0367_08[TZER].png.min,Thresh to Zero,93,5,4
+1648,f0362_05[TZER].png.min,Thresh to Zero,132,5,6
+1649,s0389_07[TZER].png.min,Thresh to Zero,4,3,21
+1650,s0406_04.png.min,No Filter,181,2,38
+1651,s0451_10.png.min,No Filter,142,3,19
+1652,s0369_04[TZER].png.min,Thresh to Zero,71,2,45
+1653,f0273_09.png.min,No Filter,87,1,30
+1654,s0383_04[BINV].png.min,Binary Invert,113,3,36
+1655,f0470_01[BINA].png.min,Binary,50,5,24
+1656,s0301_02[BINV].png.min,Binary Invert,55,2,50
+1657,f0315_03[TRUC].png.min,Trunc,80,4,20
+1658,s0252_01[TZER].png.min,Thresh to Zero,81,3,30
+1659,f0289_01[TZER].png.min,Thresh to Zero,151,3,24
+1660,f0259_10[BINV].png.min,Binary Invert,70,3,31
+1661,f0280_02[TZER].png.min,Thresh to Zero,29,1,46
+1662,f0392_07[BINV].png.min,Binary Invert,73,2,38
+1663,s0457_09[TRUC].png.min,Trunc,117,2,28
+1664,s0476_09[BINV].png.min,Binary Invert,90,2,48
+1665,f0471_01[TRUC].png.min,Trunc,146,3,21
+1666,s0449_05[TRUC].png.min,Trunc,133,2,25
+1667,f0446_01.png.min,No Filter,112,3,18
+1668,f0455_04[TRUC].png.min,Trunc,113,3,44
+1669,s0266_04[TRUC].png.min,Trunc,148,1,39
+1670,s0414_01[BINA].png.min,Binary,133,3,27
+1671,s0352_09[BINV].png.min,Binary Invert,27,3,46
+1672,f0295_07[TRUC].png.min,Trunc,41,2,22
+1673,f0291_03[TOZI].png.min,Thresh to Zero Invert,276,1,45
+1674,f0486_10[BINA].png.min,Binary,12,2,46
+1675,f0297_01[BINV].png.min,Binary Invert,108,3,7
+1676,s0331_05[TOZI].png.min,Thresh to Zero Invert,257,3,17
+1677,f0443_06[TZER].png.min,Thresh to Zero,90,2,29
+1678,f0381_01.png.min,No Filter,93,1,52
+1679,s0451_10[TRUC].png.min,Trunc,132,5,16
+1680,f0430_10.png.min,No Filter,98,3,31
+1681,f0462_05[TZER].png.min,Thresh to Zero,82,5,15
+1682,f0300_08[BINA].png.min,Binary,40,3,15
+1683,s0457_09[BINA].png.min,Binary,12,3,6
+1684,f0367_08[BINV].png.min,Binary Invert,75,5,16
+1685,s0378_05[TRUC].png.min,Trunc,138,2,41
+1686,s0258_04[TRUC].png.min,Trunc,71,1,55
+1687,f0477_04[TOZI].png.min,Thresh to Zero Invert,200,1,48
+1688,f0469_07[BINV].png.min,Binary Invert,65,5,10
+1689,f0349_09.png.min,No Filter,105,2,36
+1690,f0362_05[TOZI].png.min,Thresh to Zero Invert,261,5,13
+1691,f0449_05.png.min,No Filter,101,2,39
+1692,f0385_07[TOZI].png.min,Thresh to Zero Invert,143,3,14
+1693,f0262_05[TRUC].png.min,Trunc,110,3,16
+1694,s0273_09[TRUC].png.min,Trunc,125,2,33
+1695,f0312_08[BINV].png.min,Binary Invert,165,2,43
+1696,f0476_09[TZER].png.min,Thresh to Zero,25,4,29
+1697,s0306_03.png.min,No Filter,118,3,51
+1698,s0297_01[BINA].png.min,Binary,149,4,18
+1699,f0287_07[TZER].png.min,Thresh to Zero,166,3,13
+1700,f0263_05[BINA].png.min,Binary,37,2,24
+1701,s0441_10[BINA].png.min,Binary,11,3,24
+1702,s0401_08[TRUC].png.min,Trunc,64,2,36
+1703,s0383_04.png.min,No Filter,119,4,18
+1704,s0357_07.png.min,No Filter,167,1,47
+1705,s0363_10[TRUC].png.min,Trunc,145,3,6
+1706,f0428_09[BINA].png.min,Binary,94,1,53
+1707,f0269_01[TZER].png.min,Thresh to Zero,142,3,15
+1708,f0382_01[TRUC].png.min,Trunc,137,1,50
+1709,f0409_05[TOZI].png.min,Thresh to Zero Invert,220,2,35
+1710,f0279_06[BINA].png.min,Binary,98,3,11
+1711,f0485_06[TRUC].png.min,Trunc,88,3,41
+1712,f0486_10.png.min,No Filter,132,4,28
+1713,f0299_06[BINV].png.min,Binary Invert,168,2,26
+1714,s0491_05[BINV].png.min,Binary Invert,132,5,6
+1715,f0336_02[TRUC].png.min,Trunc,153,4,17
+1716,s0256_03[TZER].png.min,Thresh to Zero,41,5,7
+1717,s0426_04[BINA].png.min,Binary,117,4,20
+1718,s0350_07[TZER].png.min,Thresh to Zero,45,2,33
+1719,f0415_04[TZER].png.min,Thresh to Zero,102,3,13
+1720,f0447_01[TRUC].png.min,Trunc,175,2,9
+1721,s0259_10[TOZI].png.min,Thresh to Zero Invert,127,2,12
+1722,s0432_06[TOZI].png.min,Thresh to Zero Invert,300,4,8
+1723,f0431_05[TZER].png.min,Thresh to Zero,82,2,44
+1724,f0354_05[BINV].png.min,Binary Invert,7,1,58
+1725,s0328_09[TZER].png.min,Thresh to Zero,29,2,47
+1726,s0400_02[BINA].png.min,Binary,99,2,53
+1727,s0398_03[BINA].png.min,Binary,142,2,28
+1728,f0473_01[BINV].png.min,Binary Invert,186,5,1
+1729,s0296_10[TOZI].png.min,Thresh to Zero Invert,18,1,46
+1730,s0429_04.png.min,No Filter,103,5,5
+1731,s0393_06[BINA].png.min,Binary,33,5,5
+1732,s0292_04[BINA].png.min,Binary,37,1,52
+1733,s0319_06[TZER].png.min,Thresh to Zero,103,1,43
+1734,s0341_03[BINV].png.min,Binary Invert,105,2,25
+1735,s0393_06[TZER].png.min,Thresh to Zero,32,3,20
+1736,s0498_05[TZER].png.min,Thresh to Zero,11,2,54
+1737,f0481_07[TZER].png.min,Thresh to Zero,24,3,10
+1738,f0487_02.png.min,No Filter,168,3,37
+1739,s0276_09[BINV].png.min,Binary Invert,132,5,13
+1740,f0457_09[TOZI].png.min,Thresh to Zero Invert,203,3,32
+1741,s0346_09[BINV].png.min,Binary Invert,79,5,11
+1742,s0449_05[BINA].png.min,Binary,59,5,12
+1743,f0458_07.png.min,No Filter,137,1,41
+1744,f0310_05[TRUC].png.min,Trunc,146,3,26
+1745,f0481_07[TOZI].png.min,Thresh to Zero Invert,259,1,53
+1746,f0382_01[TOZI].png.min,Thresh to Zero Invert,211,2,35
+1747,s0426_04[TZER].png.min,Thresh to Zero,125,3,26
+1748,s0289_01[TOZI].png.min,Thresh to Zero Invert,164,3,32
+1749,f0335_06[BINV].png.min,Binary Invert,92,2,33
+1750,s0278_03[TOZI].png.min,Thresh to Zero Invert,243,2,46
+1751,s0325_06[BINV].png.min,Binary Invert,59,1,52
+1752,s0390_09[TOZI].png.min,Thresh to Zero Invert,253,3,30
+1753,f0322_06[TOZI].png.min,Thresh to Zero Invert,272,3,7
+1754,s0381_01[TRUC].png.min,Trunc,100,3,20
+1755,s0326_07[TRUC].png.min,Trunc,104,3,46
+1756,s0322_06.png.min,No Filter,158,3,23
+1757,s0405_02[TRUC].png.min,Trunc,144,2,46
+1758,s0410_06[BINA].png.min,Binary,17,3,43
+1759,s0317_05.png.min,No Filter,112,2,16
+1760,f0488_10[BINV].png.min,Binary Invert,78,3,38
+1761,s0447_01.png.min,No Filter,153,4,22
+1762,f0462_05[TOZI].png.min,Thresh to Zero Invert,121,5,13
+1763,f0484_05[TRUC].png.min,Trunc,62,2,21
+1764,s0349_09.png.min,No Filter,102,5,15
+1765,f0366_06[TRUC].png.min,Trunc,111,1,29
+1766,s0462_05[TZER].png.min,Thresh to Zero,96,3,16
+1767,s0276_09[TOZI].png.min,Thresh to Zero Invert,243,2,35
+1768,s0379_06[BINA].png.min,Binary,79,2,23
+1769,f0312_08.png.min,No Filter,116,1,52
+1770,s0366_06[TRUC].png.min,Trunc,57,5,3
+1771,s0284_10[BINA].png.min,Binary,64,4,10
+1772,s0500_02[BINA].png.min,Binary,76,2,28
+1773,s0347_02[TZER].png.min,Thresh to Zero,71,3,38
+1774,s0251_05.png.min,No Filter,119,2,41
+1775,f0399_02[TOZI].png.min,Thresh to Zero Invert,218,2,40
+1776,s0286_02[TZER].png.min,Thresh to Zero,120,5,4
+1777,f0252_01[TZER].png.min,Thresh to Zero,56,2,32
+1778,s0485_06.png.min,No Filter,135,3,40
+1779,f0411_05[TZER].png.min,Thresh to Zero,47,4,26
+1780,f0276_09[TRUC].png.min,Trunc,134,1,42
+1781,f0365_07[BINA].png.min,Binary,91,5,9
+1782,f0447_01.png.min,No Filter,178,3,31
+1783,s0375_02[TOZI].png.min,Thresh to Zero Invert,164,2,43
+1784,s0353_03[TZER].png.min,Thresh to Zero,19,3,45
+1785,f0432_06[TOZI].png.min,Thresh to Zero Invert,369,5,8
+1786,s0345_05.png.min,No Filter,172,4,23
+1787,f0255_05[TRUC].png.min,Trunc,13,2,54
+1788,s0385_07[BINA].png.min,Binary,51,3,27
+1789,s0457_09[TOZI].png.min,Thresh to Zero Invert,176,2,47
+1790,f0421_01[TZER].png.min,Thresh to Zero,138,3,33
+1791,s0463_10[TOZI].png.min,Thresh to Zero Invert,232,3,17
+1792,f0449_05[TOZI].png.min,Thresh to Zero Invert,242,4,20
+1793,f0346_09[TRUC].png.min,Trunc,84,2,50
+1794,f0298_06[BINA].png.min,Binary,19,3,48
+1795,f0375_02[TZER].png.min,Thresh to Zero,112,2,42
+1796,s0265_04[BINA].png.min,Binary,57,2,41
+1797,s0341_03[TRUC].png.min,Trunc,83,4,23
+1798,s0476_09[TRUC].png.min,Trunc,105,4,6
+1799,f0267_07[BINA].png.min,Binary,89,1,49
+1800,s0413_01[BINV].png.min,Binary Invert,172,2,22
+1801,f0264_01[TZER].png.min,Thresh to Zero,71,3,13
+1802,f0258_04[TRUC].png.min,Trunc,98,3,36
+1803,s0315_03[TOZI].png.min,Thresh to Zero Invert,155,3,27
+1804,f0390_09.png.min,No Filter,116,3,32
+1805,f0485_06[TZER].png.min,Thresh to Zero,100,3,17
+1806,s0457_09[TZER].png.min,Thresh to Zero,10,3,13
+1807,s0329_09[TZER].png.min,Thresh to Zero,84,2,28
+1808,s0469_07.png.min,No Filter,153,3,23
+1809,s0295_07[BINV].png.min,Binary Invert,15,3,38
+1810,s0438_05[TRUC].png.min,Trunc,61,2,38
+1811,s0355_08[BINV].png.min,Binary Invert,152,3,32
+1812,f0490_01.png.min,No Filter,122,3,27
+1813,f0271_04.png.min,No Filter,155,4,22
+1814,f0322_06[BINA].png.min,Binary,71,2,42
+1815,f0366_06[TZER].png.min,Thresh to Zero,115,2,43
+1816,s0340_03[TRUC].png.min,Trunc,134,2,41
+1817,s0320_10[BINA].png.min,Binary,39,3,40
+1818,f0371_05.png.min,No Filter,121,2,48
+1819,f0292_04[TOZI].png.min,Thresh to Zero Invert,191,3,26
+1820,s0484_05[BINV].png.min,Binary Invert,2,3,17
+1821,s0496_03[TRUC].png.min,Trunc,90,4,28
+1822,s0346_09[TRUC].png.min,Trunc,36,2,50
+1823,f0308_09[TOZI].png.min,Thresh to Zero Invert,241,5,11
+1824,s0421_01[BINV].png.min,Binary Invert,119,4,28
+1825,f0265_04[TZER].png.min,Thresh to Zero,47,3,35
+1826,f0428_09[TOZI].png.min,Thresh to Zero Invert,190,2,45
+1827,f0354_05[TOZI].png.min,Thresh to Zero Invert,225,2,11
+1828,f0332_03[TZER].png.min,Thresh to Zero,70,2,51
+1829,s0468_02[TZER].png.min,Thresh to Zero,26,3,39
+1830,f0384_09[BINA].png.min,Binary,1,5,11
+1831,s0375_02[BINA].png.min,Binary,82,2,23
+1832,f0365_07[TZER].png.min,Thresh to Zero,100,3,32
+1833,s0281_04[TRUC].png.min,Trunc,64,2,25
+1834,f0348_08[BINV].png.min,Binary Invert,117,3,26
+1835,f0408_01[TZER].png.min,Thresh to Zero,38,2,42
+1836,f0294_06[TRUC].png.min,Trunc,45,2,28
+1837,f0289_01[BINV].png.min,Binary Invert,112,3,13
+1838,f0273_09[TOZI].png.min,Thresh to Zero Invert,164,5,10
+1839,f0366_06[TOZI].png.min,Thresh to Zero Invert,160,2,39
+1840,f0385_07[BINV].png.min,Binary Invert,122,3,35
+1841,s0292_04.png.min,No Filter,146,5,4
+1842,f0400_02.png.min,No Filter,132,2,24
+1843,f0492_02[TOZI].png.min,Thresh to Zero Invert,229,2,52
+1844,s0428_09[TOZI].png.min,Thresh to Zero Invert,141,1,37
+1845,s0293_01[TRUC].png.min,Trunc,141,1,54
+1846,f0341_03[TZER].png.min,Thresh to Zero,76,3,23
+1847,s0415_04[TZER].png.min,Thresh to Zero,72,3,34
+1848,f0259_10[TOZI].png.min,Thresh to Zero Invert,263,2,53
+1849,f0429_04.png.min,No Filter,83,2,46
+1850,f0264_01[TRUC].png.min,Trunc,125,1,42
+1851,f0459_05[BINA].png.min,Binary,21,1,45
+1852,f0436_09[BINV].png.min,Binary Invert,220,1,50
+1853,f0373_09[TZER].png.min,Thresh to Zero,104,2,44
+1854,f0435_10.png.min,No Filter,111,3,36
+1855,s0485_06[BINV].png.min,Binary Invert,70,2,15
+1856,s0482_08[BINA].png.min,Binary,98,3,25
+1857,f0405_02.png.min,No Filter,129,2,44
+1858,f0415_04[TRUC].png.min,Trunc,129,2,40
+1859,s0336_02[TRUC].png.min,Trunc,88,1,50
+1860,f0493_01.png.min,No Filter,128,5,8
+1861,s0500_02[TOZI].png.min,Thresh to Zero Invert,189,1,47
+1862,s0417_08[TRUC].png.min,Trunc,132,3,54
+1863,s0264_01[TOZI].png.min,Thresh to Zero Invert,204,2,29
+1864,f0317_05[BINV].png.min,Binary Invert,73,3,44
+1865,f0450_10[BINA].png.min,Binary,101,5,25
+1866,s0372_07.png.min,No Filter,115,1,53
+1867,s0398_03[TRUC].png.min,Trunc,176,3,29
+1868,f0277_05.png.min,No Filter,113,2,31
+1869,s0466_10[TZER].png.min,Thresh to Zero,41,3,46
+1870,f0381_01[TZER].png.min,Thresh to Zero,84,3,31
+1871,f0323_09[BINV].png.min,Binary Invert,112,2,38
+1872,s0458_07[TRUC].png.min,Trunc,105,1,53
+1873,f0251_05[BINA].png.min,Binary,27,1,51
+1874,s0496_03[BINV].png.min,Binary Invert,77,2,43
+1875,s0350_07[BINV].png.min,Binary Invert,64,3,35
+1876,s0339_05[BINA].png.min,Binary,39,2,35
+1877,s0276_09.png.min,No Filter,133,3,31
+1878,f0428_09[BINV].png.min,Binary Invert,97,2,51
+1879,s0389_07.png.min,No Filter,189,3,32
+1880,s0440_08.png.min,No Filter,217,4,20
+1881,f0376_01[TRUC].png.min,Trunc,146,2,40
+1882,f0295_07.png.min,No Filter,78,1,50
+1883,s0382_01[TZER].png.min,Thresh to Zero,0,3,30
+1884,s0480_04.png.min,No Filter,125,3,17
+1885,s0455_04[TZER].png.min,Thresh to Zero,19,2,30
+1886,s0470_01[BINV].png.min,Binary Invert,106,5,5
+1887,s0287_07[TOZI].png.min,Thresh to Zero Invert,226,5,3
+1888,s0397_06[TZER].png.min,Thresh to Zero,85,4,11
+1889,s0270_01[TRUC].png.min,Trunc,95,3,39
+1890,s0281_04[TZER].png.min,Thresh to Zero,156,1,51
+1891,f0432_06[TRUC].png.min,Trunc,106,4,14
+1892,f0318_05[TZER].png.min,Thresh to Zero,118,3,26
+1893,s0371_05[BINA].png.min,Binary,114,2,19
+1894,f0397_06[TZER].png.min,Thresh to Zero,77,1,30
+1895,f0416_06[BINA].png.min,Binary,82,2,48
+1896,s0354_05[BINV].png.min,Binary Invert,163,3,41
+1897,s0446_01.png.min,No Filter,115,2,27
+1898,s0380_04[BINA].png.min,Binary,87,4,28
+1899,s0280_02[BINA].png.min,Binary,33,1,51
+1900,f0327_08.png.min,No Filter,120,4,27
+1901,f0462_05[BINV].png.min,Binary Invert,81,5,23
+1902,f0398_03.png.min,No Filter,158,1,48
+1903,s0423_02[TRUC].png.min,Trunc,150,4,20
+1904,f0402_01.png.min,No Filter,88,5,4
+1905,f0441_10[TRUC].png.min,Trunc,95,5,13
+1906,s0266_04[BINV].png.min,Binary Invert,132,2,56
+1907,f0281_04[TRUC].png.min,Trunc,145,5,8
+1908,f0470_01[TRUC].png.min,Trunc,127,3,32
+1909,s0312_08[BINV].png.min,Binary Invert,140,5,17
+1910,s0477_04[TZER].png.min,Thresh to Zero,80,2,49
+1911,f0332_03.png.min,No Filter,128,2,54
+1912,f0288_01[BINA].png.min,Binary,78,2,46
+1913,s0481_07[TOZI].png.min,Thresh to Zero Invert,185,2,56
+1914,s0273_09[TZER].png.min,Thresh to Zero,11,2,25
+1915,s0445_01.png.min,No Filter,108,4,13
+1916,s0419_08.png.min,No Filter,185,1,48
+1917,f0339_05[BINA].png.min,Binary,77,1,48
+1918,f0390_09[TRUC].png.min,Trunc,80,1,49
+1919,s0412_07[BINA].png.min,Binary,89,1,51
+1920,s0354_05[TRUC].png.min,Trunc,95,2,49
+1921,f0268_09[TZER].png.min,Thresh to Zero,37,4,16
+1922,f0493_01[BINA].png.min,Binary,122,3,40
+1923,f0286_02[TOZI].png.min,Thresh to Zero Invert,191,3,36
+1924,f0358_09[TZER].png.min,Thresh to Zero,129,3,32
+1925,f0500_02.png.min,No Filter,161,3,22
+1926,s0384_09[BINA].png.min,Binary,6,2,29
+1927,s0490_01[TZER].png.min,Thresh to Zero,5,2,33
+1928,f0361_06[BINA].png.min,Binary,53,5,8
+1929,f0363_10[TRUC].png.min,Trunc,65,3,37
+1930,f0494_08[TRUC].png.min,Trunc,109,2,42
+1931,f0303_03[BINV].png.min,Binary Invert,42,2,45
+1932,s0446_01[TZER].png.min,Thresh to Zero,87,3,39
+1933,s0283_02.png.min,No Filter,139,3,51
+1934,s0303_03[BINA].png.min,Binary,18,1,51
+1935,s0340_03[BINA].png.min,Binary,124,2,48
+1936,f0499_03[BINA].png.min,Binary,150,3,35
+1937,f0491_05.png.min,No Filter,138,1,48
+1938,s0287_07[BINV].png.min,Binary Invert,110,2,45
+1939,s0461_03[BINV].png.min,Binary Invert,97,3,37
+1940,f0324_04.png.min,No Filter,111,5,29
+1941,s0323_09[TRUC].png.min,Trunc,133,3,47
+1942,f0360_09[TRUC].png.min,Trunc,86,2,47
+1943,s0260_02[BINA].png.min,Binary,65,2,40
+1944,s0303_03.png.min,No Filter,188,3,29
+1945,s0344_06[TRUC].png.min,Trunc,96,1,51
+1946,s0484_05[BINA].png.min,Binary,1,5,38
+1947,s0309_05[TZER].png.min,Thresh to Zero,79,2,52
+1948,s0493_01[BINV].png.min,Binary Invert,130,4,22
+1949,s0265_04[TZER].png.min,Thresh to Zero,67,5,7
+1950,f0312_08[TRUC].png.min,Trunc,91,2,54
+1951,s0293_01.png.min,No Filter,145,3,41
+1952,s0349_09[BINA].png.min,Binary,96,5,19
+1953,f0358_09[TOZI].png.min,Thresh to Zero Invert,237,1,48
+1954,f0394_07[TRUC].png.min,Trunc,66,4,25
+1955,s0458_07[BINV].png.min,Binary Invert,56,3,13
+1956,f0441_10.png.min,No Filter,116,5,9
+1957,f0306_03[BINA].png.min,Binary,121,5,17
+1958,f0296_10[TOZI].png.min,Thresh to Zero Invert,174,2,55
+1959,f0254_08.png.min,No Filter,140,3,46
+1960,s0371_05[BINV].png.min,Binary Invert,108,5,14
+1961,f0444_03[BINA].png.min,Binary,80,3,39
+1962,s0390_09[BINA].png.min,Binary,55,3,28
+1963,f0328_09.png.min,No Filter,86,3,33
+1964,s0336_02[TOZI].png.min,Thresh to Zero Invert,137,4,10
+1965,s0308_09.png.min,No Filter,172,4,17
+1966,f0345_05[BINV].png.min,Binary Invert,88,3,45
+1967,f0468_02.png.min,No Filter,112,3,20
+1968,f0457_09[BINA].png.min,Binary,44,3,13
+1969,f0283_02[BINV].png.min,Binary Invert,120,2,32
+1970,f0380_04[BINA].png.min,Binary,34,2,33
+1971,s0431_05[TZER].png.min,Thresh to Zero,25,1,58
+1972,f0469_07[TOZI].png.min,Thresh to Zero Invert,213,1,49
+1973,f0384_09[TRUC].png.min,Trunc,193,3,26
+1974,f0466_10.png.min,No Filter,139,3,24
+1975,f0493_01[TZER].png.min,Thresh to Zero,118,3,27
+1976,f0471_01[TOZI].png.min,Thresh to Zero Invert,272,2,37
+1977,s0286_02[BINV].png.min,Binary Invert,115,4,13
+1978,f0378_05[TRUC].png.min,Trunc,80,2,44
+1979,f0271_04[TOZI].png.min,Thresh to Zero Invert,173,1,37
+1980,f0403_07[BINA].png.min,Binary,81,2,14
+1981,f0268_09[TOZI].png.min,Thresh to Zero Invert,227,1,51
+1982,s0483_01[BINA].png.min,Binary,40,4,14
+1983,s0287_07[TZER].png.min,Thresh to Zero,118,1,53
+1984,s0439_02[TRUC].png.min,Trunc,160,5,1
+1985,f0379_06.png.min,No Filter,185,2,39
+1986,f0403_07[BINV].png.min,Binary Invert,79,3,40
+1987,f0489_04[TOZI].png.min,Thresh to Zero Invert,200,2,45
+1988,f0282_03[TOZI].png.min,Thresh to Zero Invert,158,3,13
+1989,f0367_08[TRUC].png.min,Trunc,93,2,41
+1990,s0260_02[TZER].png.min,Thresh to Zero,77,1,54
+1991,s0469_07[BINV].png.min,Binary Invert,93,3,22
+1992,f0295_07[TOZI].png.min,Thresh to Zero Invert,71,1,49
+1993,s0392_07[TRUC].png.min,Trunc,43,3,26
+1994,s0300_08[TOZI].png.min,Thresh to Zero Invert,275,3,33
+1995,s0400_02[TZER].png.min,Thresh to Zero,114,2,40
+1996,f0423_02[BINA].png.min,Binary,79,4,32
+1997,f0276_09[BINV].png.min,Binary Invert,96,2,42
+1998,s0421_01.png.min,No Filter,138,1,45
+1999,s0332_03[TZER].png.min,Thresh to Zero,108,2,41
+2000,f0482_08[BINA].png.min,Binary,93,2,38
+2001,s0304_08[TOZI].png.min,Thresh to Zero Invert,238,3,38
+2002,f0309_05[BINA].png.min,Binary,102,3,40
+2003,s0446_01[BINV].png.min,Binary Invert,87,3,30
+2004,s0347_02[BINV].png.min,Binary Invert,84,2,43
+2005,s0356_02[TRUC].png.min,Trunc,172,5,11
+2006,f0342_10[TOZI].png.min,Thresh to Zero Invert,156,5,16
+2007,s0396_09[TRUC].png.min,Trunc,96,1,45
+2008,f0383_04[TRUC].png.min,Trunc,94,3,20
+2009,s0383_04[TOZI].png.min,Thresh to Zero Invert,220,4,18
+2010,s0333_08[TZER].png.min,Thresh to Zero,62,3,26
+2011,s0439_02[TZER].png.min,Thresh to Zero,136,3,9
+2012,s0379_06.png.min,No Filter,180,3,24
+2013,s0413_01[TOZI].png.min,Thresh to Zero Invert,239,1,36
+2014,s0400_02.png.min,No Filter,169,2,47
+2015,f0413_01[TOZI].png.min,Thresh to Zero Invert,283,3,33
+2016,s0475_03[BINV].png.min,Binary Invert,47,2,26
+2017,s0328_09.png.min,No Filter,190,2,38
+2018,f0341_03.png.min,No Filter,121,5,6
+2019,f0481_07[TRUC].png.min,Trunc,137,1,46
+2020,s0409_05[TRUC].png.min,Trunc,86,1,42
+2021,s0365_07.png.min,No Filter,134,1,50
+2022,f0341_03[BINA].png.min,Binary,77,1,47
+2023,s0368_09.png.min,No Filter,169,3,29
+2024,f0256_03[TZER].png.min,Thresh to Zero,64,3,34
+2025,f0449_05[TRUC].png.min,Trunc,98,5,16
+2026,s0269_01.png.min,No Filter,118,3,39
+2027,f0456_06.png.min,No Filter,164,3,23
+2028,f0303_03.png.min,No Filter,144,1,46
+2029,f0278_03[TRUC].png.min,Trunc,117,3,37
+2030,s0411_05[TRUC].png.min,Trunc,95,5,9
+2031,s0293_01[BINV].png.min,Binary Invert,82,2,29
+2032,f0392_07[TZER].png.min,Thresh to Zero,69,5,13
+2033,f0340_03[TOZI].png.min,Thresh to Zero Invert,328,4,37
+2034,s0470_01[BINA].png.min,Binary,97,3,27
+2035,f0442_04[TZER].png.min,Thresh to Zero,140,5,5
+2036,f0449_05[BINA].png.min,Binary,66,2,32
+2037,s0315_03.png.min,No Filter,89,5,9
+2038,s0492_02[TRUC].png.min,Trunc,104,2,51
+2039,f0253_08[BINA].png.min,Binary,73,2,36
+2040,f0359_03[BINA].png.min,Binary,122,3,43
+2041,f0355_08[TRUC].png.min,Trunc,137,1,48
+2042,s0392_07[TOZI].png.min,Thresh to Zero Invert,109,2,52
+2043,s0443_06[TZER].png.min,Thresh to Zero,61,4,5
+2044,f0381_01[BINA].png.min,Binary,80,2,29
+2045,f0386_02[TRUC].png.min,Trunc,141,2,24
+2046,f0377_04[TOZI].png.min,Thresh to Zero Invert,208,2,28
+2047,f0412_07[BINV].png.min,Binary Invert,147,3,40
+2048,f0353_03[TZER].png.min,Thresh to Zero,78,3,39
+2049,f0324_04[BINA].png.min,Binary,92,3,45
+2050,f0415_04[BINV].png.min,Binary Invert,115,1,52
+2051,s0373_09[BINA].png.min,Binary,86,2,39
+2052,f0308_09[BINV].png.min,Binary Invert,47,2,46
+2053,f0326_07.png.min,No Filter,144,3,38
+2054,f0348_08[BINA].png.min,Binary,87,4,13
+2055,s0370_02.png.min,No Filter,153,2,21
+2056,s0449_05[BINV].png.min,Binary Invert,75,2,38
+2057,s0372_07[BINV].png.min,Binary Invert,67,2,34
+2058,f0448_03[TRUC].png.min,Trunc,123,1,30
+2059,f0451_10.png.min,No Filter,132,2,36
+2060,s0297_01[TOZI].png.min,Thresh to Zero Invert,308,3,8
+2061,f0445_01[BINV].png.min,Binary Invert,53,3,32
+2062,f0440_08[BINA].png.min,Binary,52,3,34
+2063,s0472_07[BINA].png.min,Binary,120,1,52
+2064,f0465_08[TOZI].png.min,Thresh to Zero Invert,213,3,18
+2065,f0320_10[TRUC].png.min,Trunc,90,2,49
+2066,f0449_05[TZER].png.min,Thresh to Zero,67,2,52
+2067,f0324_04[TOZI].png.min,Thresh to Zero Invert,198,2,47
+2068,f0340_03.png.min,No Filter,191,2,20
+2069,f0448_03[TZER].png.min,Thresh to Zero,107,5,22
+2070,s0473_01[BINV].png.min,Binary Invert,40,5,3
+2071,f0399_02[BINV].png.min,Binary Invert,20,2,35
+2072,f0272_09[BINA].png.min,Binary,83,2,32
+2073,s0327_08.png.min,No Filter,120,3,22
+2074,s0364_03[TRUC].png.min,Trunc,88,3,7
+2075,f0493_01[BINV].png.min,Binary Invert,136,3,33
+2076,f0275_02[BINV].png.min,Binary Invert,74,1,46
+2077,s0259_10[BINA].png.min,Binary,95,2,36
+2078,s0348_08[BINA].png.min,Binary,74,2,49
+2079,s0341_03[TOZI].png.min,Thresh to Zero Invert,213,3,8
+2080,s0380_04.png.min,No Filter,145,5,21
+2081,s0255_05[BINA].png.min,Binary,133,5,19
+2082,s0418_02[TOZI].png.min,Thresh to Zero Invert,128,2,43
+2083,s0401_08[BINA].png.min,Binary,111,3,22
+2084,f0400_02[TRUC].png.min,Trunc,3,3,20
+2085,s0445_01[TOZI].png.min,Thresh to Zero Invert,164,2,40
+2086,f0373_09.png.min,No Filter,93,3,41
+2087,f0407_09[TZER].png.min,Thresh to Zero,51,5,6
+2088,f0462_05[TRUC].png.min,Trunc,51,3,40
+2089,s0335_06.png.min,No Filter,107,4,6
+2090,s0435_10[TRUC].png.min,Trunc,81,2,44
+2091,f0473_01[BINA].png.min,Binary,173,1,49
+2092,f0364_03.png.min,No Filter,128,2,44
+2093,f0270_01.png.min,No Filter,117,1,51
+2094,s0328_09[TRUC].png.min,Trunc,186,2,9
+2095,s0300_08[BINV].png.min,Binary Invert,32,2,23
+2096,f0495_05[TZER].png.min,Thresh to Zero,77,1,55
+2097,f0492_02[TZER].png.min,Thresh to Zero,103,1,50
+2098,s0345_05[TRUC].png.min,Trunc,17,2,13
+2099,s0489_04.png.min,No Filter,137,2,40
+2100,s0388_06.png.min,No Filter,139,3,38
+2101,f0271_04[BINA].png.min,Binary,88,5,17
+2102,s0280_02[TOZI].png.min,Thresh to Zero Invert,223,3,35
+2103,s0381_01[BINA].png.min,Binary,83,2,42
+2104,s0268_09[BINV].png.min,Binary Invert,30,3,36
+2105,f0349_09[TRUC].png.min,Trunc,103,4,17
+2106,f0388_06[TOZI].png.min,Thresh to Zero Invert,253,4,16
+2107,f0435_10[BINV].png.min,Binary Invert,46,2,25
+2108,f0294_06[TOZI].png.min,Thresh to Zero Invert,113,3,24
+2109,f0317_05[TOZI].png.min,Thresh to Zero Invert,193,4,18
+2110,s0368_09[TOZI].png.min,Thresh to Zero Invert,164,3,39
+2111,f0362_05[BINV].png.min,Binary Invert,121,2,49
+2112,f0410_06[BINA].png.min,Binary,116,2,37
+2113,f0432_06[BINA].png.min,Binary,106,3,37
+2114,f0307_05[TOZI].png.min,Thresh to Zero Invert,189,3,16
+2115,f0257_07[TOZI].png.min,Thresh to Zero Invert,188,4,14
+2116,s0411_05[BINV].png.min,Binary Invert,27,1,51
+2117,f0318_05.png.min,No Filter,122,2,39
+2118,s0358_09[TRUC].png.min,Trunc,147,2,32
+2119,f0409_05[BINA].png.min,Binary,131,1,40
+2120,s0499_03[TZER].png.min,Thresh to Zero,12,1,49
+2121,f0401_08.png.min,No Filter,91,2,53
+2122,s0342_10[TOZI].png.min,Thresh to Zero Invert,176,1,49
+2123,s0410_06[TZER].png.min,Thresh to Zero,23,3,33
+2124,s0351_08[TOZI].png.min,Thresh to Zero Invert,216,3,19
+2125,s0277_05.png.min,No Filter,190,3,12
+2126,f0373_09[TRUC].png.min,Trunc,81,3,22
+2127,f0319_06[TZER].png.min,Thresh to Zero,101,1,46
+2128,f0334_02[BINV].png.min,Binary Invert,75,2,31
+2129,s0291_03.png.min,No Filter,131,2,25
+2130,s0412_07[TZER].png.min,Thresh to Zero,88,3,45
+2131,f0383_04.png.min,No Filter,97,3,19
+2132,f0277_05[TRUC].png.min,Trunc,109,3,32
+2133,f0428_09[TZER].png.min,Thresh to Zero,119,3,40
+2134,f0265_04[TOZI].png.min,Thresh to Zero Invert,240,3,28
+2135,s0362_05[TZER].png.min,Thresh to Zero,45,2,27
+2136,s0411_05.png.min,No Filter,95,3,27
+2137,f0330_08[TZER].png.min,Thresh to Zero,159,1,60
+2138,f0471_01.png.min,No Filter,146,4,10
+2139,s0397_06[TOZI].png.min,Thresh to Zero Invert,100,4,13
+2140,f0314_04[TZER].png.min,Thresh to Zero,119,3,25
+2141,s0447_01[TOZI].png.min,Thresh to Zero Invert,173,3,15
+2142,f0301_02[BINV].png.min,Binary Invert,23,1,53
+2143,f0265_04[TRUC].png.min,Trunc,129,3,43
+2144,f0424_03[TRUC].png.min,Trunc,103,3,33
+2145,s0395_08[BINA].png.min,Binary,30,3,28
+2146,f0488_10[BINA].png.min,Binary,79,2,51
+2147,f0460_04.png.min,No Filter,158,3,10
+2148,s0436_09.png.min,No Filter,220,3,38
+2149,s0375_02[TZER].png.min,Thresh to Zero,110,2,50
+2150,f0464_06[TZER].png.min,Thresh to Zero,122,4,23
+2151,f0375_02[BINA].png.min,Binary,102,2,42
+2152,f0369_04[BINA].png.min,Binary,111,2,33
+2153,s0396_09[BINV].png.min,Binary Invert,13,3,40
+2154,f0429_04[BINA].png.min,Binary,39,2,43
+2155,s0307_05[TOZI].png.min,Thresh to Zero Invert,265,2,51
+2156,s0263_05[TOZI].png.min,Thresh to Zero Invert,209,4,29
+2157,s0466_10.png.min,No Filter,143,1,38
+2158,f0448_03[BINV].png.min,Binary Invert,117,1,51
+2159,f0380_04[TOZI].png.min,Thresh to Zero Invert,243,3,29
+2160,s0485_06[BINA].png.min,Binary,55,3,35
+2161,f0403_07[TZER].png.min,Thresh to Zero,89,5,11
+2162,s0370_02[TOZI].png.min,Thresh to Zero Invert,240,2,46
+2163,s0343_09[TZER].png.min,Thresh to Zero,108,2,53
+2164,f0281_04.png.min,No Filter,164,4,12
+2165,f0296_10.png.min,No Filter,137,2,50
+2166,s0401_08[TZER].png.min,Thresh to Zero,123,3,37
+2167,f0417_08[TRUC].png.min,Trunc,92,3,34
+2168,f0308_09[TRUC].png.min,Trunc,131,5,4
+2169,s0290_02[TOZI].png.min,Thresh to Zero Invert,332,5,21
+2170,f0393_06[TOZI].png.min,Thresh to Zero Invert,215,2,43
+2171,f0466_10[TOZI].png.min,Thresh to Zero Invert,247,3,42
+2172,s0324_04[TOZI].png.min,Thresh to Zero Invert,151,1,52
+2173,f0420_09[TRUC].png.min,Trunc,133,3,10
+2174,s0333_08[TOZI].png.min,Thresh to Zero Invert,273,3,21
+2175,s0330_08[BINA].png.min,Binary,188,5,29
+2176,f0402_01[BINA].png.min,Binary,72,1,43
+2177,f0389_07[BINV].png.min,Binary Invert,115,4,16
+2178,s0338_04[TZER].png.min,Thresh to Zero,30,2,10
+2179,f0455_04[TZER].png.min,Thresh to Zero,27,1,53
+2180,f0260_02[TRUC].png.min,Trunc,122,3,20
+2181,s0338_04[BINV].png.min,Binary Invert,27,2,45
+2182,s0366_06[BINA].png.min,Binary,151,5,15
+2183,f0430_10[TZER].png.min,Thresh to Zero,85,4,17
+2184,s0255_05[TOZI].png.min,Thresh to Zero Invert,145,1,51
+2185,f0390_09[BINA].png.min,Binary,93,2,13
+2186,f0380_04[TZER].png.min,Thresh to Zero,31,2,31
+2187,s0265_04[TRUC].png.min,Trunc,150,3,16
+2188,s0492_02[BINA].png.min,Binary,117,5,23
+2189,s0475_03[BINA].png.min,Binary,41,4,11
+2190,s0352_09[TRUC].png.min,Trunc,150,3,42
+2191,f0449_05[BINV].png.min,Binary Invert,64,5,1
+2192,f0278_03[BINA].png.min,Binary,66,3,44
+2193,f0393_06[TZER].png.min,Thresh to Zero,108,5,11
+2194,s0321_05[TZER].png.min,Thresh to Zero,51,1,23
+2195,f0491_05[BINV].png.min,Binary Invert,105,1,50
+2196,s0353_03[BINV].png.min,Binary Invert,14,3,48
+2197,s0285_08[TOZI].png.min,Thresh to Zero Invert,218,4,29
+2198,f0369_04.png.min,No Filter,104,2,37
+2199,s0334_02[TZER].png.min,Thresh to Zero,76,3,28
+2200,f0429_04[BINV].png.min,Binary Invert,32,5,2
+2201,s0405_02[TZER].png.min,Thresh to Zero,107,2,50
+2202,s0384_09[TRUC].png.min,Trunc,164,3,36
+2203,f0287_07[BINA].png.min,Binary,156,1,52
+2204,s0480_04[TOZI].png.min,Thresh to Zero Invert,112,2,46
+2205,s0278_03[BINV].png.min,Binary Invert,40,2,34
+2206,f0273_09[BINA].png.min,Binary,15,3,45
+2207,f0414_01[TZER].png.min,Thresh to Zero,142,3,20
+2208,s0419_08[BINA].png.min,Binary,63,1,49
+2209,f0272_09.png.min,No Filter,163,1,46
+2210,f0488_10[TRUC].png.min,Trunc,27,3,34
+2211,f0393_06.png.min,No Filter,132,2,28
+2212,s0292_04[TOZI].png.min,Thresh to Zero Invert,258,5,16
+2213,s0490_01[TRUC].png.min,Trunc,125,4,14
+2214,f0381_01[TOZI].png.min,Thresh to Zero Invert,256,2,36
+2215,f0257_07[TZER].png.min,Thresh to Zero,136,3,22
+2216,f0275_02[TRUC].png.min,Trunc,91,4,20
+2217,f0474_06.png.min,No Filter,184,3,24
+2218,s0256_03[BINA].png.min,Binary,48,3,38
+2219,s0380_04[TRUC].png.min,Trunc,121,3,44
+2220,s0332_03[TRUC].png.min,Trunc,66,1,54
+2221,s0486_10[BINV].png.min,Binary Invert,109,2,16
+2222,f0343_09[TZER].png.min,Thresh to Zero,5,1,49
+2223,f0417_08.png.min,No Filter,100,3,23
+2224,s0262_05[BINA].png.min,Binary,100,1,43
+2225,s0269_01[TRUC].png.min,Trunc,124,5,7
+2226,s0361_06[TOZI].png.min,Thresh to Zero Invert,287,4,12
+2227,f0354_05[TRUC].png.min,Trunc,162,2,36
+2228,f0425_07[TOZI].png.min,Thresh to Zero Invert,104,4,10
+2229,f0451_10[TZER].png.min,Thresh to Zero,129,2,40
+2230,f0456_06[TZER].png.min,Thresh to Zero,152,3,16
+2231,s0253_08[TOZI].png.min,Thresh to Zero Invert,263,4,31
+2232,s0254_08[TRUC].png.min,Trunc,149,4,17
+2233,s0274_05.png.min,No Filter,142,4,23
+2234,f0437_04[TOZI].png.min,Thresh to Zero Invert,222,5,17
+2235,f0422_07[TOZI].png.min,Thresh to Zero Invert,338,4,12
+2236,f0254_08[BINA].png.min,Binary,127,5,18
+2237,s0384_09[BINV].png.min,Binary Invert,10,2,27
+2238,s0338_04[BINA].png.min,Binary,34,3,28
+2239,s0281_04[BINA].png.min,Binary,172,2,43
+2240,f0296_10[BINV].png.min,Binary Invert,0,5,5
+2241,f0463_10[TRUC].png.min,Trunc,28,3,21
+2242,f0292_04[BINV].png.min,Binary Invert,104,5,17
+2243,f0450_10[TZER].png.min,Thresh to Zero,105,2,38
+2244,s0261_01[TRUC].png.min,Trunc,128,1,53
+2245,s0374_04[TZER].png.min,Thresh to Zero,40,2,38
+2246,f0477_04[TZER].png.min,Thresh to Zero,82,1,56
+2247,s0438_05.png.min,No Filter,208,2,42
+2248,s0425_07[BINV].png.min,Binary Invert,60,3,15
+2249,s0466_10[TOZI].png.min,Thresh to Zero Invert,211,4,19
+2250,f0447_01[BINV].png.min,Binary Invert,115,3,35
+2251,s0406_04[TOZI].png.min,Thresh to Zero Invert,235,2,51
+2252,s0456_06.png.min,No Filter,136,3,12
+2253,s0487_02[TRUC].png.min,Trunc,142,2,15
+2254,s0461_03[TRUC].png.min,Trunc,164,3,25
+2255,s0336_02[TZER].png.min,Thresh to Zero,156,3,16
+2256,f0438_05[BINV].png.min,Binary Invert,15,5,11
+2257,f0357_07[BINV].png.min,Binary Invert,66,5,17
+2258,f0386_02.png.min,No Filter,153,3,23
+2259,s0489_04[TZER].png.min,Thresh to Zero,66,2,38
+2260,s0332_03[TOZI].png.min,Thresh to Zero Invert,197,5,6
+2261,f0472_07.png.min,No Filter,223,1,48
+2262,s0285_08[TRUC].png.min,Trunc,137,4,25
+2263,s0309_05[BINA].png.min,Binary,90,2,47
+2264,s0404_08.png.min,No Filter,173,2,44
+2265,s0316_03[BINA].png.min,Binary,106,5,18
+2266,s0467_01[TRUC].png.min,Trunc,123,2,37
+2267,s0473_01[BINA].png.min,Binary,29,3,31
+2268,s0494_08[BINV].png.min,Binary Invert,28,5,1
+2269,s0316_03[TOZI].png.min,Thresh to Zero Invert,331,4,12
+2270,s0450_10[TZER].png.min,Thresh to Zero,120,5,15
+2271,f0440_08[TRUC].png.min,Trunc,136,4,25
+2272,f0277_05[TOZI].png.min,Thresh to Zero Invert,202,2,37
+2273,f0362_05[BINA].png.min,Binary,124,3,31
+2274,f0278_03[TZER].png.min,Thresh to Zero,66,2,41
+2275,s0422_07[TRUC].png.min,Trunc,93,3,44
+2276,s0334_02[BINV].png.min,Binary Invert,99,1,44
+2277,s0365_07[TRUC].png.min,Trunc,125,2,52
+2278,s0375_02[TRUC].png.min,Trunc,64,5,5
+2279,s0452_06[TOZI].png.min,Thresh to Zero Invert,166,5,7
+2280,s0475_03[TZER].png.min,Thresh to Zero,44,5,7
+2281,s0484_05[TRUC].png.min,Trunc,134,4,16
+2282,f0413_01[TRUC].png.min,Trunc,161,5,14
+2283,s0477_04[TOZI].png.min,Thresh to Zero Invert,211,2,46
+2284,f0284_10[BINA].png.min,Binary,71,3,25
+2285,s0306_03[TOZI].png.min,Thresh to Zero Invert,220,2,42
+2286,s0347_02.png.min,No Filter,82,5,8
+2287,s0266_04.png.min,No Filter,161,5,6
+2288,f0358_09[BINV].png.min,Binary Invert,155,2,47
+2289,f0461_03[TRUC].png.min,Trunc,138,2,36
+2290,f0407_09[BINA].png.min,Binary,52,2,46
+2291,s0375_02.png.min,No Filter,131,2,44
+2292,s0353_03[TRUC].png.min,Trunc,208,2,39
+2293,f0478_07[TZER].png.min,Thresh to Zero,40,2,21
+2294,s0272_09[BINV].png.min,Binary Invert,68,5,8
+2295,s0478_07.png.min,No Filter,88,1,49
+2296,f0407_09[TOZI].png.min,Thresh to Zero Invert,291,3,20
+2297,f0477_04[BINV].png.min,Binary Invert,85,3,34
+2298,f0290_02[TZER].png.min,Thresh to Zero,117,3,17
+2299,s0330_08[BINV].png.min,Binary Invert,193,3,26
+2300,f0478_07[TRUC].png.min,Trunc,71,3,31
+2301,s0365_07[BINV].png.min,Binary Invert,91,4,35
+2302,f0295_07[BINV].png.min,Binary Invert,63,5,7
+2303,f0480_04[TRUC].png.min,Trunc,78,5,6
+2304,f0275_02[TZER].png.min,Thresh to Zero,63,3,19
+2305,f0274_05[BINV].png.min,Binary Invert,95,3,11
+2306,s0269_01[BINV].png.min,Binary Invert,6,4,12
+2307,s0295_07[TRUC].png.min,Trunc,99,3,36
+2308,s0336_02[BINA].png.min,Binary,171,5,10
+2309,f0443_06.png.min,No Filter,93,3,27
+2310,f0499_03[BINV].png.min,Binary Invert,165,3,47
+2311,s0407_09[BINA].png.min,Binary,57,2,22
+2312,s0406_04[TZER].png.min,Thresh to Zero,41,2,13
+2313,f0320_10[BINA].png.min,Binary,53,2,34
+2314,f0421_01[BINV].png.min,Binary Invert,132,1,48
+2315,f0439_02[TRUC].png.min,Trunc,90,2,24
+2316,s0436_09[BINV].png.min,Binary Invert,134,1,46
+2317,f0290_02[BINV].png.min,Binary Invert,111,3,38
+2318,f0433_03[BINV].png.min,Binary Invert,101,3,3
+2319,s0425_07[TRUC].png.min,Trunc,58,3,16
+2320,f0329_09[TOZI].png.min,Thresh to Zero Invert,212,2,49
+2321,s0400_02[BINV].png.min,Binary Invert,105,2,36
+2322,s0411_05[TZER].png.min,Thresh to Zero,30,3,31
+2323,f0411_05.png.min,No Filter,98,3,14
+2324,f0494_08[BINV].png.min,Binary Invert,46,4,31
+2325,f0448_03[TOZI].png.min,Thresh to Zero Invert,304,1,43
+2326,s0277_05[TRUC].png.min,Trunc,55,3,35
+2327,f0333_08[TRUC].png.min,Trunc,116,3,20
+2328,f0396_09[TZER].png.min,Thresh to Zero,76,2,44
+2329,s0387_04[BINV].png.min,Binary Invert,140,3,17
+2330,s0363_10[TOZI].png.min,Thresh to Zero Invert,218,5,12
+2331,f0256_03[TRUC].png.min,Trunc,94,1,50
+2332,s0367_08[BINA].png.min,Binary,78,3,41
+2333,f0259_10.png.min,No Filter,129,3,35
+2334,f0350_07[TRUC].png.min,Trunc,98,2,37
+2335,f0271_04[TRUC].png.min,Trunc,96,1,50
+2336,s0271_04[TZER].png.min,Thresh to Zero,91,3,24
+2337,s0456_06[TRUC].png.min,Trunc,40,4,34
+2338,s0433_03[TOZI].png.min,Thresh to Zero Invert,99,3,21
+2339,s0320_10[TZER].png.min,Thresh to Zero,48,3,24
+2340,s0374_04[BINA].png.min,Binary,38,2,33
+2341,s0357_07[TZER].png.min,Thresh to Zero,125,3,24
+2342,f0396_09[TOZI].png.min,Thresh to Zero Invert,298,3,28
+2343,s0298_06[TRUC].png.min,Trunc,124,2,34
+2344,f0349_09[BINV].png.min,Binary Invert,68,4,18
+2345,f0395_08.png.min,No Filter,176,3,31
+2346,f0452_06.png.min,No Filter,134,2,15
+2347,s0464_06[TRUC].png.min,Trunc,127,4,14
+2348,f0462_05.png.min,No Filter,92,3,37
+2349,f0434_06[TZER].png.min,Thresh to Zero,70,3,29
+2350,s0273_09[BINV].png.min,Binary Invert,11,3,28
+2351,s0472_07[TRUC].png.min,Trunc,174,2,47
+2352,f0310_05[TZER].png.min,Thresh to Zero,18,2,43
+2353,f0286_02.png.min,No Filter,123,1,45
+2354,f0425_07[BINA].png.min,Binary,68,4,3
+2355,f0453_08.png.min,No Filter,134,3,23
+2356,f0414_01[TOZI].png.min,Thresh to Zero Invert,1,3,45
+2357,s0333_08[BINV].png.min,Binary Invert,75,3,30
+2358,s0313_08[TOZI].png.min,Thresh to Zero Invert,287,3,38
+2359,f0360_09[TOZI].png.min,Thresh to Zero Invert,179,2,28
+2360,s0451_10[TOZI].png.min,Thresh to Zero Invert,229,2,14
+2361,f0486_10[TZER].png.min,Thresh to Zero,148,2,21
+2362,s0348_08.png.min,No Filter,128,3,25
+2363,f0301_02[BINA].png.min,Binary,21,2,38
+2364,f0407_09.png.min,No Filter,94,1,50
+2365,f0423_02[TOZI].png.min,Thresh to Zero Invert,213,2,34
+2366,s0341_03[TZER].png.min,Thresh to Zero,100,2,47
+2367,f0427_06.png.min,No Filter,263,3,22
+2368,f0321_05.png.min,No Filter,153,1,50
+2369,f0471_01[TZER].png.min,Thresh to Zero,73,2,44
+2370,f0308_09.png.min,No Filter,145,3,21
+2371,s0323_09[TZER].png.min,Thresh to Zero,98,2,41
+2372,f0411_05[BINV].png.min,Binary Invert,61,2,48
+2373,f0290_02[BINA].png.min,Binary,98,4,24
+2374,s0471_01.png.min,No Filter,165,1,42
+2375,s0274_05[BINA].png.min,Binary,41,2,30
+2376,s0251_05[TOZI].png.min,Thresh to Zero Invert,179,4,10
+2377,f0275_02[TOZI].png.min,Thresh to Zero Invert,303,1,48
+2378,f0283_02[TRUC].png.min,Trunc,67,2,41
+2379,s0307_05[BINV].png.min,Binary Invert,74,2,38
+2380,s0427_06.png.min,No Filter,188,2,54
+2381,s0315_03[BINV].png.min,Binary Invert,87,1,52
+2382,s0434_06[TZER].png.min,Thresh to Zero,111,2,17
+2383,s0412_07[TOZI].png.min,Thresh to Zero Invert,311,1,45
+2384,f0401_08[BINV].png.min,Binary Invert,117,3,21
+2385,f0446_01[BINA].png.min,Binary,125,2,23
+2386,s0461_03[TOZI].png.min,Thresh to Zero Invert,304,2,14
+2387,s0288_01.png.min,No Filter,109,2,23
+2388,f0284_10.png.min,No Filter,105,3,31
+2389,f0479_07[TZER].png.min,Thresh to Zero,71,2,51
+2390,f0494_08[TOZI].png.min,Thresh to Zero Invert,229,3,29
+2391,f0261_01.png.min,No Filter,112,2,42
+2392,s0348_08[TZER].png.min,Thresh to Zero,73,3,21
+2393,s0472_07[TZER].png.min,Thresh to Zero,129,1,48
+2394,s0317_05[BINV].png.min,Binary Invert,28,4,26
+2395,f0415_04[TOZI].png.min,Thresh to Zero Invert,219,2,50
+2396,f0344_06[TOZI].png.min,Thresh to Zero Invert,294,5,1
+2397,f0486_10[TRUC].png.min,Trunc,0,4,15
+2398,s0393_06[TRUC].png.min,Trunc,250,1,53
+2399,s0400_02[TRUC].png.min,Trunc,114,4,20
+2400,f0384_09[BINV].png.min,Binary Invert,2,5,17
+2401,s0284_10[TRUC].png.min,Trunc,123,3,34
+2402,s0395_08.png.min,No Filter,171,3,22
+2403,f0262_05[BINA].png.min,Binary,76,5,24
+2404,f0264_01.png.min,No Filter,140,1,35
+2405,s0272_09.png.min,No Filter,156,4,9
+2406,f0451_10[BINA].png.min,Binary,102,4,15
+2407,f0363_10[BINA].png.min,Binary,139,1,44
+2408,f0401_08[TOZI].png.min,Thresh to Zero Invert,235,2,49
+2409,s0300_08[TZER].png.min,Thresh to Zero,29,3,29
+2410,f0252_01[TOZI].png.min,Thresh to Zero Invert,282,4,21
+2411,s0296_10[BINA].png.min,Binary,11,4,17
+2412,s0378_05[TOZI].png.min,Thresh to Zero Invert,216,2,20
+2413,s0417_08[BINV].png.min,Binary Invert,124,3,16
+2414,s0423_02[TOZI].png.min,Thresh to Zero Invert,242,2,51
+2415,s0321_05[TRUC].png.min,Trunc,92,1,48
+2416,s0274_05[BINV].png.min,Binary Invert,48,3,28
+2417,f0346_09.png.min,No Filter,105,4,23
+2418,s0343_09.png.min,No Filter,166,1,47
+2419,f0374_04[BINA].png.min,Binary,56,3,46
+2420,f0410_06[TRUC].png.min,Trunc,62,2,5
+2421,s0442_04.png.min,No Filter,164,2,46
+2422,f0258_04.png.min,No Filter,130,3,36
+2423,s0495_05.png.min,No Filter,172,2,51
+2424,s0440_08[BINA].png.min,Binary,46,3,29
+2425,s0284_10.png.min,No Filter,152,2,53
+2426,s0369_04[TRUC].png.min,Trunc,110,2,12
+2427,s0378_05[BINA].png.min,Binary,41,2,50
+2428,f0348_08.png.min,No Filter,124,4,27
+2429,s0373_09[TZER].png.min,Thresh to Zero,85,3,28
+2430,s0478_07[BINA].png.min,Binary,36,1,39
+2431,s0350_07[TOZI].png.min,Thresh to Zero Invert,272,3,14
+2432,s0429_04[TZER].png.min,Thresh to Zero,106,2,45
+2433,s0415_04[TOZI].png.min,Thresh to Zero Invert,281,3,19
+2434,s0372_07[TOZI].png.min,Thresh to Zero Invert,242,3,29
+2435,f0319_06[BINV].png.min,Binary Invert,100,2,32
+2436,s0321_05[BINA].png.min,Binary,48,3,30
+2437,f0368_09[BINV].png.min,Binary Invert,48,5,20
+2438,f0291_03[BINA].png.min,Binary,67,3,36
+2439,s0377_04[BINV].png.min,Binary Invert,36,1,50
+2440,s0294_06[TOZI].png.min,Thresh to Zero Invert,309,2,49
+2441,f0482_08[TZER].png.min,Thresh to Zero,94,1,53
+2442,f0452_06[BINA].png.min,Binary,120,2,20
+2443,f0446_01[TOZI].png.min,Thresh to Zero Invert,200,5,17
+2444,f0319_06.png.min,No Filter,165,3,28
+2445,s0362_05[TOZI].png.min,Thresh to Zero Invert,263,2,35
+2446,f0444_03[TOZI].png.min,Thresh to Zero Invert,326,4,21
+2447,s0448_03[BINA].png.min,Binary,50,2,5
+2448,s0468_02[TOZI].png.min,Thresh to Zero Invert,207,1,52
+2449,f0401_08[TRUC].png.min,Trunc,86,3,33
+2450,s0289_01[BINA].png.min,Binary,66,5,11
+2451,s0272_09[TRUC].png.min,Trunc,170,3,23
+2452,s0483_01[TOZI].png.min,Thresh to Zero Invert,22,3,25
+2453,s0268_09[BINA].png.min,Binary,21,4,39
+2454,f0255_05[TZER].png.min,Thresh to Zero,144,3,32
+2455,f0444_03.png.min,No Filter,84,5,13
+2456,f0262_05[BINV].png.min,Binary Invert,89,4,31
+2457,s0453_08[BINV].png.min,Binary Invert,135,2,14
+2458,f0416_06[BINV].png.min,Binary Invert,108,3,24
+2459,f0491_05[BINA].png.min,Binary,90,2,51
+2460,s0266_04[TZER].png.min,Thresh to Zero,131,2,38
+2461,s0377_04[BINA].png.min,Binary,26,1,51
+2462,s0497_05[TZER].png.min,Thresh to Zero,24,1,41
+2463,s0444_03[TOZI].png.min,Thresh to Zero Invert,281,1,29
+2464,s0376_01[BINV].png.min,Binary Invert,24,4,20
+2465,f0339_05[BINV].png.min,Binary Invert,86,1,45
+2466,s0498_05.png.min,No Filter,125,3,29
+2467,s0373_09[BINV].png.min,Binary Invert,94,4,25
+2468,f0486_10[TOZI].png.min,Thresh to Zero Invert,8,3,32
+2469,s0377_04[TZER].png.min,Thresh to Zero,25,3,39
+2470,s0278_03[TZER].png.min,Thresh to Zero,34,3,11
+2471,s0382_01.png.min,No Filter,44,3,32
+2472,f0391_01[TOZI].png.min,Thresh to Zero Invert,147,2,31
+2473,f0284_10[TOZI].png.min,Thresh to Zero Invert,148,2,35
+2474,s0355_08[BINA].png.min,Binary,102,2,17
+2475,f0424_03[BINA].png.min,Binary,7,3,47
+2476,f0283_02.png.min,No Filter,136,3,26
+2477,s0364_03[BINV].png.min,Binary Invert,102,1,56
+2478,f0332_03[TRUC].png.min,Trunc,119,3,23
+2479,s0409_05[TOZI].png.min,Thresh to Zero Invert,193,1,53
+2480,f0415_04[BINA].png.min,Binary,110,3,22
+2481,f0431_05.png.min,No Filter,125,3,29
+2482,f0381_01[TRUC].png.min,Trunc,86,4,22
+2483,f0262_05[TZER].png.min,Thresh to Zero,89,2,32
+2484,s0431_05[BINV].png.min,Binary Invert,23,5,15
+2485,f0430_10[BINA].png.min,Binary,77,4,22
+2486,f0484_05[TZER].png.min,Thresh to Zero,119,5,2
+2487,s0444_03[BINA].png.min,Binary,76,5,39
+2488,s0478_07[TRUC].png.min,Trunc,35,3,25
+2489,f0498_05[BINA].png.min,Binary,112,5,14
+2490,s0334_02.png.min,No Filter,80,1,55
+2491,f0368_09[TOZI].png.min,Thresh to Zero Invert,135,3,27
+2492,s0415_04[TRUC].png.min,Trunc,112,2,45
+2493,f0479_07[TRUC].png.min,Trunc,80,3,12
+2494,s0315_03[TZER].png.min,Thresh to Zero,89,3,44
+2495,f0379_06[BINA].png.min,Binary,177,2,51
+2496,f0450_10[TRUC].png.min,Trunc,169,1,44
+2497,f0307_05[TZER].png.min,Thresh to Zero,88,2,21
+2498,s0425_07.png.min,No Filter,124,3,14
+2499,f0253_08[TZER].png.min,Thresh to Zero,82,3,8
+2500,s0479_07[TRUC].png.min,Trunc,113,3,45
+2501,s0420_09[BINA].png.min,Binary,116,1,47
+2502,f0366_06.png.min,No Filter,127,2,15
+2503,f0310_05[BINA].png.min,Binary,9,1,44
+2504,f0259_10[TZER].png.min,Thresh to Zero,77,4,29
+2505,s0268_09[TZER].png.min,Thresh to Zero,32,4,10
+2506,s0500_02[TZER].png.min,Thresh to Zero,80,3,39
+2507,f0349_09[BINA].png.min,Binary,62,3,17
+2508,f0351_08[TRUC].png.min,Trunc,144,4,18
+2509,s0402_01[TOZI].png.min,Thresh to Zero Invert,313,2,34
+2510,f0434_06.png.min,No Filter,118,2,40
+2511,f0291_03[BINV].png.min,Binary Invert,93,2,46
+2512,f0268_09[BINV].png.min,Binary Invert,28,2,46
+2513,f0472_07[TOZI].png.min,Thresh to Zero Invert,232,1,44
+2514,s0471_01[BINV].png.min,Binary Invert,157,1,52
+2515,s0304_08[BINA].png.min,Binary,71,3,6
+2516,s0268_09[TOZI].png.min,Thresh to Zero Invert,238,5,5
+2517,s0463_10[TZER].png.min,Thresh to Zero,74,1,53
+2518,s0337_08[TZER].png.min,Thresh to Zero,140,4,13
+2519,f0290_02[TOZI].png.min,Thresh to Zero Invert,223,3,30
+2520,s0410_06[TOZI].png.min,Thresh to Zero Invert,193,1,54
+2521,s0290_02[TZER].png.min,Thresh to Zero,101,3,22
+2522,f0317_05[TZER].png.min,Thresh to Zero,66,1,53
+2523,s0282_03[BINA].png.min,Binary,93,5,7
+2524,f0483_01[BINA].png.min,Binary,1,2,44
+2525,f0386_02[BINA].png.min,Binary,62,4,15
+2526,s0492_02[TOZI].png.min,Thresh to Zero Invert,149,3,36
+2527,s0381_01[TOZI].png.min,Thresh to Zero Invert,328,2,12
+2528,f0452_06[TOZI].png.min,Thresh to Zero Invert,133,4,10
+2529,f0406_04[TZER].png.min,Thresh to Zero,102,3,22
+2530,f0419_08.png.min,No Filter,75,3,23
+2531,f0334_02[BINA].png.min,Binary,61,1,49
+2532,s0383_04[TRUC].png.min,Trunc,120,2,46
+2533,s0267_07[TOZI].png.min,Thresh to Zero Invert,65,3,38
+2534,s0474_06.png.min,No Filter,130,2,43
+2535,s0358_09.png.min,No Filter,150,5,12
+2536,s0423_02[TZER].png.min,Thresh to Zero,42,2,45
+2537,f0361_06[BINV].png.min,Binary Invert,74,3,45
+2538,s0263_05[TRUC].png.min,Trunc,105,2,36
+2539,s0305_01[TZER].png.min,Thresh to Zero,84,3,41
+2540,f0327_08[TRUC].png.min,Trunc,121,2,19
+2541,f0423_02[TRUC].png.min,Trunc,101,5,36
+2542,s0356_02[BINA].png.min,Binary,28,4,11
+2543,s0355_08.png.min,No Filter,136,2,40
+2544,s0378_05.png.min,No Filter,145,5,2
+2545,s0394_07[BINV].png.min,Binary Invert,88,1,49
+2546,s0288_01[TRUC].png.min,Trunc,60,1,49
+2547,s0474_06[TRUC].png.min,Trunc,134,3,13
+2548,f0420_09[BINA].png.min,Binary,112,2,43
+2549,s0352_09[BINA].png.min,Binary,17,1,44
+2550,f0477_04[BINA].png.min,Binary,77,2,44
+2551,s0483_01[BINV].png.min,Binary Invert,20,2,51
+2552,s0494_08[TOZI].png.min,Thresh to Zero Invert,187,4,17
+2553,s0479_07[BINV].png.min,Binary Invert,19,3,49
+2554,f0472_07[BINA].png.min,Binary,165,2,41
+2555,s0486_10[TOZI].png.min,Thresh to Zero Invert,167,2,25
+2556,f0396_09.png.min,No Filter,107,4,11
+2557,s0253_08[BINV].png.min,Binary Invert,106,1,50
+2558,s0349_09[TRUC].png.min,Trunc,114,1,49
+2559,s0374_04[TOZI].png.min,Thresh to Zero Invert,290,5,6
+2560,f0299_06[TRUC].png.min,Trunc,102,3,16
+2561,s0413_01[TRUC].png.min,Trunc,162,1,42
+2562,f0348_08[TOZI].png.min,Thresh to Zero Invert,275,4,12
+2563,f0261_01[TRUC].png.min,Trunc,29,3,33
+2564,f0254_08[TOZI].png.min,Thresh to Zero Invert,236,4,11
+2565,s0334_02[BINA].png.min,Binary,84,2,50
+2566,s0337_08[TOZI].png.min,Thresh to Zero Invert,205,3,44
+2567,f0478_07[TOZI].png.min,Thresh to Zero Invert,119,2,49
+2568,s0491_05[TOZI].png.min,Thresh to Zero Invert,169,3,10
+2569,s0403_07[TZER].png.min,Thresh to Zero,112,2,54
+2570,f0352_09[TRUC].png.min,Trunc,124,5,12
+2571,f0451_10[TOZI].png.min,Thresh to Zero Invert,157,3,25
+2572,f0303_03[BINA].png.min,Binary,31,3,40
+2573,f0351_08.png.min,No Filter,161,5,8
+2574,f0421_01[TRUC].png.min,Trunc,95,3,29
+2575,f0270_01[TOZI].png.min,Thresh to Zero Invert,214,3,12
+2576,s0493_01.png.min,No Filter,150,2,28
+2577,s0259_10[TZER].png.min,Thresh to Zero,138,3,34
+2578,f0491_05[TRUC].png.min,Trunc,74,2,42
+2579,s0310_05[TZER].png.min,Thresh to Zero,7,3,24
+2580,s0383_04[BINA].png.min,Binary,95,3,32
+2581,s0318_05.png.min,No Filter,76,2,57
+2582,s0252_01[BINV].png.min,Binary Invert,99,3,25
+2583,f0305_01[TOZI].png.min,Thresh to Zero Invert,180,3,26
+2584,s0298_06[BINA].png.min,Binary,72,1,58
+2585,s0297_01[TRUC].png.min,Trunc,179,2,40
+2586,s0283_02[BINA].png.min,Binary,102,5,12
+2587,f0469_07.png.min,No Filter,162,4,11
+2588,s0366_06.png.min,No Filter,144,3,34
+2589,f0474_06[BINA].png.min,Binary,79,2,52
+2590,s0407_09[BINV].png.min,Binary Invert,59,2,54
+2591,s0417_08[TZER].png.min,Thresh to Zero,102,4,23
+2592,s0420_09.png.min,No Filter,141,5,4
+2593,s0291_03[BINV].png.min,Binary Invert,119,3,40
+2594,s0487_02[BINV].png.min,Binary Invert,140,5,25
+2595,f0395_08[TZER].png.min,Thresh to Zero,111,2,45
+2596,f0270_01[BINA].png.min,Binary,34,4,27
+2597,s0464_06[TOZI].png.min,Thresh to Zero Invert,210,3,30
+2598,s0307_05[TRUC].png.min,Trunc,157,2,21
+2599,f0364_03[TRUC].png.min,Trunc,140,3,25
+2600,f0284_10[TZER].png.min,Thresh to Zero,81,2,43
+2601,s0295_07[TOZI].png.min,Thresh to Zero Invert,161,1,49
+2602,f0329_09[BINV].png.min,Binary Invert,117,1,44
+2603,f0469_07[TRUC].png.min,Trunc,116,3,22
+2604,s0409_05[BINV].png.min,Binary Invert,59,4,16
+2605,s0360_09[TZER].png.min,Thresh to Zero,95,3,22
+2606,f0292_04[BINA].png.min,Binary,105,2,37
+2607,s0300_08[BINA].png.min,Binary,22,2,43
+2608,s0371_05[TOZI].png.min,Thresh to Zero Invert,232,3,34
+2609,f0330_08[TRUC].png.min,Trunc,31,5,13
+2610,f0332_03[TOZI].png.min,Thresh to Zero Invert,242,1,45
+2611,s0455_04.png.min,No Filter,170,1,54
+2612,s0312_08[BINA].png.min,Binary,146,4,25
+2613,f0345_05[TOZI].png.min,Thresh to Zero Invert,121,2,36
+2614,f0347_02.png.min,No Filter,89,5,24
+2615,f0377_04[TZER].png.min,Thresh to Zero,3,2,52
+2616,s0251_05[TZER].png.min,Thresh to Zero,39,2,23
+2617,s0370_02[BINA].png.min,Binary,40,5,13
+2618,s0397_06[TRUC].png.min,Trunc,66,2,52
+2619,f0265_04[BINV].png.min,Binary Invert,68,1,52
+2620,s0331_05[BINA].png.min,Binary,66,1,50
+2621,f0281_04[BINA].png.min,Binary,63,2,19
+2622,f0266_04.png.min,No Filter,148,3,35
+2623,f0458_07[TRUC].png.min,Trunc,119,5,25
+2624,f0345_05[TZER].png.min,Thresh to Zero,169,3,19
+2625,s0426_04.png.min,No Filter,145,2,42
+2626,s0419_08[TRUC].png.min,Trunc,157,2,40
+2627,s0305_01.png.min,No Filter,96,5,12
+2628,f0382_01[TZER].png.min,Thresh to Zero,91,3,27
+2629,f0421_01[BINA].png.min,Binary,159,1,52
+2630,s0343_09[BINV].png.min,Binary Invert,94,3,24
+2631,s0320_10[TRUC].png.min,Trunc,110,2,48
+2632,f0352_09[TZER].png.min,Thresh to Zero,93,2,22
+2633,s0377_04.png.min,No Filter,133,3,22
+2634,f0499_03[TZER].png.min,Thresh to Zero,164,3,10
+2635,f0437_04.png.min,No Filter,164,3,45
+2636,f0413_01.png.min,No Filter,172,3,27
+2637,s0329_09.png.min,No Filter,230,4,11
+2638,f0456_06[BINA].png.min,Binary,102,3,14
+2639,f0302_01[TZER].png.min,Thresh to Zero,121,1,56
+2640,f0500_02[TRUC].png.min,Trunc,149,2,17
+2641,f0360_09.png.min,No Filter,116,2,44
+2642,s0463_10[TRUC].png.min,Trunc,156,5,9
+2643,f0340_03[TZER].png.min,Thresh to Zero,103,3,29
+2644,f0375_02[TRUC].png.min,Trunc,95,5,18
+2645,s0433_03[BINV].png.min,Binary Invert,79,4,31
+2646,f0371_05[TOZI].png.min,Thresh to Zero Invert,208,2,52
+2647,s0412_07.png.min,No Filter,164,3,38
+2648,f0270_01[TRUC].png.min,Trunc,118,3,16
+2649,s0457_09.png.min,No Filter,125,5,13
+2650,s0290_02[TRUC].png.min,Trunc,157,2,45
+2651,f0305_01[BINA].png.min,Binary,116,1,52
+2652,s0386_02[TZER].png.min,Thresh to Zero,21,4,12
+2653,f0285_08.png.min,No Filter,77,3,20
+2654,f0471_01[BINV].png.min,Binary Invert,69,3,29
+2655,f0268_09.png.min,No Filter,130,5,2
+2656,s0356_02[TZER].png.min,Thresh to Zero,27,2,19
+2657,s0486_10.png.min,No Filter,123,4,16
+2658,s0442_04[BINA].png.min,Binary,6,4,26
+2659,s0492_02.png.min,No Filter,113,3,22
+2660,f0273_09[TZER].png.min,Thresh to Zero,13,4,25
+2661,f0324_04[BINV].png.min,Binary Invert,98,5,7
+2662,f0374_04[TZER].png.min,Thresh to Zero,45,2,42
+2663,s0428_09[BINV].png.min,Binary Invert,113,3,26
+2664,s0347_02[BINA].png.min,Binary,76,2,38
+2665,s0438_05[TZER].png.min,Thresh to Zero,181,3,32
+2666,s0436_09[TRUC].png.min,Trunc,196,1,54
+2667,s0326_07[BINA].png.min,Binary,91,3,33
+2668,f0334_02.png.min,No Filter,102,1,49
+2669,f0337_08.png.min,No Filter,156,2,32
+2670,f0291_03[TZER].png.min,Thresh to Zero,74,1,46
+2671,s0470_01.png.min,No Filter,122,1,9
+2672,s0308_09[TZER].png.min,Thresh to Zero,120,2,50
+2673,s0317_05[TOZI].png.min,Thresh to Zero Invert,203,2,35
+2674,f0500_02[BINV].png.min,Binary Invert,49,3,30
+2675,s0417_08[BINA].png.min,Binary,104,1,42
+2676,s0346_09[TOZI].png.min,Thresh to Zero Invert,84,3,34
+2677,s0441_10[TRUC].png.min,Trunc,134,2,19
+2678,f0300_08[TOZI].png.min,Thresh to Zero Invert,269,1,40
+2679,s0499_03.png.min,No Filter,169,2,38
+2680,s0411_05[TOZI].png.min,Thresh to Zero Invert,198,3,5
+2681,f0256_03[TOZI].png.min,Thresh to Zero Invert,297,3,34
+2682,s0373_09.png.min,No Filter,115,2,47
+2683,s0275_02[TRUC].png.min,Trunc,107,3,30
+2684,f0333_08[BINV].png.min,Binary Invert,80,3,10
+2685,f0371_05[TZER].png.min,Thresh to Zero,86,3,19
+2686,f0438_05[BINA].png.min,Binary,7,2,61
+2687,s0416_06[TZER].png.min,Thresh to Zero,148,1,49
+2688,s0335_06[BINV].png.min,Binary Invert,110,2,37
+2689,s0454_04.png.min,No Filter,164,1,49
+2690,s0362_05[BINV].png.min,Binary Invert,48,1,42
+2691,s0337_08[BINV].png.min,Binary Invert,117,3,34
+2692,s0462_05[BINA].png.min,Binary,97,3,11
+2693,f0342_10[BINV].png.min,Binary Invert,45,4,22
+2694,f0492_02[TRUC].png.min,Trunc,106,3,33
+2695,s0414_01[TZER].png.min,Thresh to Zero,121,4,35
+2696,f0394_07[TZER].png.min,Thresh to Zero,91,2,40
+2697,s0499_03[TOZI].png.min,Thresh to Zero Invert,182,5,4
+2698,f0353_03[TOZI].png.min,Thresh to Zero Invert,203,4,16
+2699,f0405_02[TOZI].png.min,Thresh to Zero Invert,169,5,16
+2700,s0361_06[TZER].png.min,Thresh to Zero,71,2,46
+2701,f0397_06[BINA].png.min,Binary,87,3,14
+2702,s0434_06[BINA].png.min,Binary,119,2,5
+2703,f0468_02[BINV].png.min,Binary Invert,107,3,57
+2704,s0264_01.png.min,No Filter,146,2,46
+2705,s0473_01[TZER].png.min,Thresh to Zero,42,4,22
+2706,s0360_09.png.min,No Filter,92,2,47
+2707,f0475_03.png.min,No Filter,101,4,25
+2708,f0464_06[BINV].png.min,Binary Invert,131,2,37
+2709,s0410_06[BINV].png.min,Binary Invert,17,2,44
+2710,s0416_06[TRUC].png.min,Trunc,114,3,20
+2711,f0307_05[BINV].png.min,Binary Invert,104,3,32
+2712,s0363_10[BINA].png.min,Binary,19,1,50
+2713,s0257_07.png.min,No Filter,139,3,17
+2714,f0436_09.png.min,No Filter,197,5,28
+2715,f0434_06[TRUC].png.min,Trunc,127,2,30
+2716,s0429_04[BINA].png.min,Binary,111,1,40
+2717,s0280_02[TZER].png.min,Thresh to Zero,48,1,48
+2718,s0436_09[TOZI].png.min,Thresh to Zero Invert,286,3,40
+2719,s0290_02[BINA].png.min,Binary,111,5,6
+2720,f0477_04[TRUC].png.min,Trunc,88,1,57
+2721,s0331_05[BINV].png.min,Binary Invert,94,2,43
+2722,f0493_01[TRUC].png.min,Trunc,116,2,29
+2723,s0497_05[TRUC].png.min,Trunc,133,1,47
+2724,f0404_08[TRUC].png.min,Trunc,115,2,11
+2725,s0460_04[BINV].png.min,Binary Invert,88,5,14
+2726,f0253_08.png.min,No Filter,100,3,30
+2727,s0370_02[BINV].png.min,Binary Invert,43,3,27
+2728,s0430_10.png.min,No Filter,100,3,11
+2729,s0474_06[BINV].png.min,Binary Invert,46,1,56
+2730,s0292_04[TRUC].png.min,Trunc,142,1,56
+2731,s0460_04.png.min,No Filter,154,3,21
+2732,s0303_03[TZER].png.min,Thresh to Zero,21,2,31
+2733,f0289_01[TRUC].png.min,Trunc,42,4,23
+2734,f0467_01.png.min,No Filter,95,3,40
+2735,f0444_03[BINV].png.min,Binary Invert,94,4,9
+2736,s0395_08[TRUC].png.min,Trunc,167,2,45
+2737,s0346_09.png.min,No Filter,187,5,36
+2738,s0394_07.png.min,No Filter,160,4,12
+2739,s0356_02[BINV].png.min,Binary Invert,29,2,49
+2740,f0422_07[TRUC].png.min,Trunc,121,4,15
+2741,f0433_03[BINA].png.min,Binary,82,5,9
+2742,f0329_09[TZER].png.min,Thresh to Zero,107,1,47
+2743,f0388_06[TZER].png.min,Thresh to Zero,65,3,48
+2744,s0368_09[BINV].png.min,Binary Invert,69,1,47
+2745,f0370_02[BINA].png.min,Binary,35,1,49
+2746,s0432_06[BINV].png.min,Binary Invert,100,4,30
+2747,f0411_05[TOZI].png.min,Thresh to Zero Invert,184,4,23
+2748,s0270_01[TZER].png.min,Thresh to Zero,180,3,26
+2749,s0452_06[BINA].png.min,Binary,158,2,44
+2750,s0276_09[TZER].png.min,Thresh to Zero,101,1,51
+2751,f0324_04[TZER].png.min,Thresh to Zero,100,4,29
+2752,f0495_05.png.min,No Filter,127,3,19
+2753,s0449_05.png.min,No Filter,139,3,44
+2754,f0387_04[TOZI].png.min,Thresh to Zero Invert,273,3,41
+2755,f0382_01.png.min,No Filter,154,2,41
+2756,s0371_05[TZER].png.min,Thresh to Zero,118,2,52
+2757,s0475_03[TRUC].png.min,Trunc,137,5,8
+2758,f0435_10[TOZI].png.min,Thresh to Zero Invert,185,4,28
+2759,f0464_06[TOZI].png.min,Thresh to Zero Invert,270,3,26
+2760,s0445_01[BINV].png.min,Binary Invert,19,5,14
+2761,s0284_10[TZER].png.min,Thresh to Zero,84,1,56
+2762,s0482_08[TRUC].png.min,Trunc,119,4,15
+2763,f0457_09[TRUC].png.min,Trunc,79,1,41
+2764,f0417_08[TOZI].png.min,Thresh to Zero Invert,134,4,32
+2765,f0373_09[BINV].png.min,Binary Invert,101,5,14
+2766,s0426_04[BINV].png.min,Binary Invert,119,3,41
+2767,f0376_01[BINA].png.min,Binary,124,2,17
+2768,f0318_05[TOZI].png.min,Thresh to Zero Invert,119,5,4
+2769,s0332_03.png.min,No Filter,104,5,13
+2770,s0385_07.png.min,No Filter,149,4,17
+2771,f0497_05.png.min,No Filter,175,2,26
+2772,f0355_08[BINV].png.min,Binary Invert,8,3,47
+2773,s0278_03[TRUC].png.min,Trunc,159,1,48
+2774,s0412_07[TRUC].png.min,Trunc,168,1,45
+2775,s0352_09.png.min,No Filter,153,3,30
+2776,s0397_06[BINA].png.min,Binary,86,4,5
+2777,s0461_03[BINA].png.min,Binary,87,4,18
+2778,f0381_01[BINV].png.min,Binary Invert,76,1,43
+2779,f0477_04.png.min,No Filter,89,2,44
+2780,s0294_06.png.min,No Filter,192,1,44
+2781,s0366_06[BINV].png.min,Binary Invert,110,5,41
+2782,s0450_10[TRUC].png.min,Trunc,86,3,37
+2783,s0450_10[BINV].png.min,Binary Invert,120,2,31
+2784,s0308_09[TRUC].png.min,Trunc,70,5,17
+2785,s0340_03.png.min,No Filter,144,3,20
+2786,f0478_07[BINA].png.min,Binary,28,3,29
+2787,f0417_08[BINV].png.min,Binary Invert,93,2,42
+2788,s0405_02[BINV].png.min,Binary Invert,130,3,27
+2789,f0459_05[TRUC].png.min,Trunc,139,3,11
+2790,f0355_08[TOZI].png.min,Thresh to Zero Invert,187,3,23
+2791,s0445_01[BINA].png.min,Binary,16,3,39
+2792,s0420_09[TOZI].png.min,Thresh to Zero Invert,285,5,5
+2793,f0451_10[BINV].png.min,Binary Invert,127,1,53
+2794,s0282_03[TRUC].png.min,Trunc,61,2,53
+2795,s0384_09[TZER].png.min,Thresh to Zero,7,1,54
+2796,f0267_07[TOZI].png.min,Thresh to Zero Invert,163,4,2
+2797,s0319_06[TOZI].png.min,Thresh to Zero Invert,188,5,17
+2798,s0500_02[TRUC].png.min,Trunc,115,3,31
+2799,s0429_04[TRUC].png.min,Trunc,77,3,43
+2800,s0393_06[BINV].png.min,Binary Invert,32,4,23
+2801,f0397_06[TRUC].png.min,Trunc,49,4,27
+2802,f0418_02[BINA].png.min,Binary,10,3,19
+2803,f0320_10.png.min,No Filter,90,5,17
+2804,f0284_10[TRUC].png.min,Trunc,54,3,37
+2805,s0405_02[BINA].png.min,Binary,96,4,18
+2806,s0318_05[BINV].png.min,Binary Invert,51,2,45
+2807,f0450_10[TOZI].png.min,Thresh to Zero Invert,260,3,36
+2808,f0404_08[TZER].png.min,Thresh to Zero,106,3,31
+2809,f0338_04[BINV].png.min,Binary Invert,32,2,55
+2810,f0456_06[TOZI].png.min,Thresh to Zero Invert,106,2,53
+2811,f0383_04[TOZI].png.min,Thresh to Zero Invert,253,2,28
+2812,f0482_08[TRUC].png.min,Trunc,146,5,4
+2813,s0311_03[TZER].png.min,Thresh to Zero,115,4,24
+2814,s0291_03[TZER].png.min,Thresh to Zero,114,2,22
+2815,f0464_06[BINA].png.min,Binary,111,5,18
+2816,f0442_04.png.min,No Filter,198,3,21
+2817,f0328_09[BINV].png.min,Binary Invert,7,2,5
+2818,s0406_04[BINV].png.min,Binary Invert,30,5,2
+2819,s0263_05[BINV].png.min,Binary Invert,61,2,46
+2820,s0314_04[TRUC].png.min,Trunc,56,3,32
+2821,f0278_03[TOZI].png.min,Thresh to Zero Invert,231,5,3
+2822,s0389_07[BINA].png.min,Binary,1,1,27
+2823,s0425_07[TOZI].png.min,Thresh to Zero Invert,140,2,45
+2824,s0385_07[TRUC].png.min,Trunc,145,3,35
+2825,f0438_05.png.min,No Filter,124,4,27
+2826,s0335_06[TOZI].png.min,Thresh to Zero Invert,146,5,16
+2827,f0306_03[BINV].png.min,Binary Invert,128,3,21
+2828,f0359_03[TOZI].png.min,Thresh to Zero Invert,198,3,13
+2829,f0336_02[TOZI].png.min,Thresh to Zero Invert,273,3,34
+2830,f0431_05[BINA].png.min,Binary,70,2,39
+2831,s0275_02.png.min,No Filter,130,2,33
+2832,f0389_07.png.min,No Filter,151,3,17
+2833,s0344_06.png.min,No Filter,97,5,255
+2834,f0366_06[BINV].png.min,Binary Invert,125,4,37
+2835,f0352_09[BINV].png.min,Binary Invert,112,5,20
+2836,f0419_08[BINA].png.min,Binary,91,5,15
+2837,f0452_06[BINV].png.min,Binary Invert,119,1,37
+2838,f0369_04[TRUC].png.min,Trunc,100,2,42
+2839,s0294_06[TZER].png.min,Thresh to Zero,75,5,32
+2840,f0369_04[BINV].png.min,Binary Invert,98,3,32
+2841,f0485_06[TOZI].png.min,Thresh to Zero Invert,197,4,14
+2842,s0374_04[TRUC].png.min,Trunc,107,2,37
+2843,f0383_04[BINA].png.min,Binary,72,2,54
+2844,f0338_04[TZER].png.min,Thresh to Zero,32,4,5
+2845,s0329_09[TOZI].png.min,Thresh to Zero Invert,259,3,22
+2846,s0258_04[BINA].png.min,Binary,116,2,42
+2847,f0289_01.png.min,No Filter,162,3,26
+2848,f0278_03.png.min,No Filter,123,3,32
+2849,f0306_03[TOZI].png.min,Thresh to Zero Invert,137,3,26
+2850,f0346_09[BINV].png.min,Binary Invert,36,5,7
+2851,s0420_09[BINV].png.min,Binary Invert,141,1,45
+2852,s0427_06[TZER].png.min,Thresh to Zero,18,3,27
+2853,f0323_09[TRUC].png.min,Trunc,117,5,42
+2854,f0439_02[BINA].png.min,Binary,41,5,24
+2855,s0303_03[TRUC].png.min,Trunc,181,4,15
+2856,f0489_04[TZER].png.min,Thresh to Zero,126,3,29
+2857,s0264_01[BINV].png.min,Binary Invert,88,5,17
+2858,f0367_08[TOZI].png.min,Thresh to Zero Invert,249,2,53
+2859,f0462_05[BINA].png.min,Binary,75,3,19
+2860,s0272_09[TZER].png.min,Thresh to Zero,52,5,11
+2861,s0386_02[TOZI].png.min,Thresh to Zero Invert,281,2,2
+2862,s0341_03.png.min,No Filter,104,3,33
+2863,s0264_01[TRUC].png.min,Trunc,115,3,12
+2864,f0413_01[TZER].png.min,Thresh to Zero,48,1,57
+2865,s0427_06[BINA].png.min,Binary,11,2,19
+2866,s0304_08.png.min,No Filter,123,5,10
+2867,f0490_01[BINV].png.min,Binary Invert,6,1,49
+2868,f0410_06[TZER].png.min,Thresh to Zero,103,3,30
+2869,f0348_08[TRUC].png.min,Trunc,134,1,44
+2870,s0287_07[BINA].png.min,Binary,100,2,48
+2871,f0454_04.png.min,No Filter,131,3,39
+2872,f0454_04[BINV].png.min,Binary Invert,129,4,13
+2873,s0393_06.png.min,No Filter,262,5,10
+2874,f0433_03[TOZI].png.min,Thresh to Zero Invert,184,2,33
+2875,s0424_03[TRUC].png.min,Trunc,116,4,26
+2876,f0458_07[TZER].png.min,Thresh to Zero,87,2,34
+2877,s0428_09[TZER].png.min,Thresh to Zero,168,3,18
+2878,f0276_09[TOZI].png.min,Thresh to Zero Invert,262,2,39
+2879,f0254_08[TRUC].png.min,Trunc,122,3,33
+2880,f0256_03[BINA].png.min,Binary,62,3,11
+2881,s0387_04[TOZI].png.min,Thresh to Zero Invert,253,2,45
+2882,s0329_09[TRUC].png.min,Trunc,188,2,43
+2883,s0343_09[BINA].png.min,Binary,91,5,12
+2884,s0327_08[BINA].png.min,Binary,80,2,34
+2885,f0414_01[BINV].png.min,Binary Invert,0,2,39
+2886,f0394_07[BINV].png.min,Binary Invert,76,2,45
+2887,s0496_03[TZER].png.min,Thresh to Zero,81,1,55
+2888,s0493_01[TOZI].png.min,Thresh to Zero Invert,255,3,28
+2889,f0291_03[TRUC].png.min,Trunc,138,1,46
+2890,s0492_02[TZER].png.min,Thresh to Zero,98,5,1
+2891,s0380_04[TOZI].png.min,Thresh to Zero Invert,239,3,7
+2892,f0349_09[TZER].png.min,Thresh to Zero,69,3,24
+2893,f0280_02[BINV].png.min,Binary Invert,19,4,16
+2894,s0404_08[TZER].png.min,Thresh to Zero,95,2,24
+2895,f0390_09[TZER].png.min,Thresh to Zero,106,2,51
+2896,s0254_08[BINV].png.min,Binary Invert,135,3,32
+2897,s0281_04[TOZI].png.min,Thresh to Zero Invert,164,3,40
+2898,s0494_08[TRUC].png.min,Trunc,67,4,14
+2899,f0441_10[TOZI].png.min,Thresh to Zero Invert,174,1,50
+2900,f0352_09[BINA].png.min,Binary,92,5,5
+2901,s0357_07[BINV].png.min,Binary Invert,128,3,44
+2902,s0342_10[TRUC].png.min,Trunc,71,3,44
+2903,s0258_04.png.min,No Filter,126,5,2
+2904,s0306_03[TRUC].png.min,Trunc,95,4,6
+2905,s0419_08[TOZI].png.min,Thresh to Zero Invert,323,2,27
+2906,f0385_07.png.min,No Filter,127,2,26
+2907,s0443_06[BINA].png.min,Binary,63,2,32
+2908,f0415_04.png.min,No Filter,119,1,43
+2909,s0295_07[TZER].png.min,Thresh to Zero,25,2,4
+2910,s0313_08[TRUC].png.min,Trunc,141,3,34
+2911,f0412_07[BINA].png.min,Binary,136,2,35
+2912,s0469_07[TRUC].png.min,Trunc,149,3,41
+2913,s0454_04[TRUC].png.min,Trunc,166,2,48
+2914,f0305_01[BINV].png.min,Binary Invert,121,5,23
+2915,s0399_02[BINV].png.min,Binary Invert,18,2,12
+2916,f0302_01[BINV].png.min,Binary Invert,124,3,41
+2917,f0475_03[BINA].png.min,Binary,76,3,31
+2918,f0372_07[TOZI].png.min,Thresh to Zero Invert,216,4,23
+2919,s0433_03[TRUC].png.min,Trunc,13,2,49
+2920,s0332_03[BINV].png.min,Binary Invert,98,2,14
+2921,f0300_08[TRUC].png.min,Trunc,169,3,42
+2922,s0324_04[BINV].png.min,Binary Invert,102,2,41
+2923,f0360_09[BINA].png.min,Binary,98,1,59
+2924,f0306_03[TZER].png.min,Thresh to Zero,124,3,40
+2925,f0347_02[TRUC].png.min,Trunc,73,1,50
+2926,s0345_05[TOZI].png.min,Thresh to Zero Invert,54,2,45
+2927,s0497_05[BINA].png.min,Binary,20,5,6
+2928,s0260_02[TRUC].png.min,Trunc,127,3,10
+2929,s0465_08[TZER].png.min,Thresh to Zero,126,5,16
+2930,s0474_06[TZER].png.min,Thresh to Zero,47,3,15
+2931,f0410_06[TOZI].png.min,Thresh to Zero Invert,110,4,25
+2932,s0261_01[BINA].png.min,Binary,95,1,59
+2933,s0373_09[TOZI].png.min,Thresh to Zero Invert,199,3,40
+2934,f0402_01[BINV].png.min,Binary Invert,68,5,14
+2935,f0369_04[TOZI].png.min,Thresh to Zero Invert,189,2,49
+2936,f0353_03[BINA].png.min,Binary,55,2,50
+2937,s0449_05[TOZI].png.min,Thresh to Zero Invert,350,2,42
+2938,f0421_01.png.min,No Filter,135,3,52
+2939,f0484_05[BINV].png.min,Binary Invert,83,1,48
+2940,f0442_04[TRUC].png.min,Trunc,132,4,12
+2941,s0417_08[TOZI].png.min,Thresh to Zero Invert,271,1,46
+2942,f0418_02[TRUC].png.min,Trunc,113,2,42
+2943,s0301_02[TRUC].png.min,Trunc,122,1,34
+2944,s0364_03[TZER].png.min,Thresh to Zero,73,4,23
+2945,f0420_09[TZER].png.min,Thresh to Zero,103,1,37
+2946,f0321_05[TOZI].png.min,Thresh to Zero Invert,140,3,14
+2947,s0319_06[BINA].png.min,Binary,102,3,43
+2948,s0452_06[TZER].png.min,Thresh to Zero,143,2,36
+2949,f0411_05[BINA].png.min,Binary,49,4,14
+2950,s0424_03.png.min,No Filter,125,4,31
+2951,f0480_04[TOZI].png.min,Thresh to Zero Invert,148,2,48
+2952,f0479_07[BINV].png.min,Binary Invert,75,5,16
+2953,s0305_01[BINV].png.min,Binary Invert,85,5,21
+2954,s0382_01[TOZI].png.min,Thresh to Zero Invert,67,4,23
+2955,f0263_05[TZER].png.min,Thresh to Zero,34,1,41
+2956,s0391_01[TOZI].png.min,Thresh to Zero Invert,347,5,6
+2957,s0342_10[BINV].png.min,Binary Invert,85,4,15
+2958,f0394_07[TOZI].png.min,Thresh to Zero Invert,79,5,23
+2959,s0269_01[BINA].png.min,Binary,2,2,45
+2960,s0493_01[BINA].png.min,Binary,122,3,45
+2961,s0285_08.png.min,No Filter,126,3,43
+2962,f0317_05.png.min,No Filter,100,4,19
+2963,s0333_08[TRUC].png.min,Trunc,147,4,11
+2964,f0376_01[TZER].png.min,Thresh to Zero,116,1,46
+2965,s0456_06[BINA].png.min,Binary,115,5,16
+2966,f0479_07.png.min,No Filter,80,4,21
+2967,f0402_01[TOZI].png.min,Thresh to Zero Invert,210,2,46
+2968,f0320_10[TZER].png.min,Thresh to Zero,58,2,43
+2969,f0457_09.png.min,No Filter,77,5,12
+2970,s0451_10[BINA].png.min,Binary,28,5,10
+2971,s0303_03[TOZI].png.min,Thresh to Zero Invert,257,2,45
+2972,f0459_05[TOZI].png.min,Thresh to Zero Invert,198,1,52
+2973,s0421_01[TRUC].png.min,Trunc,143,3,20
+2974,f0379_06[BINV].png.min,Binary Invert,161,1,57
+2975,f0374_04[BINV].png.min,Binary Invert,62,2,48
+2976,s0382_01[BINV].png.min,Binary Invert,0,3,50
+2977,s0426_04[TRUC].png.min,Trunc,54,1,45
+2978,s0454_04[TZER].png.min,Thresh to Zero,52,4,29
+2979,s0359_03[TOZI].png.min,Thresh to Zero Invert,328,1,50
+2980,f0312_08[TZER].png.min,Thresh to Zero,144,3,31
+2981,s0484_05.png.min,No Filter,134,5,1
+2982,f0316_03[TRUC].png.min,Trunc,116,2,19
+2983,f0343_09[BINA].png.min,Binary,4,3,38
+2984,f0253_08[TOZI].png.min,Thresh to Zero Invert,209,1,45
+2985,f0401_08[TZER].png.min,Thresh to Zero,87,2,39
+2986,f0337_08[BINV].png.min,Binary Invert,83,2,47
+2987,s0497_05.png.min,No Filter,137,1,50
+2988,f0384_09[TOZI].png.min,Thresh to Zero Invert,218,4,22
+2989,f0259_10[TRUC].png.min,Trunc,111,2,37
+2990,s0304_08[TRUC].png.min,Trunc,98,1,40
+2991,s0480_04[BINA].png.min,Binary,96,5,5
+2992,s0293_01[TZER].png.min,Thresh to Zero,63,2,36
+2993,f0306_03[TRUC].png.min,Trunc,60,1,41
+2994,s0327_08[TOZI].png.min,Thresh to Zero Invert,243,2,42
+2995,f0380_04[TRUC].png.min,Trunc,129,3,13
+2996,s0491_05[BINA].png.min,Binary,111,1,53
+2997,f0306_03.png.min,No Filter,122,4,24
+2998,f0276_09[TZER].png.min,Thresh to Zero,79,2,17
+2999,s0426_04[TOZI].png.min,Thresh to Zero Invert,182,3,17
