@@ -1,7 +1,0 @@
-,nome,filtro,minucias,nfiq,nfiq2
-0,f0001_01[TOZI].png.min,Thresh to Zero Invert,270,3,24
-1,f0001_01[TRUC].png.min,Trunc,130,3,25
-2,f0001_01.png.min,No Filter,137,1,46
-3,f0001_01[TZER].png.min,Thresh to Zero,121,3,24
-4,f0001_01[BINA].png.min,Binary,126,1,42
-5,f0001_01[BINV].png.min,Binary Invert,123,3,21
